@@ -1,0 +1,1446 @@
+© 2000-2021 QIAGEN. All rights reserved.
+
+Analysis Details for My Projects->Adult_WM_vs_GM->WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM
+Workspace	My Projects
+Project	Adult_WM_vs_GM
+Analysis	WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM
+Date	Wed Dec 23 14:29:42 PST 2020
+Analysis ID	24400012
+
+Analysis Settings
+Cutoff before duplicate resolution	true
+Resolve duplicate on	Expression logfoldchange
+Color using	Expression logfoldchange
+Cutoff for Expression logfoldchange	--
+Cutoff for Expression pvalue	--
+Reference set	Ingenuity Knowledge Base (Genes Only)
+Relationship to include	Direct and Indirect
+Includes Endogenous Chemicals	Yes
+Optional Analyses	My Pathways My List
+Filter Summary	
+Consider only molecules and/or relationships where
+(confidence = Experimentally Observed) AND
+(tissues/cell lines = Nervous System not otherwise specified OR Purkinje cells OR Striatum OR Other Stem cells OR Caudate Nucleus OR SF-539 OR Cerebral Cortex OR Stem cells not otherwise specified OR CNS Cell Lines not otherwise specified OR Dorsal Root Ganglion OR Ventricular Zone OR Hypothalamus OR SNB-75 OR Cerebellum OR Embryonic stem cells OR Granule Cell Layer OR Amygdala OR Spinal Cord OR SF-295 OR Subventricular Zone OR Granule cells OR Parietal Lobe OR Other Neurons OR Gray Matter OR U251 OR U87MG OR Trigeminal Ganglion OR Hippocampus OR Other Nervous System OR Brain OR Mesenchymal stem cells OR Thalamus OR Other CNS Cell Lines OR Substantia Nigra OR Nucleus Accumbens OR White Matter OR Medulla Oblongata OR Putamen OR Pyramidal neurons OR Sciatic Nerve OR Corpus Callosum OR SF-268 OR Choroid Plexus OR Cortical neurons OR Astrocytes OR Olfactory Bulb OR Cerebral Ventricles OR Neurons not otherwise specified OR Pituitary Gland OR Brainstem) AND
+(mol. types = biologic drug OR canonical pathway OR chemical - endogenous mammalian OR chemical - endogenous non-mammalian OR chemical - kinase inhibitor OR chemical - other OR chemical - protease inhibitor OR chemical drug OR chemical reagent OR chemical toxicant OR complex OR cytokine OR disease OR enzyme OR function OR fusion gene/product OR G-protein coupled receptor OR group OR growth factor OR ion channel OR kinase OR ligand-dependent nuclear receptor OR mature microRNA OR microRNA OR other OR peptidase OR phosphatase OR transcription regulator OR translation regulator OR transmembrane receptor OR transporter)
+
+Canonical Pathways for My Projects->Adult_WM_vs_GM->WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM
+Ingenuity Canonical Pathways	 -log(p-value)	zScore	Ratio	Molecules
+Adipogenesis pathway	-0E00		7.69E-03	CEBPB	
+Aldosterone Signaling in Epithelial Cells	-0E00		1.43E-02	PDIA3,PIK3C2B	
+Altered T Cell and B Cell Signaling in Rheumatoid Arthritis	-0E00		1.59E-02	IL6	
+Androgen Signaling	-0E00		1.53E-02	EP300,JUN	
+Basal Cell Carcinoma Signaling	-0E00		1.49E-02	LEF1	
+CCR5 Signaling in Macrophages	-0E00		1.18E-02	JUN	
+Cellular Effects of Sildenafil (Viagra)	-0E00		1.75E-02	MYLK,PDIA3	
+Cyclins and Cell Cycle Regulation	-0E00		1.27E-02	CCNA2	
+D-myo-inositol (1,4,5,6)-Tetrakisphosphate Biosynthesis	-0E00		1.61E-02	MTMR9,TNS3	
+D-myo-inositol (3,4,5,6)-tetrakisphosphate Biosynthesis	-0E00		1.61E-02	MTMR9,TNS3	
+D-myo-inositol-5-phosphate Metabolism	-0E00		1.46E-02	MTMR9,TNS3	
+Dopamine-DARPP32 Feedback in cAMP Signaling	-0E00		1.32E-02	ATF1,PDIA3	
+G Beta Gamma Signaling	-0E00		8.55E-03	RRAS2	
+G-Protein Coupled Receptor Signaling	-0E00		1.89E-02	CNR1,GPR17,PIK3C2B,RRAS2,STAT3	
+GNRH Signaling	-0E00		1.81E-02	JUN,PAK2,RRAS2	
+GPCR-Mediated Integration of Enteroendocrine Signaling Exemplified by an L Cell	-0E00		1.52E-02	PDIA3	
+GPCR-Mediated Nutrient Sensing in Enteroendocrine Cells	-0E00		9.90E-03	PDIA3	
+Gap Junction Signaling	-0E00		1.68E-02	PDIA3,PIK3C2B,RRAS2	
+Glioma Signaling	-0E00		1.83E-02	PIK3C2B,RRAS2	
+Gustation Pathway	-0E00		8.33E-03	PANX1	
+Gαq Signaling	-0E00		1.34E-02	NFATC3,PIK3C2B	
+Gαs Signaling	-0E00		9.52E-03	CNR1	
+Inhibition of ARE-Mediated mRNA Degradation Pathway	-0E00		1.75E-02	TIA1,ZFP36L2	
+Melatonin Signaling	-0E00		1.49E-02	PDIA3	
+Mitochondrial Dysfunction	-0E00		1.86E-02	MT-CO2,MT-ND4,NDUFV2	
+Mitotic Roles of Polo-Like Kinase	-0E00		1.64E-02	SLK	
+NGF Signaling	-0E00		1.82E-02	PIK3C2B,RRAS2	
+Netrin Signaling	-0E00		1.64E-02	NFATC3	
+Neuroprotective Role of THOP1 in Alzheimer's Disease	-0E00		1.27E-02	HLA-E	
+Nur77 Signaling in T Lymphocytes	-0E00		1.72E-02	EP300	
+Opioid Signaling Pathway	-0E00		8.58E-03	EP300,RRAS2	
+Production of Nitric Oxide and Reactive Oxygen Species in Macrophages	-0E00		1.20E-02	JUN,PIK3C2B	
+Pyridoxal 5'-phosphate Salvage Pathway	-0E00		1.61E-02	PAK2	
+RAR Activation	-0E00		1.69E-02	EP300,JUN,MMP1	
+Relaxin Signaling	-0E00		1.44E-02	JUN,PIK3C2B	
+Role of BRCA1 in DNA Damage Response	-0E00		1.33E-02	ATF1	
+Salvage Pathways of Pyrimidine Ribonucleotides	-0E00		1.18E-02	PAK2	
+Sperm Motility	-0E00		1.06E-02	FLT1,PDIA3	
+Synaptic Long Term Depression	-0E00		1.20E-02	PDIA3,RRAS2	
+White Adipose Tissue Browning Pathway	-0E00		1.68E-02	CEBPB,THRA	
+Xenobiotic Metabolism CAR Signaling Pathway	-0E00		1.39E-02	EP300,GSTO1	
+Xenobiotic Metabolism PXR Signaling Pathway	-0E00		1.40E-02	EP300,GSTO1	
+cAMP-mediated signaling	-0E00		1.38E-02	CNR1,GPR17,STAT3	
+α-Adrenergic Signaling	-0E00		1.09E-02	RRAS2	
+Calcium-induced T Lymphocyte Apoptosis	2E-01		1.92E-02	EP300	
+Cell Cycle Control of Chromosomal Replication	2E-01		1.92E-02	CDK16	
+Eicosanoid Signaling	2E-01		1.92E-02	PTGS2	
+PXR/RXR Activation	2E-01		1.92E-02	IL6	
+Heparan Sulfate Biosynthesis	2.1E-01		2.00E-02	XYLT2	
+MSP-RON Signaling Pathway	2.1E-01		2.00E-02	PIK3C2B	
+CD27 Signaling in Lymphocytes	2.15E-01		2.04E-02	JUN	
+Cell Cycle: G2/M DNA Damage Checkpoint Regulation	2.21E-01		2.08E-02	EP300	
+IL-15 Production	2.26E-01		1.90E-02	FLT1,IL6	
+Spliceosomal Cycle	2.26E-01		2.13E-02	ZNF830	
+Phospholipases	2.32E-01		2.17E-02	PDIA3	
+Role of Oct4 in Mammalian Embryonic Stem Cell Pluripotency	2.32E-01		2.17E-02	ETS2	
+Role of PI3K/AKT Signaling in the Pathogenesis of Influenza	2.32E-01		2.17E-02	PIK3C2B	
+Ephrin A Signaling	2.38E-01		2.22E-02	PIK3C2B	
+Dermatan Sulfate Biosynthesis	2.44E-01		2.27E-02	XYLT2	
+Transcriptional Regulatory Network in Embryonic Stem Cells	2.44E-01		2.27E-02	STAT3	
+Sumoylation Pathway	2.5E-01		2.02E-02	EP300,JUN	
+PFKFB4 Signaling Pathway	2.51E-01		2.33E-02	NCOA3	
+Apelin Pancreas Signaling Pathway	2.57E-01		2.38E-02	PIK3C2B	
+Sirtuin Signaling Pathway	2.63E-01	0.4472135954999579	1.93E-02	JUN,MT-ND4,NDUFV2,STAT3,ZIC2	
+Type I Diabetes Mellitus Signaling	2.63E-01		2.08E-02	HLA-E,IL1R1	
+Chondroitin Sulfate Biosynthesis	2.64E-01		2.44E-02	XYLT2	
+Neuropathic Pain Signaling In Dorsal Horn Neurons	2.67E-01		2.11E-02	PDIA3,PIK3C2B	
+iCOS-iCOSL Signaling in T Helper Cells	2.67E-01		2.11E-02	NFATC3,PIK3C2B	
+Nicotine Degradation II	2.71E-01		2.50E-02	CYP1B1	
+Kinetochore Metaphase Signaling Pathway	2.72E-01		2.13E-02	BOD1,MACROH2A1	
+NER Pathway	2.72E-01		2.13E-02	COPS2,EP300	
+3-phosphoinositide Biosynthesis	2.76E-01		2.04E-02	MTMR9,PIK3C2B,TNS3	
+Role of IL-17F in Allergic Inflammatory Airway Diseases	2.79E-01		2.56E-02	IL6	
+SPINK1 Pancreatic Cancer Pathway	2.79E-01		2.56E-02	TGFBR2	
+Stearate Biosynthesis I (Animals)	2.79E-01		2.56E-02	ACSL5	
+Superpathway of Melatonin Degradation	2.79E-01		2.56E-02	CYP1B1	
+ATM Signaling	2.86E-01		2.20E-02	ATF1,JUN	
+Triacylglycerol Biosynthesis	2.94E-01		2.70E-02	GPAT3	
+Thrombin Signaling	3.09E-01		2.09E-02	MYLK,PDIA3,PIK3C2B,RRAS2	
+Allograft Rejection Signaling	3.11E-01		2.86E-02	HLA-E	
+Docosahexaenoic Acid (DHA) Signaling	3.11E-01		2.86E-02	PIK3C2B	
+Melatonin Degradation I	3.11E-01		2.86E-02	CYP1B1	
+TWEAK Signaling	3.11E-01		2.86E-02	CASP7	
+3-phosphoinositide Degradation	3.12E-01		2.17E-02	MTMR9,SYNJ2,TNS3	
+Factors Promoting Cardiogenesis in Vertebrates	3.16E-01		2.19E-02	LEF1,PDIA3,TGFBR2	
+Calcium Signaling	3.2E-01		2.13E-02	ASPH,EP300,NFATC3,TPM3	
+Nicotine Degradation III	3.2E-01		2.94E-02	CYP1B1	
+RANK Signaling in Osteoclasts	3.23E-01		2.38E-02	JUN,PIK3C2B	
+Corticotropin Releasing Hormone Signaling	3.25E-01		2.22E-02	CNR1,JUN,PTGS2	
+Hereditary Breast Cancer Signaling	3.3E-01		2.24E-02	EP300,PIK3C2B,RRAS2	
+Airway Pathology in Chronic Obstructive Pulmonary Disease	3.35E-01		2.44E-02	IL6,MMP1	
+Type II Diabetes Mellitus Signaling	3.39E-01		2.27E-02	ACSL5,CEBPB,PIK3C2B	
+4-1BB Signaling in T Lymphocytes	3.39E-01		3.12E-02	JUN	
+Circadian Rhythm Signaling	3.39E-01		3.12E-02	CRY1	
+Interferon Signaling	3.39E-01		3.12E-02	IFNAR2	
+Role of JAK2 in Hormone-like Cytokine Signaling	3.39E-01		3.12E-02	STAT3	
+BMP signaling pathway	3.47E-01		2.50E-02	JUN,RRAS2	
+Regulation Of The Epithelial Mesenchymal Transition In Development Pathway	3.47E-01		2.50E-02	ADAM17,LEF1	
+Phagosome Maturation	3.48E-01		2.31E-02	ATP6V0E1,HLA-E,PRDX1	
+Autoimmune Thyroid Disease Signaling	3.49E-01		3.23E-02	HLA-E	
+Estrogen Biosynthesis	3.49E-01		3.23E-02	CYP1B1	
+FGF Signaling	3.53E-01		2.53E-02	PIK3C2B,STAT3	
+Role of RIG1-like Receptors in Antiviral Innate Immunity	3.59E-01		3.33E-02	EP300	
+TNFR2 Signaling	3.59E-01		3.33E-02	JUN	
+Triacylglycerol Degradation	3.59E-01		3.33E-02	ABHD12	
+Human Embryonic Stem Cell Pluripotency	3.68E-01		2.38E-02	LEF1,PIK3C2B,TGFBR2	
+Chemokine Signaling	3.8E-01		2.67E-02	JUN,RRAS2	
+MIF-mediated Glucocorticoid Regulation	3.82E-01		3.57E-02	PTGS2	
+Role of Cytokines in Mediating Communication between Immune Cells	3.82E-01		3.57E-02	IL6	
+Superpathway of Cholesterol Biosynthesis	3.82E-01		3.57E-02	NSDHL	
+Role of Pattern Recognition Receptors in Recognition of Bacteria and Viruses	3.84E-01		2.44E-02	CASP1,IL6,PIK3C2B	
+p70S6K Signaling	3.89E-01		2.46E-02	PDIA3,PIK3C2B,RRAS2	
+CTLA4 Signaling in Cytotoxic T Lymphocytes	3.94E-01		2.74E-02	HLA-E,PIK3C2B	
+Complement System	3.94E-01		3.70E-02	CD55	
+Synaptic Long Term Potentiation	3.94E-01		2.48E-02	EP300,PDIA3,RRAS2	
+Antiproliferative Role of Somatostatin Receptor 2	4.01E-01		2.78E-02	PIK3C2B,RRAS2	
+Non-Small Cell Lung Cancer Signaling	4.01E-01		2.78E-02	PIK3C2B,RRAS2	
+Endocannabinoid Neuronal Synapse Pathway	4.06E-01		2.52E-02	CNR1,PDIA3,PTGS2	
+Estrogen-mediated S-phase Entry	4.07E-01		3.85E-02	CCNA2	
+Fatty Acid β-oxidation I	4.07E-01		3.85E-02	ACSL5	
+Role of p14/p19ARF in Tumor Suppression	4.07E-01		3.85E-02	PIK3C2B	
+FcγRIIB Signaling in B Lymphocytes	4.08E-01		2.82E-02	PIK3C2B,RRAS2	
+ERK5 Signaling	4.16E-01		2.86E-02	IL6ST,RRAS2	
+Small Cell Lung Cancer Signaling	4.16E-01		2.86E-02	PIK3C2B,PTGS2	
+Hematopoiesis from Pluripotent Stem Cells	4.2E-01		4.00E-02	IL6	
+Glioma Invasiveness Signaling	4.23E-01		2.90E-02	PIK3C2B,RRAS2	
+Toll-like Receptor Signaling	4.23E-01		2.90E-02	IRAK2,JUN	
+Role of MAPK Signaling in the Pathogenesis of Influenza	4.31E-01		2.94E-02	PTGS2,RRAS2	
+Acetone Degradation I (to Methylglyoxal)	4.34E-01		4.17E-02	CYP1B1	
+IL-7 Signaling Pathway	4.39E-01		2.99E-02	JUN,PIK3C2B	
+Growth Hormone Signaling	4.48E-01		3.03E-02	PIK3C2B,STAT3	
+IL-17A Signaling in Gastric Cells	4.48E-01		4.35E-02	JUN	
+Phosphatidylglycerol Biosynthesis II (Non-plastidic)	4.48E-01		4.35E-02	GPAT3	
+Hepatic Cholestasis	4.49E-01		2.52E-02	IL1R1,IL6,IRAK2,JUN	
+Crosstalk between Dendritic Cells and Natural Killer Cells	4.56E-01		3.08E-02	HLA-E,IL6	
+CXCR4 Signaling	4.59E-01	-1.0	2.55E-02	JUN,PAK2,PIK3C2B,RRAS2	
+Cholecystokinin/Gastrin-mediated Signaling	4.6E-01		2.73E-02	JUN,PTGS2,RRAS2	
+IL-22 Signaling	4.64E-01		4.55E-02	STAT3	
+Glioblastoma Multiforme Signaling	4.65E-01	-2.0	2.56E-02	LEF1,PDIA3,PIK3C2B,RRAS2	
+GP6 Signaling Pathway	4.67E-01		2.75E-02	COL4A1,LAMC2,PIK3C2B	
+AMPK Signaling	4.67E-01	-1.3416407864998738	2.46E-02	CCNA2,EP300,PIK3C2B,RAB1A,RAB27A	
+Role of NFAT in Regulation of the Immune Response	4.7E-01	-1.0	2.58E-02	JUN,NFATC3,PIK3C2B,RRAS2	
+CDP-diacylglycerol Biosynthesis I	4.8E-01		4.76E-02	GPAT3	
+Glutathione-mediated Detoxification	4.8E-01		4.76E-02	GSTO1	
+Polyamine Regulation in Colon Cancer	4.8E-01		4.76E-02	OAZ1	
+TCA Cycle II (Eukaryotic)	4.8E-01		4.76E-02	IDH3A	
+Fc Epsilon RI Signaling	4.94E-01		2.86E-02	PIK3C2B,RRAS2,SYNJ2	
+Bupropion Degradation	4.97E-01		5.00E-02	CYP1B1	
+Endoplasmic Reticulum Stress Pathway	4.97E-01		5.00E-02	CASP7	
+Communication between Innate and Adaptive Immune Cells	5.02E-01		3.33E-02	HLA-E,IL6	
+Oxidative Phosphorylation	5.16E-01		2.94E-02	MT-CO2,MT-ND4,NDUFV2	
+Erythropoietin Signaling Pathway	5.23E-01	0.0	2.74E-02	IL6,JUN,PIK3C2B,RRAS2	
+Telomerase Signaling	5.23E-01		2.97E-02	ETS2,PIK3C2B,RRAS2	
+PCP pathway	5.32E-01		3.51E-02	JUN,PRICKLE1	
+1D-myo-inositol Hexakisphosphate Biosynthesis II (Mammalian)	5.35E-01		5.56E-02	SYNJ2	
+D-myo-inositol (1,3,4)-trisphosphate Biosynthesis	5.35E-01		5.56E-02	SYNJ2	
+eNOS Signaling	5.42E-01		2.80E-02	CCNA2,FLT1,PGF,PIK3C2B	
+Semaphorin Signaling in Neurons	5.42E-01		3.57E-02	ITGB1,PAK2	
+Wnt/Ca+ pathway	5.42E-01		3.57E-02	NFATC3,PDIA3	
+FAT10 Signaling Pathway	5.56E-01		5.88E-02	UBE2Z	
+Fatty Acid α-oxidation	5.56E-01		5.88E-02	PTGS2	
+Lipid Antigen Presentation by CD1	5.56E-01		5.88E-02	PDIA3	
+Apoptosis Signaling	5.62E-01		3.12E-02	CASP2,CASP7,RRAS2	
+Unfolded protein response	5.75E-01		3.77E-02	CEBPB,SEL1L	
+Huntington's Disease Signaling	5.77E-01	1.3416407864998738	2.63E-02	CASP1,CASP2,CASP7,EP300,JUN,PIK3C2B	
+Phospholipase C Signaling	5.82E-01	-1.3416407864998738	2.64E-02	EP300,ITGA2,ITGA6,ITGB1,NFATC3,RRAS2	
+UVC-Induced MAPK Signaling	5.99E-01		3.92E-02	JUN,RRAS2	
+Dermatan Sulfate Degradation (Metazoa)	6.03E-01		6.67E-02	CEMIP2	
+Differential Regulation of Cytokine Production in Macrophages and T Helper Cells by IL-17A and IL-17F	6.03E-01		6.67E-02	IL6	
+RAN Signaling	6.03E-01		6.67E-02	KPNA5	
+Adrenomedullin signaling pathway	6.04E-01	-2.0	2.81E-02	CEBPB,MYLK,PDIA3,PIK3C2B,RRAS2	
+Melanocyte Development and Pigmentation Signaling	6.05E-01		3.30E-02	EP300,PIK3C2B,RRAS2	
+Superpathway of Inositol Phosphate Compounds	6.1E-01	-1.3416407864998738	2.82E-02	MTMR9,PIK3C2B,PPIP5K2,SYNJ2,TNS3	
+PKCθ Signaling in T Lymphocytes	6.1E-01	-1.0	3.01E-02	JUN,NFATC3,PIK3C2B,RRAS2	
+IL-1 Signaling	6.14E-01		3.33E-02	IL1R1,IRAK2,JUN	
+Insulin Receptor Signaling	6.18E-01	-1.0	3.03E-02	PIK3C2B,RAPGEF1,RRAS2,SYNJ2	
+LPS/IL-1 Mediated Inhibition of RXR Function	6.23E-01		2.86E-02	ABCG1,ACSL5,GSTO1,IL1R1,JUN	
+Apelin Cardiomyocyte Signaling Pathway	6.23E-01		3.37E-02	MYLK,PDIA3,PIK3C2B	
+Nitric Oxide Signaling in the Cardiovascular System	6.23E-01		3.37E-02	FLT1,PGF,PIK3C2B	
+PD-1, PD-L1 cancer immunotherapy pathway	6.23E-01		3.37E-02	HLA-E,LATS2,PIK3C2B	
+Maturity Onset Diabetes of Young (MODY) Signaling	6.24E-01		4.08E-02	APOL3,EP300	
+Melanoma Signaling	6.24E-01		4.08E-02	PIK3C2B,RRAS2	
+Necroptosis Signaling Pathway	6.25E-01	-2.0	3.05E-02	CASP1,CFLAR,FKBP1A,TNFRSF10B	
+Chondroitin Sulfate Degradation (Metazoa)	6.29E-01		7.14E-02	CEMIP2	
+Mitochondrial L-carnitine Shuttle Pathway	6.29E-01		7.14E-02	ACSL5	
+γ-linolenate Biosynthesis II (Animals)	6.29E-01		7.14E-02	ACSL5	
+Prostate Cancer Signaling	6.32E-01		3.41E-02	LEF1,PIK3C2B,RRAS2	
+Activation of IRF by Cytosolic Pattern Recognition Receptors	6.37E-01		4.17E-02	IL6,JUN	
+UVB-Induced MAPK Signaling	6.37E-01		4.17E-02	JUN,PIK3C2B	
+Antioxidant Action of Vitamin C	6.42E-01		3.45E-02	GSTO1,PDIA3,TXNRD1	
+CREB Signaling in Neurons	6.57E-01	-1.7320508075688774	2.42E-02	ADGRF5,ADGRL4,CNR1,EDNRB,EP300,FLT1,GPR17,GPR19,GPR4,PDIA3,PIK3C2B,RRAS2,TGFBR2	
+Cholesterol Biosynthesis I	6.57E-01		7.69E-02	NSDHL	
+Cholesterol Biosynthesis II (via 24,25-dihydrolanosterol)	6.57E-01		7.69E-02	NSDHL	
+Cholesterol Biosynthesis III (via Desmosterol)	6.57E-01		7.69E-02	NSDHL	
+Protein Kinase A Signaling	6.6E-01	-1.1338934190276817	2.58E-02	ATF1,DUSP3,LEF1,MYLK,NFATC3,PDIA3,PTGS2,PTPRE,TGFBR2	
+Bladder Cancer Signaling	6.61E-01		3.53E-02	MMP1,PGF,RRAS2	
+Ceramide Signaling	6.61E-01		3.53E-02	JUN,PIK3C2B,RRAS2	
+iNOS Signaling	6.78E-01		4.44E-02	IRAK2,JUN	
+Gαi Signaling	6.8E-01	0.0	3.23E-02	CNR1,GPR17,RRAS2,STAT3	
+Granzyme A Signaling	6.88E-01		8.33E-02	EP300	
+Wnt/β-catenin Signaling	6.9E-01	1.0	3.03E-02	CDH5,EP300,JUN,LEF1,TGFBR2	
+HIPPO signaling	6.92E-01		3.66E-02	LATS2,MOB1A,WWTR1	
+OX40 Signaling Pathway	6.93E-01		4.55E-02	HLA-E,JUN	
+Breast Cancer Regulation by Stathmin1	6.95E-01	-0.2773500981126146	2.47E-02	ADGRF5,ADGRL4,CNR1,EDNRB,GPR17,GPR19,GPR4,JUN,PGF,PIK3C2B,RRAS2,STAT3,STMN1	
+B Cell Receptor Signaling	7.04E-01	-0.4472135954999579	3.07E-02	JUN,NFATC3,PIK3C2B,RRAS2,SYNJ2	
+Gα12/13 Signaling	7.05E-01	0.0	3.31E-02	CDH5,JUN,PIK3C2B,RRAS2	
+P2Y Purigenic Receptor Signaling Pathway	7.13E-01	-1.0	3.33E-02	JUN,PDIA3,PIK3C2B,RRAS2	
+UDP-N-acetyl-D-galactosamine Biosynthesis II	7.22E-01		9.09E-02	PGM3	
+Retinoic acid Mediated Apoptosis Signaling	7.24E-01		4.76E-02	CFLAR,TNFRSF10B	
+Protein Ubiquitination Pathway	7.28E-01		2.85E-02	HLA-E,PSMB4,UBE2H,UBE2J1,UBE2K,UBE2Z,USP53	
+FLT3 Signaling in Hematopoietic Progenitor Cells	7.35E-01		3.85E-02	PIK3C2B,RRAS2,STAT3	
+IL-23 Signaling Pathway	7.4E-01		4.88E-02	PIK3C2B,STAT3	
+14-3-3-mediated Signaling	7.4E-01	-1.0	3.42E-02	JUN,PDIA3,PIK3C2B,RRAS2	
+Tight Junction Signaling	7.49E-01		3.18E-02	CLDN5,JUN,MAGI2,MYLK,TGFBR2	
+B Cell Activating Factor Signaling	7.56E-01		5.00E-02	JUN,NFATC3	
+Extrinsic Prothrombin Activation Pathway	7.59E-01		1.00E-01	TFPI	
+Fatty Acid Activation	7.59E-01		1.00E-01	ACSL5	
+Glycogen Degradation III	7.59E-01		1.00E-01	PGM3	
+Prostanoid Biosynthesis	7.59E-01		1.00E-01	PTGS2	
+Macropinocytosis Signaling	7.7E-01		4.00E-02	ITGB1,PIK3C2B,RRAS2	
+April Mediated Signaling	7.73E-01		5.13E-02	JUN,NFATC3	
+CCR3 Signaling in Eosinophils	7.77E-01		3.54E-02	MYLK,PAK2,PIK3C2B,RRAS2	
+Role of NANOG in Mammalian Embryonic Stem Cell Pluripotency	7.77E-01	-2.0	3.54E-02	IL6ST,PIK3C2B,RRAS2,STAT3	
+Th2 Pathway	7.77E-01		3.54E-02	ICAM1,JUN,PIK3C2B,TGFBR2	
+GDNF Family Ligand-Receptor Interactions	7.82E-01		4.05E-02	JUN,PIK3C2B,RRAS2	
+Neurotrophin/TRK Signaling	7.82E-01		4.05E-02	JUN,PIK3C2B,RRAS2	
+Endocannabinoid Developing Neuron Pathway	7.87E-01	-1.0	3.57E-02	CNR1,PIK3C2B,RRAS2,STAT3	
+Glycogen Degradation II	8.01E-01		1.11E-01	PGM3	
+Angiopoietin Signaling	8.06E-01		4.17E-02	PAK2,PIK3C2B,RRAS2	
+IL-15 Signaling	8.06E-01		4.17E-02	PIK3C2B,RRAS2,STAT3	
+Xenobiotic Metabolism Signaling	8.1E-01		3.00E-02	CYP1B1,EP300,FTL,GSTO1,IL6,PIK3C2B,RRAS2	
+Role of PKR in Interferon Induction and Antiviral Response	8.27E-01	-1.0	3.70E-02	CASP1,IFNAR2,JUN,STAT3	
+MIF Regulation of Innate Immunity	8.28E-01		5.56E-02	JUN,PTGS2	
+IL-12 Signaling and Production in Macrophages	8.47E-01		3.77E-02	CEBPB,EP300,JUN,PIK3C2B	
+Glucose and Glucose-1-phosphate Degradation	8.48E-01		1.25E-01	PGM3	
+γ-glutamyl Cycle	8.48E-01		1.25E-01	GCLM	
+Estrogen-Dependent Breast Cancer Signaling	8.59E-01		4.41E-02	JUN,PIK3C2B,RRAS2	
+GM-CSF Signaling	8.59E-01		4.41E-02	PIK3C2B,RRAS2,STAT3	
+Leptin Signaling in Obesity	8.59E-01		4.41E-02	PDIA3,PIK3C2B,STAT3	
+Regulation of the Epithelial-Mesenchymal Transition Pathway	8.62E-01		3.26E-02	ADAM17,LEF1,PIK3C2B,RRAS2,STAT3,TGFBR2	
+CDK5 Signaling	8.69E-01		3.85E-02	ITGA2,ITGA6,ITGB1,RRAS2	
+Cardiac Hypertrophy Signaling	8.86E-01	-1.1338934190276817	3.15E-02	EP300,IL6,JUN,PDIA3,PIK3C2B,RRAS2,TGFBR2	
+Role of JAK1 and JAK3 in γc Cytokine Signaling	8.87E-01		4.55E-02	PIK3C2B,RRAS2,STAT3	
+ErbB4 Signaling	9.01E-01		4.62E-02	ADAM17,PIK3C2B,RRAS2	
+GDP-glucose Biosynthesis	9.02E-01		1.43E-01	PGM3	
+Glycoaminoglycan-protein Linkage Region Biosynthesis	9.02E-01		1.43E-01	XYLT2	
+Inositol Pyrophosphates Biosynthesis	9.02E-01		1.43E-01	PPIP5K2	
+Dendritic Cell Maturation	9.04E-01	-2.0	3.60E-02	HLA-E,ICAM1,IL6,PDIA3,PIK3C2B	
+IL-9 Signaling	9.11E-01		6.25E-02	PIK3C2B,STAT3	
+Inhibition of Angiogenesis by TSP1	9.11E-01		6.25E-02	JUN,TGFBR2	
+Chronic Myeloid Leukemia Signaling	9.14E-01		4.00E-02	MECOM,PIK3C2B,RRAS2,TGFBR2	
+Role of MAPK Signaling in Inhibiting the Pathogenesis of Influenza	9.31E-01		4.76E-02	IL6,JUN,PTGS2	
+Antiproliferative Role of TOB in T Cell Signaling	9.34E-01		6.45E-02	CCNA2,TGFBR2	
+Inhibition of Matrix Metalloproteases	9.34E-01		6.45E-02	ADAM17,MMP1	
+Synaptogenesis Signaling Pathway	9.35E-01	-2.3333333333333335	3.01E-02	ACTR2,ACTR3,ARPC1B,ARPC3,CDH5,EIF4EBP2,PIK3C2B,RAPGEF1,RRAS2	
+Antigen Presentation Pathway	9.58E-01		6.67E-02	HLA-E,PDIA3	
+Graft-versus-Host Disease Signaling	9.58E-01		6.67E-02	HLA-E,IL6	
+Role of MAPK Signaling in Promoting the Pathogenesis of Influenza	9.61E-01	-1.0	4.17E-02	ATP6V0E1,JUN,PTGS2,RRAS2	
+Ovarian Cancer Signaling	9.63E-01		3.76E-02	LEF1,PGF,PIK3C2B,PTGS2,RRAS2	
+Ceramide Biosynthesis	9.65E-01		1.67E-01	KDSR	
+Thioredoxin Pathway	9.65E-01		1.67E-01	TXNRD1	
+Zymosterol Biosynthesis	9.65E-01		1.67E-01	NSDHL	
+SAPK/JNK Signaling	9.73E-01	0.0	4.21E-02	JUN,NFATC3,PIK3C2B,RRAS2	
+VEGF Signaling	9.73E-01	-2.0	4.21E-02	FLT1,PGF,PIK3C2B,RRAS2	
+IL-2 Signaling	9.78E-01		5.00E-02	JUN,PIK3C2B,RRAS2	
+Endometrial Cancer Signaling	9.95E-01		5.08E-02	LEF1,PIK3C2B,RRAS2	
+Role of Wnt/GSK-3β Signaling in the Pathogenesis of Influenza	9.95E-01		5.08E-02	LEF1,NCOA3,SIAH1	
+Amyotrophic Lateral Sclerosis Signaling	1.01E00	-2.0	4.35E-02	CASP1,CASP7,PGF,PIK3C2B	
+UVA-Induced MAPK Signaling	1.01E00		4.35E-02	JUN,PDIA3,PIK3C2B,RRAS2	
+Cancer Drug Resistance By Drug Efflux	1.01E00		5.17E-02	ABCG2,PTGS2,RRAS2	
+Role of Hypercytokinemia/hyperchemokinemia in the Pathogenesis of Influenza	1.01E00		5.17E-02	CASP1,IFNAR2,IL6	
+Death Receptor Signaling	1.02E00	-1.0	4.40E-02	CASP2,CASP7,CFLAR,TNFRSF10B	
+LXR/RXR Activation	1.02E00	2.0	4.40E-02	ABCG1,IL1R1,IL6,PTGS2	
+T Cell Receptor Signaling	1.02E00		4.40E-02	JUN,NFATC3,PIK3C2B,RRAS2	
+IL-17A Signaling in Airway Cells	1.03E00		5.26E-02	IL6,PIK3C2B,STAT3	
+PI3K Signaling in B Lymphocytes	1.04E00	-0.4472135954999579	3.97E-02	ATF1,JUN,NFATC3,PDIA3,RRAS2	
+ErbB Signaling	1.04E00	-1.0	4.44E-02	JUN,PAK2,PIK3C2B,RRAS2	
+Glycogen Biosynthesis II (from UDP-D-Glucose)	1.04E00		2.00E-01	GBE1	
+Myo-inositol Biosynthesis	1.04E00		2.00E-01	BPNT2	
+Pentose Phosphate Pathway (Non-oxidative Branch)	1.04E00		2.00E-01	RPE	
+UDP-N-acetyl-D-glucosamine Biosynthesis II	1.04E00		2.00E-01	PGM3	
+Role of NFAT in Cardiac Hypertrophy	1.04E00	-1.889822365046136	3.47E-02	EP300,IL6,IL6ST,PDIA3,PIK3C2B,RRAS2,TGFBR2	
+Natural Killer Cell Signaling	1.05E00	-1.6329931618554523	3.70E-02	HLA-E,ITGB1,NFATC3,PAK2,PIK3C2B,RRAS2	
+Iron homeostasis signaling pathway	1.06E00		4.03E-02	ATP6V0E1,FTL,IL6,IREB2,STAT3	
+Coagulation System	1.06E00		7.69E-02	SERPINE1,TFPI	
+Acute Myeloid Leukemia Signaling	1.08E00	-2.0	4.60E-02	LEF1,PIK3C2B,RRAS2,STAT3	
+EGF Signaling	1.08E00		5.56E-02	JUN,PIK3C2B,STAT3	
+Cytotoxic T Lymphocyte-mediated Apoptosis of Target Cells	1.09E00		8.00E-02	CASP7,HLA-E	
+Regulation of IL-2 Expression in Activated and Anergic T Lymphocytes	1.12E00		4.76E-02	JUN,NFATC3,RRAS2,TGFBR2	
+Arsenate Detoxification I (Glutaredoxin)	1.13E00		2.50E-01	GSTO1	
+Pentose Phosphate Pathway (Oxidative Branch)	1.13E00		2.50E-01	PGD	
+Role of IL-17A in Arthritis	1.14E00		5.88E-02	MMP1,PIK3C2B,PTGS2	
+LPS-stimulated MAPK Signaling	1.15E00	0.0	4.88E-02	ATF1,JUN,PIK3C2B,RRAS2	
+Superpathway of D-myo-inositol (1,4,5)-trisphosphate Metabolism	1.16E00		8.70E-02	BPNT2,SYNJ2	
+Xenobiotic Metabolism General Signaling Pathway	1.16E00	-1.3416407864998738	4.31E-02	EP300,FTL,GSTO1,PIK3C2B,RRAS2	
+Insulin Secretion Signaling Pathway	1.16E00	-1.414213562373095	3.51E-02	EIF4EBP2,EIF4G2,PDIA3,PIK3C2B,SEC11A,SPCS2,SSR1,STAT3	
+Lymphotoxin β Receptor Signaling	1.16E00		6.00E-02	EP300,PIK3C2B,VCAM1	
+Renin-Angiotensin Signaling	1.18E00	-1.0	4.39E-02	JUN,PAK2,PIK3C2B,RRAS2,STAT3	
+Myc Mediated Apoptosis Signaling	1.18E00		6.12E-02	CASP2,CFLAR,PMAIP1	
+PEDF Signaling	1.18E00	-1.0	5.00E-02	CASP7,CFLAR,PIK3C2B,RRAS2	
+TR/RXR Activation	1.18E00		5.00E-02	EP300,NCOA3,PIK3C2B,THRA	
+Apelin Cardiac Fibroblast Signaling Pathway	1.19E00		9.09E-02	IL6,SERPINE1	
+Apelin Endothelial Signaling Pathway	1.21E00	-1.3416407864998738	4.46E-02	ICAM1,JUN,PIK3C2B,RRAS2,VCAM1	
+Estrogen Receptor Signaling	1.23E00	-1.2649110640673518	3.34E-02	CCNC,EP300,HES1,JUN,MMP1,NCOA3,PDIA3,PGF,PIK3C2B,RRAS2	
+IL-4 Signaling	1.23E00		5.19E-02	NFATC3,PIK3C2B,RRAS2,SYNJ2	
+FAT10 Cancer Signaling Pathway	1.25E00		6.52E-02	IL6,STAT3,TGFBR2	
+Thyroid Cancer Signaling	1.25E00	-1.0	5.26E-02	JUN,LEF1,PIK3C2B,RRAS2	
+Glutathione Biosynthesis	1.25E00		3.33E-01	GCLM	
+HOTAIR Regulatory Pathway	1.26E00	-1.6329931618554523	4.20E-02	EP300,ICAM1,LEF1,MMP1,PIK3C2B,STAT3	
+Role of Tissue Factor in Cancer	1.29E00		4.72E-02	ITGA6,ITGB1,MMP1,PIK3C2B,RRAS2	
+Role of JAK1, JAK2 and TYK2 in Interferon Signaling	1.31E00		1.05E-01	IFNAR2,STAT3	
+Pancreatic Adenocarcinoma Signaling	1.31E00	-2.0	4.76E-02	PGF,PIK3C2B,PTGS2,STAT3,TGFBR2	
+Sphingosine-1-phosphate Signaling	1.31E00	0.4472135954999579	4.76E-02	CASP1,CASP2,CASP7,PDIA3,PIK3C2B	
+Sertoli Cell-Sertoli Cell Junction Signaling	1.32E00		4.02E-02	CLDN5,ITGA2,ITGA6,ITGB1,JUN,MAGI2,RRAS2	
+Vitamin-C Transport	1.35E00		1.11E-01	GSTO1,TXNRD1	
+IGF-1 Signaling	1.35E00	-1.0	4.90E-02	IGFBP7,JUN,PIK3C2B,RRAS2,STAT3	
+p38 MAPK Signaling	1.35E00	-1.3416407864998738	4.90E-02	ATF1,IL1R1,IRAK2,TGFBR2,TIFA	
+Mouse Embryonic Stem Cell Pluripotency	1.38E00	-2.23606797749979	5.00E-02	IL6ST,LEF1,PIK3C2B,RRAS2,STAT3	
+Neuregulin Signaling	1.38E00		5.00E-02	ADAM17,ITGA2,ITGA6,ITGB1,RRAS2	
+EIF2 Signaling	1.39E00		3.92E-02	EIF3I,EIF4G2,PIK3C2B,RPL37,RPS16,RPS21,RPS3,RRAS2	
+D-myo-inositol (1,4,5)-trisphosphate Degradation	1.39E00		1.18E-01	BPNT2,SYNJ2	
+Inflammasome pathway	1.39E00		1.18E-01	CASP1,PANX1	
+Role of Osteoblasts, Osteoclasts and Chondrocytes in Rheumatoid Arthritis	1.41E00		3.96E-02	ADAM17,IL1R1,IL6,JUN,LEF1,MMP1,NFATC3,PIK3C2B	
+Ascorbate Recycling (Cytosolic)	1.43E00		5.00E-01	GSTO1	
+Atherosclerosis Signaling	1.43E00		5.15E-02	ICAM1,IL6,MMP1,SELE,VCAM1	
+PPAR Signaling	1.43E00	1.3416407864998738	5.15E-02	EP300,IL1R1,JUN,PTGS2,RRAS2	
+NF-κB Signaling	1.45E00	-1.1338934190276817	4.29E-02	AZI2,EP300,FLT1,IL1R1,PIK3C2B,RRAS2,TGFBR2	
+p53 Signaling	1.45E00	-0.4472135954999579	5.21E-02	EP300,JUN,PIK3C2B,PMAIP1,TNFRSF10B	
+STAT3 Pathway	1.45E00	-2.0	4.69E-02	FLT1,IL1R1,IL6ST,RRAS2,STAT3,TGFBR2	
+Semaphorin Neuronal Repulsive Signaling Pathway	1.47E00	0.8164965809277261	4.72E-02	ITGA2,ITGA6,ITGB1,NRP2,PAK2,PIK3C2B	
+MSP-RON Signaling In Macrophages Pathway	1.48E00	-0.4472135954999579	5.32E-02	JUN,PIK3C2B,PTGS2,RRAS2,STAT3	
+TGF-β Signaling	1.51E00	-0.4472135954999579	5.43E-02	EP300,JUN,RRAS2,SERPINE1,TGFBR2	
+Notch Signaling	1.52E00		8.33E-02	ADAM17,HES1,HES5	
+Systemic Lupus Erythematosus In B Cell Signaling Pathway	1.52E00	-1.6666666666666667	3.95E-02	IFNAR2,IL6,IL6ST,JUN,NFATC3,PIK3C2B,RRAS2,STAT3,SYNJ2	
+ErbB2-ErbB3 Signaling	1.52E00		6.45E-02	JUN,PIK3C2B,RRAS2,STAT3	
+IL-10 Signaling	1.52E00		6.45E-02	IL1R1,IL6,JUN,STAT3	
+Thrombopoietin Signaling	1.52E00	-1.0	6.45E-02	JUN,PIK3C2B,RRAS2,STAT3	
+Tec Kinase Signaling	1.56E00	-2.4494897427831783	4.55E-02	ITGA2,ITGA6,ITGB1,PAK2,PIK3C2B,STAT3,TNFRSF10B	
+Fcγ Receptor-mediated Phagocytosis in Macrophages and Monocytes	1.59E00	-2.23606797749979	5.68E-02	ACTR2,ACTR3,ARPC1B,ARPC3,EZR	
+T Helper Cell Differentiation	1.62E00		6.90E-02	IL6,IL6ST,STAT3,TGFBR2	
+Senescence Pathway	1.62E00	-1.8973665961010275	3.92E-02	CEBPB,EP300,ETS2,IL6,JUN,NFATC3,PIK3C2B,RRAS2,SERPINE1,TGFBR2	
+SPINK1 General Cancer Pathway	1.64E00	-2.0	7.02E-02	IL6,PIK3C2B,RRAS2,STAT3	
+PDGF Signaling	1.68E00	-1.3416407864998738	6.02E-02	JUN,PIK3C2B,RRAS2,STAT3,SYNJ2	
+CNTF Signaling	1.69E00	-2.0	7.27E-02	IL6ST,PIK3C2B,RRAS2,STAT3	
+ILK Signaling	1.71E00	-1.414213562373095	4.52E-02	FN1,ITGB1,JUN,LEF1,NACA,PGF,PIK3C2B,PTGS2	
+Clathrin-mediated Endocytosis Signaling	1.73E00		4.57E-02	ACTR2,ACTR3,ARPC1B,ARPC3,DAB2,ITGB1,PGF,PIK3C2B	
+PPARα/RXRα Activation	1.73E00	1.1338934190276817	4.57E-02	EP300,IL1R1,IL6,JUN,NCOA3,PDIA3,RRAS2,TGFBR2	
+PI3K/AKT Signaling	1.77E00	-1.3416407864998738	4.65E-02	IL1R1,IL6ST,ITGA2,ITGA6,ITGB1,PTGS2,RRAS2,SYNJ2	
+Endocannabinoid Cancer Inhibition Pathway	1.81E00	0.3779644730092272	5.11E-02	CASP1,CASP2,CASP7,CNR1,LEF1,PGF,PIK3C2B	
+VEGF Family Ligand-Receptor Interactions	1.81E00	-2.0	6.49E-02	FLT1,NRP2,PGF,PIK3C2B,RRAS2	
+Phagosome Formation	1.83E00		5.71E-02	FN1,ITGA2,ITGA6,ITGB1,PDIA3,PIK3C2B	
+BEX2 Signaling Pathway	1.84E00	-1.3416407864998738	6.58E-02	JUN,LEF1,PGF,STAT3,SWAP70	
+IL-3 Signaling	1.86E00	-1.3416407864998738	6.67E-02	JUN,PIK3C2B,RAPGEF1,RRAS2,STAT3	
+NF-κB Activation by Viruses	1.86E00	-2.23606797749979	6.67E-02	ITGA2,ITGA6,ITGB1,PIK3C2B,RRAS2	
+TNFR1 Signaling	1.86E00	-1.0	8.16E-02	CASP2,CASP7,JUN,PAK2	
+Paxillin Signaling	1.87E00	-2.23606797749979	5.83E-02	ITGA2,ITGA6,ITGB1,PAK2,PIK3C2B,RRAS2	
+Aryl Hydrocarbon Receptor Signaling	1.89E00	0.4472135954999579	5.30E-02	CCNA2,CYP1B1,EP300,GSTO1,IL6,JUN,NCOA3	
+mTOR Signaling	1.91E00		4.62E-02	EIF3I,EIF4G2,FKBP1A,PGF,PIK3C2B,RPS16,RPS21,RPS3,RRAS2	
+Pentose Phosphate Pathway	1.93E00		2.22E-01	PGD,RPE	
+Cardiac Hypertrophy Signaling (Enhanced)	1.93E00	-3.2071349029490928	3.57E-02	EDNRB,EP300,IL1R1,IL6,IL6ST,ITGA2,ITGA6,ITGB1,JUN,NFATC3,PDIA3,PIK3C2B,PTGS2,RRAS2,STAT3,TGFBR2	
+FAK Signaling	1.95E00		6.06E-02	ITGA2,ITGA6,ITGB1,PAK2,PIK3C2B,RRAS2	
+Virus Entry via Endocytic Pathways	1.95E00		6.06E-02	CD55,HLA-E,ITGA2,ITGB1,PIK3C2B,RRAS2	
+Th1 Pathway	1.97E00	-1.0	6.12E-02	ICAM1,IL6,NFATC3,NFIL3,PIK3C2B,STAT3	
+Caveolar-mediated Endocytosis Signaling	1.98E00		7.14E-02	CD55,HLA-E,ITGA2,ITGA6,ITGB1	
+Germ Cell-Sertoli Cell Junction Signaling	1.99E00		5.10E-02	IQGAP1,ITGA2,ITGA6,ITGB1,PAK2,PIK3C2B,RRAS2,TGFBR2	
+Role of JAK family kinases in IL-6-type Cytokine Signaling	1.99E00		1.25E-01	IL6,IL6ST,STAT3	
+Xenobiotic Metabolism AHR Signaling Pathway	2.03E00	-1.3416407864998738	7.35E-02	ABCG2,CYP1B1,EP300,GSTO1,IL6	
+Systemic Lupus Erythematosus Signaling	2.06E00		5.23E-02	HLA-E,HNRNPC,IL6,JUN,LSM12,NFATC3,PIK3C2B,RRAS2	
+Agrin Interactions at Neuromuscular Junction	2.06E00	-1.0	7.46E-02	ITGB1,JUN,PAK2,RRAS2,UTRN	
+HER-2 Signaling in Breast Cancer	2.1E00	-1.0	4.95E-02	CASP7,ETS2,ITGB1,JUN,MT-CO2,PIK3C2B,PTGS2,RRAS2,STAT3	
+Oncostatin M Signaling	2.13E00	-2.0	9.76E-02	IL6ST,MMP1,RRAS2,STAT3	
+Tumoricidal Function of Hepatic Natural Killer Cells	2.16E00		1.43E-01	CASP7,ICAM1,SRGN	
+Regulation Of The Epithelial Mesenchymal Transition By Growth Factors Pathway	2.16E00	-1.6666666666666667	5.06E-02	IL6,JUN,LATS2,MMP1,PIK3C2B,RRAS2,STAT3,TGFBR2,WWTR1	
+Remodeling of Epithelial Adherens Junctions	2.17E00	-2.23606797749979	7.94E-02	ACTR2,ACTR3,ARPC1B,ARPC3,IQGAP1	
+Molecular Mechanisms of Cancer	2.23E00		3.96E-02	CASP7,CDK16,CFLAR,EP300,ITGA2,ITGA6,ITGB1,JUN,LEF1,PAK2,PIK3C2B,PMAIP1,RAPGEF1,RRAS2,TGFBR2	
+fMLP Signaling in Neutrophils	2.24E00	-2.6457513110645903	6.19E-02	ACTR2,ACTR3,ARPC1B,ARPC3,NFATC3,PIK3C2B,RRAS2	
+Th1 and Th2 Activation Pathway	2.24E00		5.63E-02	ICAM1,IL6,JUN,NFATC3,NFIL3,PIK3C2B,STAT3,TGFBR2	
+TREM1 Signaling	2.26E00	-2.23606797749979	8.33E-02	CASP1,ICAM1,IL6,ITGB1,STAT3	
+Systemic Lupus Erythematosus In T Cell Signaling Pathway	2.34E00	-0.6324555320336759	5.05E-02	CASP1,CASP2,CASP7,EZR,HLA-E,IL6,JUN,PIK3C2B,RRAS2,STAT3	
+Axonal Guidance Signaling	2.35E00		3.86E-02	ACTR2,ACTR3,ADAM17,ADAM19,ARPC1B,ARPC3,ITGA2,ITGA6,ITGB1,MMP1,NFATC3,NRP2,PAK2,PDIA3,PGF,PIK3C2B,RRAS2	
+IL-17 Signaling	2.38E00	-2.1213203435596424	5.93E-02	CEBPB,IL6,JUN,PGF,PIK3C2B,PTGS2,RRAS2,SRSF1	
+Prolactin Signaling	2.39E00	-1.0	7.50E-02	CEBPB,EP300,JUN,PIK3C2B,RRAS2,STAT3	
+Endothelin-1 Signaling	2.39E00	-2.3333333333333335	5.49E-02	CASP1,CASP2,CASP7,EDNRB,JUN,PDIA3,PIK3C2B,PTGS2,RRAS2	
+Th17 Activation Pathway	2.42E00	-2.23606797749979	9.09E-02	IL1R1,IL6,IRAK2,NFATC3,STAT3	
+IL-17A Signaling in Fibroblasts	2.43E00		1.18E-01	CEBPB,IL6,JUN,MMP1	
+PTEN Signaling	2.44E00	1.1338934190276817	6.06E-02	FLT1,ITGA2,ITGA6,ITGB1,MAGI2,RRAS2,SYNJ2,TGFBR2	
+JAK/Stat Signaling	2.44E00	-1.6329931618554523	7.69E-02	CEBPB,IL6,JUN,PIK3C2B,RRAS2,STAT3	
+Renal Cell Carcinoma Signaling	2.47E00	-1.3416407864998738	7.79E-02	EP300,JUN,PAK2,PIK3C2B,RAPGEF1,RRAS2	
+CD28 Signaling in T Helper Cells	2.49E00	-1.889822365046136	6.86E-02	ACTR2,ACTR3,ARPC1B,ARPC3,JUN,NFATC3,PIK3C2B	
+HIF1α Signaling	2.5E00	-1.8973665961010275	5.32E-02	EP300,FLT1,IL6,JUN,MMP1,PGF,PIK3C2B,RRAS2,SERPINE1,STAT3	
+PAK Signaling	2.54E00	-1.6329931618554523	7.00E-02	ITGA2,ITGA6,ITGB1,MYLK,PAK2,PIK3C2B,RRAS2	
+VDR/RXR Activation	2.56E00	0.0	8.11E-02	CCNC,CEBPB,EP300,HES1,NCOA3,SERPINB1	
+ERK/MAPK Signaling	2.57E00	-2.3333333333333335	5.43E-02	ATF1,ETS2,ITGA2,ITGA6,ITGB1,PAK2,PIK3C2B,RAPGEF1,RRAS2,STAT3	
+Hypoxia Signaling in the Cardiovascular System	2.65E00		8.45E-02	EP300,JUN,UBE2H,UBE2J1,UBE2K,UBE2Z	
+Glutathione Redox Reactions II	2.68E00		5.00E-01	PDIA3,TXNDC12	
+Regulation of Cellular Mechanics by Calpain Protease	2.68E00	-2.0	8.57E-02	CCNA2,EZR,ITGA2,ITGA6,ITGB1,RRAS2	
+IL-6 Signaling	2.71E00	-2.1213203435596424	6.72E-02	CEBPB,IL1R1,IL6,IL6ST,JUN,PIK3C2B,RRAS2,STAT3	
+NRF2-mediated Oxidative Stress Response	2.74E00	-1.414213562373095	5.75E-02	EP300,FTL,GCLM,GSTO1,JUN,PIK3C2B,PRDX1,RRAS2,TXNRD1,UBE2K	
+Colorectal Cancer Metastasis Signaling	2.76E00	-2.7136021011998728	5.13E-02	IL6,IL6ST,JUN,LEF1,MMP1,PGF,PIK3C2B,PTGS2,RRAS2,SIAH1,STAT3,TGFBR2	
+HMGB1 Signaling	2.77E00	-1.414213562373095	6.25E-02	ICAM1,IL1R1,IL6,JUN,PIK3C2B,RRAS2,SELE,SERPINE1,VCAM1	
+Reelin Signaling in Neurons	2.79E00	-2.1213203435596424	6.90E-02	ACTR2,ACTR3,ARPC1B,ARPC3,CNR1,ITGB1,PIK3C2B,RAPGEF1	
+Neuroinflammation Signaling Pathway	2.82E00	-1.7320508075688774	4.96E-02	CASP1,CFLAR,HLA-E,ICAM1,IL1R1,IL6,IRAK2,JUN,NFATC3,PIK3C2B,PTGS2,TGFBR2,VCAM1	
+CD40 Signaling	2.92E00	-0.4472135954999579	9.52E-02	ATF1,ICAM1,JUN,PIK3C2B,PTGS2,STAT3	
+T Cell Exhaustion Signaling Pathway	2.92E00	-1.889822365046136	6.57E-02	HLA-E,IFNAR2,IL6,JUN,NFATC3,PIK3C2B,RRAS2,STAT3,TGFBR2	
+Glucocorticoid Receptor Signaling	2.98E00		4.44E-02	EP300,ICAM1,IL1R1,IL6,IL6ST,JUN,MMP1,NCOA3,NFATC3,PIK3C2B,PTGS2,RRAS2,SELE,SERPINE1,STAT3,TGFBR2,VCAM1	
+Acute Phase Response Signaling	3.15E00	-2.5298221281347035	6.49E-02	CEBPB,FN1,FTL,IL1R1,IL6,IL6ST,JUN,RRAS2,SERPINE1,STAT3	
+MSP-RON Signaling In Cancer Cells Pathway	3.23E00	-1.6666666666666667	7.26E-02	ETS2,ITGA6,ITGB1,JUN,LEF1,PGF,PIK3C2B,RRAS2,STAT3	
+RhoGDI Signaling	3.31E00	3.162277660168379	6.32E-02	ACTR2,ACTR3,ARPC1B,ARPC3,CDH5,EP300,EZR,ITGA2,ITGA6,ITGB1,PAK2	
+Leukocyte Extravasation Signaling	3.37E00	-2.3333333333333335	6.43E-02	CD99,CDH5,CLDN5,EZR,ICAM1,ITGA2,ITGB1,MMP1,PECAM1,PIK3C2B,VCAM1	
+Integrin Signaling	3.41E00	-3.464101615137755	6.09E-02	ACTR2,ACTR3,ARPC1B,ARPC3,ITGA2,ITGA6,ITGB1,MYLK,PAK2,PIK3C2B,RAPGEF1,RRAS2	
+Epithelial Adherens Junction Signaling	3.45E00		7.09E-02	ACTR2,ACTR3,ARPC1B,ARPC3,IQGAP1,LEF1,MAGI2,RAPGEF1,RRAS2,TGFBR2	
+RhoA Signaling	3.53E00	-2.1213203435596424	7.96E-02	ACTR2,ACTR3,ARPC1B,ARPC3,CDC42EP3,EZR,MYLK,NRP2,SEPTIN11	
+IL-8 Signaling	3.54E00	-2.886751345948129	6.28E-02	CSTB,FLT1,ICAM1,IQGAP1,IRAK2,JUN,PAK2,PGF,PIK3C2B,PTGS2,RRAS2,VCAM1	
+Ephrin Receptor Signaling	3.71E00	-3.162277660168379	6.56E-02	ACTR2,ACTR3,ARPC1B,ARPC3,ITGA2,ITGA6,ITGB1,PAK2,PGF,RAPGEF1,RRAS2,STAT3	
+Regulation of eIF4 and p70S6K Signaling	3.74E00	-2.0	7.10E-02	EIF3I,EIF4EBP2,EIF4G2,ITGA2,ITGA6,ITGB1,PIK3C2B,RPS16,RPS21,RPS3,RRAS2	
+Actin Nucleation by ARP-WASP Complex	3.99E00	-2.6457513110645903	1.04E-01	ACTR2,ACTR3,ARPC1B,ARPC3,ITGA2,ITGA6,ITGB1,RRAS2	
+Ferroptosis Signaling Pathway	4.08E00	-1.2649110640673518	8.47E-02	EMP1,FTL,IREB2,MACROH2A1,RRAS2,SLC39A8,SLC7A11,STAT3,TXNRD1,WWTR1	
+Regulation of Actin-based Motility by Rho	4.21E00	-2.1213203435596424	9.78E-02	ACTR2,ACTR3,ARPC1B,ARPC3,ITGA2,ITGA6,ITGB1,MYLK,PAK2	
+Tumor Microenvironment Pathway	4.29E00	-2.3094010767585034	7.55E-02	CFLAR,FN1,HLA-E,ICAM1,IL6,JUN,MMP1,PGF,PIK3C2B,PTGS2,RRAS2,STAT3	
+Actin Cytoskeleton Signaling	4.31E00	-2.886751345948129	6.67E-02	ACTR2,ACTR3,ARPC1B,ARPC3,EZR,FN1,IQGAP1,ITGA2,ITGA6,ITGB1,MYLK,PAK2,PIK3C2B,RRAS2	
+HGF Signaling	4.97E00	-2.1213203435596424	9.65E-02	ETS2,IL6,ITGA2,ITGA6,ITGB1,JUN,PIK3C2B,PTGS2,RAPGEF1,RRAS2,STAT3	
+Role of Macrophages, Fibroblasts and Endothelial Cells in Rheumatoid Arthritis	5.17E00		6.43E-02	CEBPB,FN1,ICAM1,IL1R1,IL6,IL6ST,IRAK2,JUN,LEF1,MMP1,NFATC3,PDIA3,PGF,PIK3C2B,RRAS2,SELE,STAT3,VCAM1	
+Hepatic Fibrosis / Hepatic Stellate Cell Activation	5.32E00		8.19E-02	BAMBI,COL4A1,EDNRB,FLT1,FN1,ICAM1,IFNAR2,IL1R1,IL6,MMP1,PGF,SERPINE1,TGFBR2,VCAM1	
+Granulocyte Adhesion and Diapedesis	5.35E00		9.60E-02	CD99,CDH5,CLDN5,CXCL2,EZR,ICAM1,IL1R1,ITGB1,MMP1,PECAM1,SELE,VCAM1	
+Cdc42 Signaling	5.42E00	-1.8973665961010275	9.76E-02	ACTR2,ACTR3,ARPC1B,ARPC3,HLA-E,IQGAP1,ITGA2,ITGA6,ITGB1,JUN,MYLK,PAK2	
+Signaling by Rho Family GTPases	5.55E00	-3.0	7.17E-02	ACTR2,ACTR3,ARPC1B,ARPC3,CDC42EP3,CDH5,EZR,IQGAP1,ITGA2,ITGA6,ITGB1,JUN,MYLK,PAK2,PIK3C2B,SEPTIN11,STMN1	
+Rac Signaling	5.61E00	-2.7136021011998728	1.02E-01	ACTR2,ACTR3,ARPC1B,ARPC3,IQGAP1,ITGA2,ITGA6,ITGB1,JUN,PAK2,PIK3C2B,RRAS2	
+Coronavirus Pathogenesis Pathway	5.76E00	-0.2773500981126146	9.63E-02	ADAM17,CASP1,EP300,IFNAR2,IL6,JUN,PTGS2,RPS16,RPS21,RPS3,SERPINE1,STAT3,TGFBR2	
+Hepatic Fibrosis Signaling Pathway	5.89E00	-3.2732683535398857	6.16E-02	BAMBI,CEBPB,CNR1,FLT1,FTL,ICAM1,IL1R1,IRAK2,ITGA2,ITGA6,ITGB1,JUN,LEF1,MMP1,MYLK,PGF,PIK3C2B,RRAS2,SERPINE1,STAT3,TGFBR2,VCAM1	
+Osteoarthritis Pathway	6.64E00	-3.3565855667130946	8.59E-02	ACVRL1,CASP1,CASP2,CASP7,CEBPB,FN1,HES1,IL1R1,ITGA2,ITGA6,ITGB1,LEF1,MMP1,PGF,PTGS2,SLC39A8,TGFBR2	
+Agranulocyte Adhesion and Diapedesis	8.02E00		1.14E-01	CD99,CDH5,CLDN5,CXCL2,EZR,FN1,ICAM1,IL1R1,ITGA2,ITGA6,ITGB1,MMP1,PECAM1,PODXL,SELE,VCAM1	
+
+Upstream Regulators for My Projects->Adult_WM_vs_GM->WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM
+Analysis	ID	Upstream Regulator	Expr Log Ratio	Molecule Type	Predicted Activation State	Activation z-score	Notes	Bias Term	Bias-corrected z-score	p-value of overlap	Target molecules in dataset	Mechanistic Network	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	TNF	 	cytokine	Inhibited	-3.524	bias	-0.363	-2.244	4.12E-07	CASP1,CEBPB,CFLAR,CXCL2,ICAM1,IL1R1,IL6,ITGB1,MT-CO2,PTGS2,SERPINE1,STAT3,VCAM1	IKBKB,IL6,IL6R,RELA,TNF	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	IFNG	 	cytokine	Inhibited	-3.351	 	-0.231	-2.397	3.28E-06	CNR1,CXCL2,EDNRB,GPR19,HLA-E,ICAM1,IFI16,IL6,KCTD12,LAMC2,PANX1,PTGS2,SAMHD1,SLC7A11,STAT3,TGFBR2,TNFRSF10B,VCAM1	IFNG,IL6,RELA	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	IL1B	 	cytokine	Inhibited	-2.957	bias	-0.383	-1.823	5.84E-06	CEBPB,CXCL2,HLA-E,ICAM1,IL1R1,IL6,MT-CO2,PTGS2,SELE,SLC7A11,VCAM1	IL1B,IL6,RELA	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	mir-21	 	microrna	Inhibited	-2.190	 	-0.123	-1.921	9.15E-06	CDH5,CXCL2,IL6,PECAM1,STAT3	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	LIF	 	cytokine	 	-0.747	 	-0.235	-0.188	9.18E-06	CDH5,CXCL2,FOXF1,IL6,JUN,MT-CO2,MT-ND4,PECAM1	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	TGFB1	 	growth factor	 	-1.229	 	-0.123	-0.774	9.28E-06	CXCL2,EDNRB,FN1,GPR19,HES1,IER3,IL6,IRAK2,ITGB1,PTGS2,SAMHD1,SERPINE1,STAT3,TGFBR2,TIA1	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	Meg3	 	other	 	 	 	 	 	2.74E-05	FLT1,HES1,IQGAP1	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	CHI3L1	 	enzyme	 	 	 	 	 	3.94E-05	CALD1,EMP1,SERPINB1,SERPINE1,TGFBR2	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	IL6R	 	transmembrane receptor	 	 	 	 	 	6.76E-05	IL6,PTGS2,VCAM1	IL6,IL6R,RELA	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	PARP1	 	enzyme	 	-1.980	bias	-0.491	-1.007	8.23E-05	ICAM1,IL6,PTGS2,VCAM1	PARP1,RELA	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	IL6	-1.905	cytokine	 	-1.517	bias	-0.347	-0.871	1.04E-04	ICAM1,IL6,PTGS2,STAT3,TAL1,VCAM1	IL6,IL6R,PARP1,RELA	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	SOD1	 	enzyme	 	 	 	 	 	1.23E-04	ATF1,CASP1,CCNC,CNR1,ETS2,EZR,GCLM,JUN,MT-ND4,NFIL3,PTGS2,STMN1,TGFBR2	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	EGFR	 	kinase	 	-1.588	bias	-0.402	-0.699	1.58E-04	JUN,LEF1,MMP1,PTGS2,SLC7A11,STAT3	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	PDCD4	 	other	 	 	 	 	 	2.30E-04	IL6,JUN,PTGS2	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	FAT1	 	other	 	 	 	 	 	3.63E-04	IL6,JUN,PTGS2	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	KLKB1	 	peptidase	 	 	 	 	 	3.66E-04	ICAM1,VCAM1	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	MAP3K12	 	kinase	 	 	 	 	 	3.66E-04	JUN,STAT3	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	EGF	 	growth factor	 	-1.149	bias	-0.388	-0.380	5.01E-04	JUN,PTGS2,SERPINE1,VCAM1	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	IKBKB	 	kinase	 	-1.561	 	0.211	-1.889	7.35E-04	CFLAR,CXCL2,IL6,PTGS2	IKBKB,RELA	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	EDN1	 	cytokine	 	 	 	 	 	1.02E-03	EDNRB,MMP1,SERPINE1	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	Ca2+	 	chemical - endogenous mammalian	 	 	 	 	 	1.04E-03	CEBPB,JUN,PTGS2,SERPINE1	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	ANXA1	 	enzyme	 	 	 	 	 	1.08E-03	IL6,PTGS2	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	CD40LG	 	cytokine	 	 	 	 	 	1.08E-03	ICAM1,VCAM1	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	GABPA	 	transcription regulator	 	 	 	 	 	1.08E-03	GCLM,SLC7A11	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	RELA	 	transcription regulator	 	 	 	 	 	1.21E-03	ICAM1,IL6,PTGS2,VCAM1	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	F2	 	peptidase	 	 	 	 	 	1.35E-03	IL6,JUN,PTGS2	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	GFAP	 	other	 	 	 	 	 	1.35E-03	ITGA2,ITGA6,ITGB1	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	NPC1	 	transporter	 	 	 	 	 	1.35E-03	ABCG1,PTGS2,STAT3	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	PSEN1	 	peptidase	 	 	 	 	 	1.46E-03	ABCG1,ABCG2,CXCL2,EMP1,FKBP1A,H2AJ,HES5,HLA-E,MFSD14A,PMAIP1,PTGS2,STMN1,TGFBR2,TNFRSF10B,TPM3	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	PLCE1	 	enzyme	 	 	 	 	 	2.14E-03	IL6,PTGS2	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	PTGS1	 	enzyme	 	 	 	 	 	2.14E-03	IL6,PTGS2	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	RCAN1	 	other	 	 	 	 	 	2.14E-03	IL6,PTGS2	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	STK38	 	kinase	 	 	 	 	 	2.14E-03	CXCL2,IL6	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	APP	 	other	 	-0.269	 	-0.162	0.340	2.24E-03	ABCG1,ABCG2,CLDN5,CXCL2,FKBP1A,H2AJ,HES1,IFI16,IL6,JUN,LEF1,MMP1,MT-CO2,MT-ND4,PMAIP1,PRNP,PTGS2,SERPINE1,SLC7A11,STAT3,STMN1,TNFRSF10B,TPM3,UBE2K	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	MAPT	 	other	 	 	 	 	 	2.76E-03	ABCG1,ABCG2,B4GALT1,CEBPB,CXCL2,ELOVL7,FKBP1A,H2AJ,IFI16,MT-CO2,NDUFV2,PRNP,RPS16,SERPINE1,STMN1,TM4SF1,TPM3,VCAM1	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	TAZ	 	enzyme	 	 	 	 	 	2.85E-03	CYP1B1,FN1,IFI16,PMAIP1,SERPINE1	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	TGFB2	 	growth factor	 	 	 	 	 	3.52E-03	CDH5,PECAM1	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	TLR8	 	transmembrane receptor	 	 	 	 	 	3.52E-03	CXCL2,IL6	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	TTYH1	 	ion channel	 	 	 	 	 	3.52E-03	HES1,HES5	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	ethanol	 	chemical - endogenous mammalian	 	-1.653	 	-0.233	-1.093	3.80E-03	ABCG1,CNR1,IL6,JUN,PTGS2,STAT3	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	IL12B	 	cytokine	 	 	 	 	 	4.59E-03	ICAM1,STAT3,VCAM1	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	IL1R1	-1.562	transmembrane receptor	 	 	 	 	 	4.59E-03	CXCL2,IL6,PTGS2	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	CEBPB	-1.180	transcription regulator	 	-1.951	bias	-0.463	-1.049	4.79E-03	CXCL2,DAB2,PTGS2,TM4SF1	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	beta-estradiol	 	chemical - endogenous mammalian	 	-1.252	 	-0.092	-0.878	4.84E-03	ADGRF5,ANKRD12,BGN,BPNT2,CRIM1,DAB2,EZR,HLA-E,IL1R1,IL6,IQGAP1,MGP,NCOA3,PODXL,PTGS2,SERPINB1,TBC1D9,TRAM1	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	KITLG	 	growth factor	 	 	 	 	 	5.21E-03	IL6,TAL1	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	TRAF3IP2	 	enzyme	 	 	 	 	 	5.21E-03	CXCL2,IL6	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	L-glutamic acid	 	chemical - endogenous mammalian	 	1.126	 	-0.093	1.303	5.30E-03	CLDN5,JUN,NFIL3,PTGS2	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	TNFRSF1A	 	transmembrane receptor	 	 	 	 	 	6.23E-03	CEBPB,CFLAR,VCAM1	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	CREB1	 	transcription regulator	 	-0.845	 	-0.120	-0.398	7.19E-03	BCAP29,CRIM1,FN1,GPR19,IER3,NFIL3,NRP2,PTGS2,RRAS2,SSBP2,STAT3,STC1,STMN1,SYNJ2	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	CAV1	 	transmembrane receptor	 	 	 	 	 	7.21E-03	ICAM1,VCAM1	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	MALAT1	 	other	 	 	 	 	 	7.21E-03	IL6,SELE	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	HTT	 	transcription regulator	 	 	 	 	 	8.72E-03	ATP6V0E1,CASP1,CASP2,CEBPB,CNR1,COL4A1,EDNRB,IFI16,ITGB1,JUN,MGP,NFIL3,STMN1,THRA,TM4SF1,VCAM1	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	AGT	 	growth factor	 	 	 	 	 	9.05E-03	CXCL2,IL6,PTGS2,SERPINE1	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	CTTN	 	other	 	 	 	 	 	9.49E-03	CXCL2,IL6	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	IL3	 	cytokine	 	 	 	 	 	9.49E-03	ICAM1,TAL1	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	VEGFA	 	growth factor	 	 	 	 	 	9.49E-03	ICAM1,TAL1	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	SRF	 	transcription regulator	 	-1.982	bias	-0.382	-1.225	1.08E-02	AZI2,CLDN5,FLT1,ITGB1,PTGR1,RBBP6	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	IL1A	 	cytokine	 	 	 	 	 	1.17E-02	IL6,PTGS2,STAT3	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	CCL2	 	cytokine	 	 	 	 	 	1.20E-02	IL6,PTGS2	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	CXCL2	-1.235	cytokine	 	 	 	 	 	1.20E-02	CXCL2,IL6	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	EP300	0.623	transcription regulator	 	 	 	 	 	1.20E-02	EP300,IL6	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	EPO	 	cytokine	 	 	 	 	 	1.20E-02	IL6,STAT3	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	LAMA2	 	other	 	 	 	 	 	1.20E-02	CDH5,CLDN5	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	LRPAP1	 	other	 	 	 	 	 	1.20E-02	IL6,PTGS2	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	PRKCE	 	kinase	 	 	 	 	 	1.20E-02	PTGS2,VCAM1	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	TENM1	 	transmembrane receptor	 	 	 	 	 	1.20E-02	EDNRB,MGP	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	TARDBP	0.941	transcription regulator	 	 	 	 	 	1.45E-02	HLA-E,IL6,TARDBP	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	B4GALT6	 	enzyme	 	 	 	 	 	1.49E-02	IL6,PTGS2	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	CCL5	 	cytokine	 	 	 	 	 	1.49E-02	CXCL2,IL6	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	POU5F1	 	transcription regulator	 	0.816	 	-0.167	1.226	1.62E-02	BNIP2,CARD6,CASP1,CASP2,CASP7,TNFRSF10B	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	CTNNB1	 	transcription regulator	 	1.387	 	-0.158	1.738	1.69E-02	HES1,JUN,LEF1,PECAM1,STAT3	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	E2F1	 	transcription regulator	 	 	 	 	 	1.78E-02	ACSL5,ACTR3,CCNA2,NCOA3,TXNRD1	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	MAP2K4	 	kinase	 	 	 	 	 	1.79E-02	JUN,PAK2	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	ABCC4	 	transporter	 	 	 	 	 	1.92E-02	ABCG2	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	BDKRB2	 	g-protein coupled receptor	 	 	 	 	 	1.92E-02	PTGS2	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	Becn2	 	other	 	 	 	 	 	1.92E-02	CNR1	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	CACNA1C	 	ion channel	 	 	 	 	 	1.92E-02	PTGS2	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	DANCR	 	other	 	 	 	 	 	1.92E-02	RAB1A	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	EFEMP1	 	enzyme	 	 	 	 	 	1.92E-02	ADAM17	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	FRAT1	 	other	 	 	 	 	 	1.92E-02	JUN	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	Fendrr	 	other	 	 	 	 	 	1.92E-02	FOXF1	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	GBP1	 	enzyme	 	 	 	 	 	1.92E-02	MMP1	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	GPRASP1	 	transporter	 	 	 	 	 	1.92E-02	CNR1	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	HMGB1	 	transcription regulator	 	 	 	 	 	1.92E-02	IL6	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	HYOU1	 	other	 	 	 	 	 	1.92E-02	PECAM1	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	IL9R	 	transmembrane receptor	 	 	 	 	 	1.92E-02	IL6	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	KNG1	 	other	 	 	 	 	 	1.92E-02	PTGS2	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	MAP3K1	 	kinase	 	 	 	 	 	1.92E-02	JUN	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	MIB1	 	enzyme	 	 	 	 	 	1.92E-02	HES5	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	Map3k7	 	kinase	 	 	 	 	 	1.92E-02	PTGS2	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	PDIA3	-0.665	peptidase	 	 	 	 	 	1.92E-02	PRNP	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	PLD1	 	enzyme	 	 	 	 	 	1.92E-02	PTGS2	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	PRKDC	 	kinase	 	 	 	 	 	1.92E-02	VCAM1	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	RHBDF1	 	other	 	 	 	 	 	1.92E-02	ADAM17	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	RHBDF2	 	other	 	 	 	 	 	1.92E-02	ADAM17	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	SDC1	 	enzyme	 	 	 	 	 	1.92E-02	IL6	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	STK38L	 	kinase	 	 	 	 	 	1.92E-02	ITGB1	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	TLN1	 	other	 	 	 	 	 	1.92E-02	ITGB1	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	TNFSF11	 	cytokine	 	 	 	 	 	1.92E-02	PTGS2	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	UBQLN2	 	other	 	 	 	 	 	1.92E-02	TARDBP	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	VPS18	 	transporter	 	 	 	 	 	1.92E-02	ITGB1	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	mir-150	 	microrna	 	 	 	 	 	1.92E-02	CLDN5	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	mir-183	 	microrna	 	 	 	 	 	1.92E-02	SEL1L	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	MOG	 	other	 	 	 	 	 	1.93E-02	CXCL2,IL6,VCAM1	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	TGFBR2	-1.727	kinase	 	 	 	 	 	1.93E-02	FN1,SERPINE1,STAT3	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	STAT1	 	transcription regulator	 	-1.000	bias	-0.491	-0.017	1.97E-02	ICAM1,IFI16,KCTD12,SAMHD1	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	KDM1A	 	enzyme	 	 	 	 	 	2.10E-02	B4GALT1,CEBPB,ELOVL7,IFI16,PRNP,TM4SF1,VCAM1	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	IGFBP2	 	other	 	 	 	 	 	2.10E-02	FN1,ITGA6,STAT3	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	FAS	 	transmembrane receptor	 	 	 	 	 	2.48E-02	ICAM1,IL6	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	RBL1	 	transcription regulator	 	 	 	 	 	2.48E-02	CCNA2,HES1	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	inosine	 	chemical - endogenous mammalian	 	 	 	 	 	2.48E-02	ARPC1B,FTL,SERPINB1	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	levodopa	 	chemical - endogenous mammalian	 	0.351	 	-0.058	0.602	2.64E-02	CDC42EP3,CLDN5,CNR1,COL4A1,EDNRB,EIF4EBP2,EIF4G2,ETS2,FNIP1,FTL,IER3,IFNAR2,IQGAP1,KDM4B,NFATC3,PRICKLE1,TMEM70,VMP1,WWTR1	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	FGF1	 	growth factor	 	 	 	 	 	2.86E-02	GCLM,IL6	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	MAP2K1	 	kinase	 	 	 	 	 	3.26E-02	CDH5,PECAM1	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	JUN	0.991	transcription regulator	 	 	 	 	 	3.35E-02	IL6,JUN,PTGS2	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	CNR1	1.783	g-protein coupled receptor	 	 	 	 	 	3.58E-02	CNR1,PTGS2,STAT3	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	TREM2	 	transmembrane receptor	 	 	 	 	 	3.68E-02	BAMBI,IL6	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	CBS/CBSL	 	enzyme	 	 	 	 	 	3.79E-02	CLDN5	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	DRP2	 	other	 	 	 	 	 	3.79E-02	UTRN	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	EIF4EBP1	 	translation regulator	 	 	 	 	 	3.79E-02	CFLAR	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	GRP	 	growth factor	 	 	 	 	 	3.79E-02	JUN	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	IFIH1	 	enzyme	 	 	 	 	 	3.79E-02	CXCL2	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	KPNB1	 	transporter	 	 	 	 	 	3.79E-02	PMAIP1	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	MAPK10	 	kinase	 	 	 	 	 	3.79E-02	ADAM17	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	NMB	 	other	 	 	 	 	 	3.79E-02	JUN	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	OLIG2	 	transcription regulator	 	 	 	 	 	3.79E-02	GPR17	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	PECAM1	-1.951	other	 	 	 	 	 	3.79E-02	CDH5	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	PLG	 	peptidase	 	 	 	 	 	3.79E-02	SERPINE1	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	PROC	 	peptidase	 	 	 	 	 	3.79E-02	ICAM1	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	PTGDR	 	g-protein coupled receptor	 	 	 	 	 	3.79E-02	IFI16	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	STAT6	 	transcription regulator	 	 	 	 	 	3.79E-02	PTGS2	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	TDGF1	 	growth factor	 	 	 	 	 	3.79E-02	STAT3	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	SNCA	 	enzyme	 	-1.673	 	-0.057	-1.535	3.81E-02	CDC42EP3,EP300,EZR,HES1,HES5,IL6,SERPINB1,SERPINE1	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	RGS10	 	enzyme	 	 	 	 	 	3.83E-02	CASP1,CXCL2,IL6ST	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	TLR3	 	transmembrane receptor	 	 	 	 	 	4.12E-02	IL6,PTGS2	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	FGF2	 	growth factor	 	 	 	 	 	4.35E-02	HES1,JUN,LEF1	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	C3	 	peptidase	 	 	 	 	 	4.57E-02	CXCL2,IL6	 	
+WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	 	MYD88	 	other	 	 	 	 	 	4.57E-02	CXCL2,IL6	 	
+
+Causal Networks for My Projects->Adult_WM_vs_GM->WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM
+Master Regulator	Molecule Type	Expr Log Ratio	Depth	Predicted Activation State	Notes	Activation z-score	p-value of overlap	Network bias-corrected p-value	Participating regulators	Target molecules in dataset	Causal network	Target-connected regulators	Relationships Between Master Regulators(Increases/Downstream)	Relationships Between Master Regulators(Decreases/Downstream)	Relationships Between Master Regulators(Affects/Downstream)	Relationships Between Master Regulators(Increases/Upstream)	Relationships Between Master Regulators(Decreases/Upstream)	Relationships Between Master Regulators(Affects/Upstream)	Relationships Between Master Regulators(Increases/Both)	Relationships Between Master Regulators(Decreases/Both)	Relationships Between Master Regulators(Affects/Both)	
+TGFB1	growth factor	 	3	 	 	-1.540	3.55E-09	2.40E-03	AKT1,APP,CDK5,CEBPB,CREB1,DCX,FOXO1,HTT,MAPK1,MAPK10,MTOR,PARP1,RB1,RPS6KB1,SMAD3,STAT3,TGFB1,TP53,TRPV1	ABCG2,ACTR3,ADAM17,BCAP29,CASP1,CDH5,CFLAR,CLDN5,CNR1,COL4A1,CRIM1,CXCL2,DAB2,EDNRB,FN1,FOXF1,GPR17,GPR19,HES1,HES5,ICAM1,IER3,IFI16,IL6,IRAK2,JUN,LEF1,MMP1,MT-CO2,MT-ND4,NFIL3,NRP2,PMAIP1,PRNP,PTGS2,RRAS2,SAMHD1,SERPINB1,SERPINE1,SLC7A11,SSBP2,STAT3,STC1,STMN1,SYNJ2,TGFBR2,TIA1,TM4SF1,TNFRSF10B,UBE2K,VCAM1	51 (19)	15	 	beta-estradiol,ethanol,SNAI1	 	APP,CAV1,CDK5,LIF,MAPK1,TNF,VEGFA	Ca2+,CXCL12,GFAP	 	 	 	 	
+APP	other	 	3	 	 	-0.962	2.60E-08	8.60E-03	AKT1,APP,CDK5,CREB1,DCX,EIF2S1,ELK1,FMR1,FOXO1,FYN,GLI1,GRIN1,HTT,MAP2,MAPK10,MTOR,NTRK1,NTRK2,PARP1,PDPK1,PTEN,RB1,RBL1,RELA,RPS6KB1,RPTOR,SRF,STAT3,TP53,TREM2,TRPM2,TSC2	ABCG2,ACTR3,ADAM17,BAMBI,BCAP29,CASP1,CCNA2,CDH5,CEBPB,CFLAR,CLDN5,CNR1,COL4A1,CRIM1,CXCL2,CYP1B1,FLT1,GPR17,GPR19,HES1,HES5,IER3,IFI16,IGFBP7,IL6,ITGB1,JUN,LEF1,MGP,MMP1,MT-CO2,MT-ND4,NFIL3,NRP2,NSDHL,PDIA3,PMAIP1,PRNP,PTGR1,PTGS2,RRAS2,SERPINB1,SERPINE1,SLC7A11,SSBP2,ST3GAL6,STAT3,STC1,STMN1,SYNJ2,TNFRSF10B,UBE2K,VCAM1	53 (32)	23	ROCK2,TGFB1	beta-estradiol	 	EDN1,EIF2AK2,FGF2,GFAP,IFNG,IGFBP2,IL15,LIF,MAPK1,PARP1	CXCL12,HGF,PDCD4,TENM1	 	 	 	 	
+EGFR	kinase	 	3	 	 	-1.461	4.36E-08	1.70E-03	AXL,Cdc42,CEBPB,CREB1,CTNNB1,EGFR,GSK3B,MAPK1,NIBAN2,PARP1,RAC1,STAT3	BCAP29,CRIM1,CXCL2,DAB2,FN1,GPR19,HES1,HES5,ICAM1,IER3,IL6,JUN,LEF1,MMP1,MT-CO2,MT-ND4,NFIL3,NRP2,PECAM1,PTGS2,RRAS2,SERPINE1,SLC7A11,SSBP2,STAT3,STC1,STMN1,SYNJ2,TM4SF1,VCAM1	30 (12)	8	EGF,FGF2,HGF,IGFBP2,PRKCD,RHBDF1,RHBDF2,TAC1	beta-estradiol,PRKN	 	Ca2+,GBP1,MAPK1,VEGFA	 	 	 	 	 	
+EDN1	cytokine	 	3	Inhibited	 	-3.182	6.03E-08	2.10E-03	CAV1,CEBPB,CREB1,DUSP1,EDN1,EGFR,ELK1,MAPK1,MAPK10,MAPK14,MMP9,PARP1,RAC1,SERPINE1,SRC,SRF,STAT3	ADAM17,BCAP29,CLDN5,CRIM1,CXCL2,DAB2,EDNRB,FLT1,FN1,GPR19,HES5,ICAM1,IER3,IL6,ITGB1,MMP1,MT-CO2,MT-ND4,NFIL3,NRP2,PTGR1,PTGS2,RRAS2,SERPINE1,SLC7A11,SSBP2,STAT3,STC1,STMN1,SYNJ2,TM4SF1,VCAM1	32 (17)	12	APP,TNF	 	 	Ca2+,MAPK1	 	 	 	 	 	
+IFNG	cytokine	 	3	Inhibited	 	-2.714	1.31E-07	1.36E-02	AKT1,APP,CEBPB,CREB1,EIF2S1,FOXO1,GSK3B,IFNG,MAPK1,PDPK1,RPS6KB1,STAT3	BCAP29,CEBPB,CFLAR,CLDN5,CNR1,CRIM1,CXCL2,DAB2,EDNRB,GPR17,GPR19,HES5,HLA-E,ICAM1,IER3,IFI16,IL6,JUN,KCTD12,LAMC2,LEF1,MMP1,MT-CO2,MT-ND4,NFIL3,NRP2,PANX1,PMAIP1,PRNP,PTGS2,RRAS2,SAMHD1,SERPINE1,SLC7A11,SSBP2,STAT3,STC1,STMN1,SYNJ2,TGFBR2,TM4SF1,TNFRSF10B,UBE2K,VCAM1	44 (12)	10	APP	 	 	CXCL12,FGF2,GFAP,MAPK1,TNF,VEGFA	CAV1,CNR1	 	 	 	 	
+TNF	cytokine	 	1	Inhibited	biased	-3.606	2.75E-07	2.50E-03	TNF	CASP1,CEBPB,CFLAR,CXCL2,ICAM1,IL1R1,IL6,ITGB1,MT-CO2,PTGS2,SERPINE1,STAT3,VCAM1	13 (1)	1	CXCL12,ethanol,IFNG,IL23A,mir-21,PARP1,PRKCD,TGFB1	ADCYAP1,beta-estradiol	 	EDN1,GFAP,ITGB1,MAPK1	 	 	 	 	 	
+Ca2+	chemical - endogenous mammalian	 	3	 	 	-1.342	3.44E-07	2.01E-02	APP,Ca2+,CEBPB,CEBPD,CREB1,FMR1,FOXO1,HIF1A,IKBKB,ITGB1,MAPK14,PIP5K1C,PRKCE,PTGS2,RBL1,RPS6KB1,STAT3,TP53,TREM2,TRPM2,TSC2	ABCG2,ADAM17,ADAM19,BAMBI,BCAP29,CEBPB,CLDN5,CRIM1,CXCL2,CYP1B1,DAB2,FLT1,FN1,GPR17,GPR19,HES1,HES5,IER3,IFI16,IL6,JUN,LEF1,MGP,MMP1,MT-CO2,MT-ND4,NFIL3,NRP2,NSDHL,PDIA3,PMAIP1,PRNP,PTGS2,RRAS2,SERPINE1,SLC7A11,SSBP2,ST3GAL6,STC1,STMN1,SYNJ2,TM4SF1,TNFRSF10B,UBE2K,VCAM1	45 (21)	18	CXCL12,EDN1,EGF,EGFR,GRM5,MAG	beta-estradiol,ethanol,HYOU1,TGFB1	 	MAPK1	 	 	 	 	 	
+LIF	cytokine	 	3	 	 	-1.961	3.90E-07	2.00E-03	CEBPB,CREB1,LIF,MAPK1,PARP1,STAT3	BCAP29,CDH5,CRIM1,CXCL2,DAB2,FN1,GPR19,HES5,ICAM1,IER3,IL6,JUN,MT-CO2,MT-ND4,NFIL3,NRP2,PECAM1,PTGS2,RRAS2,SSBP2,STAT3,STC1,STMN1,SYNJ2,TM4SF1,VCAM1	26 (6)	5	APP,TGFB1	SNAI1	 	GFAP,MAPK1,TAC1	 	 	 	 	 	
+beta-estradiol	chemical - endogenous mammalian	 	3	Inhibited	 	-2.405	4.72E-07	3.34E-02	AKT1,APP,ARRB1,beta-estradiol,CAV1,CEBPB,CREB1,CTNNB1,DRD2,EIF2S1,EIF4E,GSK3B,MAPK1,MAPK9,MMP9,NANOG,PARP1,SRC,STAT3,TCF7L2,TP53	ABCG2,ADGRF5,ANKRD12,BCAP29,BGN,BPNT2,CEBPB,CEMIP2,CFLAR,CLDN5,CRIM1,DAB2,EZR,FKBP1A,FN1,FOXF1,GCLM,GPR19,HES1,HES5,HLA-E,IER3,IFI16,IL1R1,IL6,IQGAP1,ITGB1,JUN,LEF1,MGP,MT-CO2,MT-ND4,NCOA3,NFIL3,NRP2,PECAM1,PMAIP1,PRICKLE1,PRNP,PRRC2C,PTGS2,RRAS2,SERPINB1,SERPINE1,SNAP23,SSBP2,STC1,STMN1,SYNJ2,TBC1D9,TGFBR2,TM4SF1,TNFRSF10B,TRAM1,UBE2K,VCAM1	56 (21)	17	 	 	 	EGF,IGFBP2,LAMA2,MAPK1,TAC1	APP,Ca2+,CAV1,EGFR,GRM5,TGFB1,TGFB2,TNF	 	 	 	 	
+TAC1	other	 	3	Inhibited	 	-2.353	5.98E-07	2.70E-03	CEBPB,CREB1,EGFR,MAPK1,PARP1,STAT3,TAC1	BCAP29,CRIM1,CXCL2,DAB2,FN1,GPR19,HES5,ICAM1,IER3,IL6,JUN,MMP1,MT-CO2,MT-ND4,NFIL3,NRP2,PTGS2,RRAS2,SLC7A11,SSBP2,STAT3,STC1,STMN1,SYNJ2,TM4SF1,VCAM1	26 (7)	6	beta-estradiol,FGF2,levodopa,LIF	 	 	EGFR,GFAP,MAPK1	 	 	 	 	 	
+IFNG	cytokine	 	2	Inhibited	 	-3.128	6.27E-07	1.17E-02	EIF2S1,GSK3B,IFNG,STAT3	CEBPB,CNR1,CXCL2,EDNRB,GPR19,HES5,HLA-E,ICAM1,IFI16,IL6,KCTD12,LAMC2,MT-CO2,MT-ND4,PANX1,PTGS2,SAMHD1,SERPINE1,SLC7A11,STAT3,TGFBR2,TNFRSF10B,VCAM1	23 (4)	4	APP	 	 	CXCL12,FGF2,GFAP,MAPK1,TNF,VEGFA	CAV1,CNR1	 	 	 	 	
+VEGFA	growth factor	 	3	Inhibited	 	-2.191	7.89E-07	6.60E-03	AKT1,CAV1,CEBPB,CREB1,EIF2S1,EIF4E,MAPK1,MMP9,MTOR,NTRK2,PARP1,STAT3,VEGFA	BCAP29,CCNA2,CEBPB,CFLAR,CRIM1,CXCL2,DAB2,FN1,GPR19,HES5,ICAM1,IER3,IFI16,IL6,ITGB1,MT-CO2,MT-ND4,NFIL3,NRP2,PTGS2,RRAS2,SERPINB1,SSBP2,STAT3,STC1,STMN1,SYNJ2,TAL1,TM4SF1,VCAM1	30 (13)	12	EGF,EGFR,FGF2,HRAS,IFNG,TGFB1	Meg3	 	CAV1,MAPK1	 	 	 	 	 	
+beta-estradiol	chemical - endogenous mammalian	 	2	Inhibited	 	-2.271	1.07E-06	1.83E-02	AKT1,beta-estradiol,CREB1,CTNNB1,GSK3B,MMP9,STAT3	ADGRF5,ANKRD12,BCAP29,BGN,BPNT2,CFLAR,CRIM1,DAB2,EZR,FN1,GPR19,HES1,HES5,HLA-E,IER3,IL1R1,IL6,IQGAP1,ITGB1,JUN,LEF1,MGP,MT-CO2,MT-ND4,NCOA3,NFIL3,NRP2,PECAM1,PTGS2,RRAS2,SERPINB1,SERPINE1,SSBP2,STC1,STMN1,SYNJ2,TBC1D9,TRAM1	38 (7)	7	 	 	 	EGF,IGFBP2,LAMA2,MAPK1,TAC1	APP,Ca2+,CAV1,EGFR,GRM5,TGFB1,TGFB2,TNF	 	 	 	 	
+adenosine	chemical - endogenous mammalian	 	3	Inhibited	 	-2.121	1.70E-06	1.65E-02	adenosine,ADORA2A,CASP1,Cdc42,CREB1,dopamine,DRD2,EGFR,GSK3B,IL1B,NTRK1,NTRK2,PRKCE,STAT3	BCAP29,CCNA2,CCT5,CEBPB,CNR1,CRIM1,CXCL2,FN1,GPR19,HES5,HLA-E,ICAM1,IER3,IL1R1,IL6,JUN,MMP1,MT-CO2,MT-ND4,NFIL3,NRP2,PTGS2,RRAS2,SERPINE1,SLC7A11,SSBP2,STAT3,STC1,STMN1,SYNJ2,TGFBR2,VCAM1	32 (14)	10	ethanol	 	 	 	 	 	 	 	 	
+IL15	cytokine	 	3	Inhibited	 	-2.353	2.00E-06	9.10E-03	CEBPB,CREB1,IL15,MAPK1,PARP1,STAT1,STAT3	BCAP29,CRIM1,CXCL2,DAB2,FN1,GPR19,HES5,ICAM1,IER3,IFI16,IL6,KCTD12,MT-CO2,MT-ND4,NFIL3,NRP2,PTGS2,RRAS2,SAMHD1,SSBP2,STAT3,STC1,STMN1,SYNJ2,TM4SF1,VCAM1	26 (7)	6	APP	 	 	CXCL12,MAPK1	 	 	 	 	 	
+MAPK1	kinase	 	3	Inhibited	 	-2.858	2.37E-06	4.20E-03	CEBPB,CREB1,ELK1,MAPK1,PARP1,SRF	BCAP29,CLDN5,CRIM1,CXCL2,DAB2,FLT1,FN1,GPR19,ICAM1,IER3,IL6,ITGB1,NFIL3,NRP2,PTGR1,PTGS2,RRAS2,SSBP2,STAT3,STC1,STMN1,SYNJ2,TM4SF1,VCAM1	24 (6)	4	ADCYAP1,APP,beta-estradiol,Ca2+,CNR1,CXCL12,EDN1,EGF,EGFR,GRM5,HRAS,IFNG,IL15,levodopa,LIF,palmitic acid,RAPGEF3,TAC1,TGFB1,TNF,VEGFA	arachidonic acid,CAV1	 	PARP1	 	 	 	 	 	
+CDK5	kinase	 	3	 	 	-0.822	2.45E-06	4.99E-02	AKT1,APP,CDK5,DCX,EIF2S1,FMR1,FOXO1,HTT,ITGB1,MAPK10,MTOR,PARP1,PIP5K1C,RBL1,RELA,RPS6KB1,STAT3,TREM2,TRPM2,TRPV1,TSC2	ACTR3,ADAM17,ADAM19,BAMBI,CASP1,CEBPB,CFLAR,CLDN5,CNR1,COL4A1,CXCL2,CYP1B1,FN1,GPR17,HES1,HES5,IFI16,IL6,JUN,LEF1,MGP,MMP1,MT-CO2,MT-ND4,NSDHL,PDIA3,PMAIP1,PRNP,PTGS2,SERPINB1,SERPINE1,SLC7A11,ST3GAL6,STAT3,TNFRSF10B,UBE2K,VCAM1	37 (21)	19	TGFB1	 	 	 	 	 	 	 	 	
+IFNG	cytokine	 	1	Inhibited	 	-3.300	2.64E-06	1.24E-02	IFNG	CNR1,CXCL2,EDNRB,GPR19,HLA-E,ICAM1,IFI16,IL6,KCTD12,LAMC2,PANX1,PTGS2,SAMHD1,SLC7A11,STAT3,TGFBR2,TNFRSF10B,VCAM1	18 (1)	1	APP	 	 	CXCL12,FGF2,GFAP,MAPK1,TNF,VEGFA	CAV1,CNR1	 	 	 	 	
+IL23A	cytokine	 	3	 	biased	-1.897	3.22E-06	3.30E-03	EGFR,IL23A,PRKCD,STAT3	HES5,IL6,JUN,MMP1,MT-CO2,MT-ND4,PTGS2,SERPINE1,SLC7A11,STAT3	10 (4)	4	 	ADCYAP1	 	TNF	 	 	 	 	 	
+RHBDF1	other	 	2	 	biased	-1.633	3.60E-06	5.00E-04	EGFR,RHBDF1	ADAM17,JUN,MMP1,PTGS2,SLC7A11,STAT3	6 (2)	2	 	 	 	EGFR	 	 	 	 	 	
+RHBDF2	other	 	2	 	biased	-1.633	3.60E-06	5.00E-04	EGFR,RHBDF2	ADAM17,JUN,MMP1,PTGS2,SLC7A11,STAT3	6 (2)	2	 	 	 	EGFR	 	 	 	 	 	
+HGF	growth factor	 	3	Inhibited	biased	-2.000	4.00E-06	1.52E-02	EGFR,HGF,NTRK2,PRKCD,PTPN11,RAC1,RELA,STAT1,STAT3	CASP1,CCNA2,HES5,ICAM1,IFI16,JUN,KCTD12,MMP1,MT-CO2,MT-ND4,PTGS2,SAMHD1,SERPINE1,SLC7A11,STAT3,VCAM1	16 (9)	8	 	APP	 	EGFR,PRKCD	 	 	 	 	 	
+ethanol	chemical - endogenous mammalian	 	3	 	 	-1.976	5.39E-06	3.12E-02	ADORA2A,CDK5,CREB1,DRD2,EGFR,EIF2AK2,EIF2S1,ethanol,FYN,GRIN2B,GSK3B,NTRK2,RAC1,RELA,STAT1	ABCG1,BCAP29,CCNA2,CCT5,CEBPB,CNR1,CRIM1,CXCL2,FN1,GPR19,ICAM1,IER3,IFI16,IL6,JUN,KCTD12,MMP1,NFIL3,NRP2,PTGS2,RRAS2,SAMHD1,SERPINE1,SLC7A11,SSBP2,STAT3,STC1,STMN1,SYNJ2,TGFBR2,VCAM1	31 (15)	12	 	 	 	adenosine,CNR1,EIF2AK2,FGF2,GFAP,HRAS,TNF	Ca2+,mir-29,TGFB1	 	 	 	 	
+PRKN	enzyme	 	2	 	 	0.632	5.59E-06	2.10E-03	AKT1,EGFR,GSK3B,PRKN,RELA	CFLAR,JUN,LEF1,MMP1,PRDX1,PTGS2,SERPINE1,SLC7A11,STAT3,VCAM1	10 (5)	5	 	 	 	 	EGFR	 	 	 	 	
+RAPGEF3	other	 	3	 	 	-1.877	5.94E-06	8.90E-03	CEBPB,CREB1,MAP3K2,MAPK1,PARP1,RAP1B,RAPGEF3,STAT3	BCAP29,CRIM1,CXCL2,DAB2,FN1,GPR19,HES5,ICAM1,IER3,IL6,MT-CO2,MT-ND4,NFIL3,NRP2,PTGS2,RRAS2,SSBP2,STAT3,STC1,STMN1,SYNJ2,TM4SF1,VCAM1	23 (8)	5	 	 	 	MAPK1	 	 	 	 	 	
+palmitic acid	chemical - endogenous mammalian	 	3	Inhibited	 	-2.041	6.54E-06	1.43E-02	CEBPB,CREB1,MAPK1,NTRK2,palmitic acid,PARP1,PTPN1,STAT3	BCAP29,CCNA2,CRIM1,CXCL2,DAB2,FN1,GPR19,HES5,ICAM1,IER3,IL6,MT-CO2,MT-ND4,NFIL3,NRP2,PTGS2,RRAS2,SSBP2,STAT3,STC1,STMN1,SYNJ2,TM4SF1,VCAM1	24 (8)	6	 	 	 	MAPK1	 	 	 	 	 	
+CAV1	transmembrane receptor	 	3	 	 	0.200	8.99E-06	2.00E-02	CAV1,CEBPB,CREB1,EGFR,FOS,MAPK1,NTRK2,PARP1,SRC,STAT3	BCAP29,CCNA2,CRIM1,CXCL2,DAB2,FN1,GPR19,HES5,ICAM1,IER3,IL6,MMP1,MT-CO2,MT-ND4,NFIL3,NRP2,RRAS2,SERPINE1,SLC7A11,SSBP2,STC1,STMN1,SYNJ2,TM4SF1,VCAM1	25 (10)	8	TGFB1,VEGFA	beta-estradiol,IFNG	 	 	MAPK1	 	 	 	 	
+mir-21	microRNA	 	1	Inhibited	 	-2.236	9.15E-06	1.90E-03	mir-21	CDH5,CXCL2,IL6,PECAM1,STAT3	5 (1)	1	 	 	 	GFAP,TNF	 	 	 	 	 	
+IGFBP2	other	 	2	 	biased	-1.897	1.13E-05	2.10E-03	EGFR,IGFBP2,STAT3	FN1,HES5,ITGA6,JUN,MMP1,MT-CO2,MT-ND4,PTGS2,SLC7A11,STAT3	10 (3)	3	APP,beta-estradiol	levodopa	 	EFEMP1,EGFR	 	 	 	 	 	
+PRKCD	kinase	 	2	 	biased	-1.667	1.42E-05	7.10E-03	EGFR,PRKCD,STAT3	HES5,JUN,MMP1,MT-CO2,MT-ND4,PTGS2,SERPINE1,SLC7A11,STAT3	9 (3)	3	EGF,HGF	 	 	EGFR,GFAP,TNF	 	 	 	 	 	
+EGF	growth factor	 	2	 	 	-1.877	1.52E-05	1.89E-02	AKT1,CREB1,EGF,EGFR,RPS6KB1,STAT3	BCAP29,CFLAR,CRIM1,FN1,GPR19,HES5,IER3,JUN,MMP1,MT-CO2,MT-ND4,NFIL3,NRP2,PTGS2,RRAS2,SERPINE1,SLC7A11,SSBP2,STAT3,STC1,STMN1,SYNJ2,VCAM1	23 (6)	6	beta-estradiol,CNR1	 	 	Ca2+,EGFR,FGF2,MAPK1,PRKCD,VEGFA	GFAP	 	 	 	 	
+MAG	other	 	3	 	 	-0.816	1.61E-05	3.48E-02	CREB1,MAG,NTRK2,PARP1,PRKCA,RAC1,STAT1,STAT3	BCAP29,CCNA2,CRIM1,FN1,GPR19,HES5,IER3,IFI16,IL6,KCTD12,MT-CO2,MT-ND4,NFIL3,NRP2,PTGS2,RRAS2,SAMHD1,SERPINE1,SSBP2,STAT3,STC1,STMN1,SYNJ2,VCAM1	24 (8)	6	 	 	 	Ca2+,PARP1	 	 	 	 	 	
+levodopa	chemical - endogenous mammalian	 	3	 	 	-1.441	1.68E-05	1.67E-02	CEBPB,CREB1,FAAH,GSK3B,levodopa,MAPK1,MAPT,PARP1,PPARG	BCAP29,CDC42EP3,CLDN5,CNR1,COL4A1,CRIM1,CXCL2,DAB2,EDNRB,EIF4EBP2,EIF4G2,ETS2,FN1,FNIP1,FTL,GPR19,ICAM1,IER3,IFNAR2,IL6,IQGAP1,KDM4B,NFATC3,NFIL3,NRP2,PRICKLE1,PTGS2,RRAS2,SERPINE1,SSBP2,STAT3,STC1,STMN1,SYNJ2,TM4SF1,TMEM70,VCAM1,VMP1,WWTR1	39 (9)	6	 	 	 	HRAS,MAPK1,TAC1,TTYH1	CNR1,CXCL12,GFAP,IGFBP2,PDCD4	 	 	 	 	
+ADCYAP1	other	 	3	Inhibited	 	-2.117	1.69E-05	3.50E-02	ADCYAP1,CEBPB,CREB1,DIO2,GSK3B,MAPK1,MAPT,NTRK2,PARP1,STAT3	BCAP29,CCNA2,CRIM1,CXCL2,CYP1B1,DAB2,FN1,GPR19,HES5,ICAM1,IER3,IL6,MT-CO2,MT-ND4,NFIL3,NRP2,PTGS2,RRAS2,SERPINB1,SERPINE1,SSBP2,STAT3,STC1,STMN1,SYNJ2,TM4SF1,VCAM1	27 (10)	8	 	 	 	GFAP,MAPK1,TTYH1	IL23A,TNF	 	 	 	 	
+GRM5	G-protein coupled receptor	 	3	 	 	-1.460	1.70E-05	2.27E-02	CEBPB,CNR1,CREB1,GRM5,MAPK1,PARP1,STAT3	BCAP29,CRIM1,CXCL2,DAB2,FN1,GPR19,HES5,ICAM1,IER3,IL6,MT-CO2,MT-ND4,NFIL3,NRP2,PTGS2,RRAS2,SSBP2,STAT3,STC1,STMN1,SYNJ2,TM4SF1,VCAM1	23 (7)	5	 	beta-estradiol	 	Ca2+,CNR1,MAPK1	 	 	 	 	 	
+CNR1	G-protein coupled receptor	1.783	3	 	 	-1.460	2.02E-05	2.92E-02	CEBPB,CNR1,CREB1,MAPK1,PARP1,STAT3	BCAP29,CRIM1,CXCL2,DAB2,FN1,GPR19,HES5,ICAM1,IER3,IL6,MT-CO2,MT-ND4,NFIL3,NRP2,PTGS2,RRAS2,SSBP2,STAT3,STC1,STMN1,SYNJ2,TM4SF1,VCAM1	23 (6)	5	ethanol,GRM5	Becn2,GPRASP1,IFNG,levodopa	 	EGF,FGF2,MAPK1	 	 	 	 	 	
+HRAS	enzyme	 	3	 	 	-1.964	2.03E-05	1.72E-02	CEBPB,CREB1,GRIN2B,GSK3B,HRAS,MAPK1,PARP1	BCAP29,CRIM1,CXCL2,DAB2,FN1,GPR19,ICAM1,IER3,IL6,NFIL3,NRP2,PTGS2,RRAS2,SERPINE1,SSBP2,STAT3,STC1,STMN1,SYNJ2,TM4SF1,VCAM1	21 (7)	4	ethanol,levodopa	 	 	MAPK1,VEGFA	 	 	 	 	 	
+VEGFA	growth factor	 	2	 	 	-1.528	2.11E-05	1.66E-02	CAV1,CREB1,MMP9,STAT3,VEGFA	BCAP29,CRIM1,FN1,GPR19,HES5,ICAM1,IER3,ITGB1,MT-CO2,MT-ND4,NFIL3,NRP2,PTGS2,RRAS2,SSBP2,STAT3,STC1,STMN1,SYNJ2,TAL1,VCAM1	21 (5)	5	EGF,EGFR,FGF2,HRAS,IFNG,TGFB1	Meg3	 	CAV1,MAPK1	 	 	 	 	 	
+TGFB1	growth factor	 	1	 	 	-1.069	2.27E-05	2.16E-02	TGFB1	CXCL2,EDNRB,FN1,GPR19,HES1,IER3,IL6,IRAK2,PTGS2,SAMHD1,SERPINE1,STAT3,TGFBR2,TIA1	14 (1)	1	 	beta-estradiol,ethanol,SNAI1	 	APP,CAV1,CDK5,LIF,MAPK1,TNF,VEGFA	Ca2+,CXCL12,GFAP	 	 	 	 	
+CXCL12	cytokine	 	3	Inhibited	 	-2.400	2.36E-05	1.99E-02	CEBPB,CREB1,CXCL12,MAPK1,MAPK14,PARP1	ADAM17,BCAP29,CRIM1,CXCL2,DAB2,FN1,GPR19,ICAM1,IER3,IL6,NFIL3,NRP2,PTGS2,RRAS2,SSBP2,STAT3,STC1,STMN1,SYNJ2,TM4SF1,VCAM1	21 (6)	5	IFNG,IL15	APP,levodopa,TGFB1	 	Ca2+,MAPK1,TNF	 	 	 	 	 	
+PARP1	enzyme	 	3	Inhibited	 	-2.400	2.36E-05	1.77E-02	CREB1,ELK1,PARP1,SRF	BCAP29,CLDN5,CRIM1,FLT1,FN1,GPR19,ICAM1,IER3,IL6,ITGB1,NFIL3,NRP2,PTGR1,PTGS2,RRAS2,SSBP2,STAT3,STC1,STMN1,SYNJ2,VCAM1	21 (4)	3	APP,MAG,MAPK1	 	 	TNF	 	 	 	 	 	
+FGF2	growth factor	 	2	 	 	-0.626	2.41E-05	2.58E-02	CREB1,EIF4EBP1,FGF2,GSK3B,RAC1,STAT1	BCAP29,CFLAR,CRIM1,FN1,GPR19,HES1,ICAM1,IER3,IFI16,JUN,KCTD12,LEF1,NFIL3,NRP2,PTGS2,RRAS2,SAMHD1,SERPINE1,SSBP2,STAT3,STC1,STMN1,SYNJ2	23 (6)	6	APP,CNR1,EGF,ethanol,IFNG	 	 	EGFR,TAC1,VEGFA	 	 	 	 	 	
+HGF	growth factor	 	2	 	biased	-1.414	2.56E-05	1.10E-02	EGFR,HGF,PRKCD,RAC1	CASP1,ICAM1,JUN,MMP1,PTGS2,SERPINE1,SLC7A11,STAT3	8 (4)	4	 	APP	 	EGFR,PRKCD	 	 	 	 	 	
+Meg3	other	 	1	 	biased	0.577	2.74E-05	4.00E-04	Meg3	FLT1,HES1,IQGAP1	3 (1)	1	 	 	 	 	VEGFA	 	 	 	 	
+EDN1	cytokine	 	2	 	 	-1.964	2.84E-05	2.15E-02	CREB1,EDN1,MAPK14,STAT3	BCAP29,CRIM1,EDNRB,FN1,GPR19,HES5,IER3,IL6,MMP1,MT-CO2,MT-ND4,NFIL3,NRP2,PTGS2,RRAS2,SERPINE1,SSBP2,STAT3,STC1,STMN1,SYNJ2	21 (4)	4	APP,TNF	 	 	Ca2+,MAPK1	 	 	 	 	 	
+arachidonic acid	chemical - endogenous mammalian	 	3	Activated	 	2.400	2.95E-05	2.08E-02	arachidonic acid,CEBPB,CREB1,GSK3B,MAPK1,MAPT,PARP1	BCAP29,CRIM1,CXCL2,DAB2,FN1,GPR19,ICAM1,IER3,IL6,NFIL3,NRP2,PTGS2,RRAS2,SERPINE1,SSBP2,STAT3,STC1,STMN1,SYNJ2,TM4SF1,VCAM1	21 (7)	4	 	 	 	 	MAPK1	 	 	 	 	
+LIF	cytokine	 	2	 	 	-1.091	3.17E-05	1.92E-02	CREB1,LIF,STAT3	BCAP29,CDH5,CRIM1,CXCL2,FN1,GPR19,HES5,IER3,JUN,MT-CO2,MT-ND4,NFIL3,NRP2,PECAM1,PTGS2,RRAS2,SSBP2,STAT3,STC1,STMN1,SYNJ2	21 (3)	3	APP,TGFB1	SNAI1	 	GFAP,MAPK1,TAC1	 	 	 	 	 	
+MAPK1	kinase	 	2	Inhibited	 	-2.236	3.66E-05	1.92E-02	CEBPB,CREB1,MAPK1,PARP1	BCAP29,CRIM1,CXCL2,DAB2,FN1,GPR19,ICAM1,IER3,IL6,NFIL3,NRP2,PTGS2,RRAS2,SSBP2,STAT3,STC1,STMN1,SYNJ2,TM4SF1,VCAM1	20 (4)	3	ADCYAP1,APP,beta-estradiol,Ca2+,CNR1,CXCL12,EDN1,EGF,EGFR,GRM5,HRAS,IFNG,IL15,levodopa,LIF,palmitic acid,RAPGEF3,TAC1,TGFB1,TNF,VEGFA	arachidonic acid,CAV1	 	PARP1	 	 	 	 	 	
+EGFR	kinase	 	1	 	biased	-1.342	5.02E-05	1.80E-03	EGFR	JUN,MMP1,PTGS2,SLC7A11,STAT3	5 (1)	1	EGF,FGF2,HGF,IGFBP2,PRKCD,RHBDF1,RHBDF2,TAC1	beta-estradiol,PRKN	 	Ca2+,GBP1,MAPK1,VEGFA	 	 	 	 	 	
+ROCK2	kinase	 	3	 	 	1.706	5.59E-05	4.21E-02	BACE1,CREB1,RAC1,RELA,ROCK2,STAT1,STAT3	BCAP29,CRIM1,FN1,GPR19,HES5,ICAM1,IER3,IFI16,KCTD12,MT-CO2,MT-ND4,NFIL3,NRP2,PTGS2,RRAS2,SAMHD1,SSBP2,STAT3,STC1,STMN1,SYNJ2,VCAM1	22 (7)	5	 	 	 	APP	 	 	 	 	 	
+PARP1	enzyme	 	1	Inhibited	biased	-2.000	5.78E-05	7.80E-03	PARP1	ICAM1,IL6,PTGS2,VCAM1	4 (1)	1	APP,MAG,MAPK1	 	 	TNF	 	 	 	 	 	
+IL6R	transmembrane receptor	 	1	 	biased	-0.577	6.76E-05	9.20E-03	IL6R	IL6,PTGS2,VCAM1	3 (1)	1	 	 	 	 	 	 	 	 	 	
+PDCD4	other	 	1	 	biased	0.577	2.30E-04	1.95E-02	PDCD4	IL6,JUN,PTGS2	3 (1)	1	 	APP,FAT1,levodopa	 	 	 	 	 	 	 	
+LIF	cytokine	 	1	 	 	-0.816	2.31E-04	1.72E-02	LIF	CDH5,CXCL2,JUN,MT-CO2,MT-ND4,PECAM1	6 (1)	1	APP,TGFB1	SNAI1	 	GFAP,MAPK1,TAC1	 	 	 	 	 	
+FAT1	other	 	1	 	biased	-0.577	3.63E-04	2.41E-02	FAT1	IL6,JUN,PTGS2	3 (1)	1	 	 	 	 	PDCD4	 	 	 	 	
+KLKB1	peptidase	 	1	 	biased	-1.414	3.66E-04	2.30E-03	KLKB1	ICAM1,VCAM1	2 (1)	1	 	 	 	 	 	 	 	 	 	
+MAP3K12	kinase	 	1	 	biased	0.000	3.66E-04	3.30E-03	MAP3K12	JUN,STAT3	2 (1)	1	 	 	 	 	 	 	 	 	 	
+EIF2AK2	kinase	 	3	 	 	-0.707	3.81E-04	2.52E-02	EIF2AK2,EIF2S1,STAT1,STAT3	CEBPB,HES5,ICAM1,IFI16,KCTD12,MT-CO2,MT-ND4,SAMHD1	8 (4)	3	APP,ethanol	mir-29	 	 	 	 	 	 	 	
+EGF	growth factor	 	1	 	biased	-1.000	4.07E-04	2.33E-02	EGF	JUN,PTGS2,SERPINE1,VCAM1	4 (1)	1	beta-estradiol,CNR1	 	 	Ca2+,EGFR,FGF2,MAPK1,PRKCD,VEGFA	GFAP	 	 	 	 	
+ITGB1	transmembrane receptor	-1.541	2	 	 	-0.707	8.65E-04	2.89E-02	ITGB1,LAMA2,STAT3	ADAM17,ADAM19,CDH5,CLDN5,FN1,HES5,MT-CO2,MT-ND4	8 (3)	3	STK38L,TLN1,TNF	VPS18	 	LAMA2	 	 	 	 	 	
+EDN1	cytokine	 	1	 	 	-1.732	1.02E-03	3.38E-02	EDN1	EDNRB,MMP1,SERPINE1	3 (1)	1	APP,TNF	 	 	Ca2+,MAPK1	 	 	 	 	 	
+CD40LG	cytokine	 	1	 	biased	-1.414	1.08E-03	7.30E-03	CD40LG	ICAM1,VCAM1	2 (1)	1	 	 	 	 	 	 	 	 	 	
+mir-29	microRNA	 	3	 	biased	0.816	1.50E-03	3.10E-02	EIF2AK2,EIF2S1,mir-29,PMP22,STAT1	CEBPB,ICAM1,IFI16,JUN,KCTD12,SAMHD1	6 (5)	3	 	ethanol	 	 	EIF2AK2	 	 	 	 	
+SNAI1	transcription regulator	 	3	 	 	0.447	1.80E-03	4.37E-02	AKT1,ATM,SNAI1,TAZ,YAP1	CFLAR,FN1,JUN,SERPINE1,TGFBR2	5 (5)	4	 	 	 	GFAP,TAZ	LIF,TGFB1	 	 	 	 	
+EIF2AK2	kinase	 	2	 	biased	-1.342	2.18E-03	2.73E-02	EIF2AK2,EIF2S1,STAT1	CEBPB,ICAM1,IFI16,KCTD12,SAMHD1	5 (3)	2	APP,ethanol	mir-29	 	 	 	 	 	 	 	
+TGFB2	growth factor	 	1	 	biased	-1.414	3.52E-03	1.54E-02	TGFB2	CDH5,PECAM1	2 (1)	1	 	beta-estradiol	 	 	 	 	 	 	 	
+TTYH1	ion channel	 	1	 	biased	1.414	3.52E-03	1.46E-02	TTYH1	HES1,HES5	2 (1)	1	ADCYAP1,levodopa	 	 	 	 	 	 	 	 	
+CAV1	transmembrane receptor	 	1	 	biased	-1.414	7.21E-03	4.11E-02	CAV1	ICAM1,VCAM1	2 (1)	1	TGFB1,VEGFA	beta-estradiol,IFNG	 	 	MAPK1	 	 	 	 	
+VEGFA	growth factor	 	1	 	biased	-1.414	7.21E-03	4.51E-02	VEGFA	ICAM1,TAL1	2 (1)	1	EGF,EGFR,FGF2,HRAS,IFNG,TGFB1	Meg3	 	CAV1,MAPK1	 	 	 	 	 	
+GFAP	other	 	1	 	 	1.414	9.49E-03	2.42E-02	GFAP	ITGA2,ITGA6	2 (1)	1	ADCYAP1,APP,ethanol,IFNG,LIF,mir-21,PRKCD,SNAI1,TAC1,TNF	EGF,levodopa,TGFB1	 	 	 	 	 	 	 	
+LAMA2	other	 	1	 	 	-1.414	9.49E-03	4.01E-02	LAMA2	CDH5,CLDN5	2 (1)	1	beta-estradiol,ITGB1	 	 	 	 	 	 	 	 	
+TENM1	transmembrane receptor	 	1	 	biased	-1.414	1.20E-02	3.32E-02	TENM1	EDNRB,MGP	2 (1)	1	 	APP	 	 	 	 	 	 	 	
+ABCC4	transporter	 	1	 	biased	1.000	1.92E-02	3.40E-02	ABCC4	ABCG2	1 (1)	1	 	 	 	 	 	 	 	 	 	
+Becn2	other	 	1	 	biased	-1.000	1.92E-02	4.96E-02	Becn2	CNR1	1 (1)	1	 	 	 	 	CNR1	 	 	 	 	
+DANCR	other	 	1	 	biased	-1.000	1.92E-02	1.57E-02	DANCR	RAB1A	1 (1)	1	 	 	 	 	 	 	 	 	 	
+EFEMP1	enzyme	 	1	 	biased	-1.000	1.92E-02	3.33E-02	EFEMP1	ADAM17	1 (1)	1	IGFBP2	 	 	 	 	 	 	 	 	
+Fendrr	other	 	1	 	biased	-1.000	1.92E-02	2.88E-02	Fendrr	FOXF1	1 (1)	1	 	 	 	 	 	 	 	 	 	
+GBP1	enzyme	 	1	 	biased	-1.000	1.92E-02	3.35E-02	GBP1	MMP1	1 (1)	1	EGFR	 	 	 	 	 	 	 	 	
+GPRASP1	transporter	 	1	 	biased	-1.000	1.92E-02	4.96E-02	GPRASP1	CNR1	1 (1)	1	 	 	 	 	CNR1	 	 	 	 	
+HYOU1	other	 	1	 	biased	-1.000	1.92E-02	3.51E-02	HYOU1	PECAM1	1 (1)	1	 	 	 	 	Ca2+	 	 	 	 	
+MIB1	enzyme	 	1	 	biased	1.000	1.92E-02	4.96E-02	MIB1	HES5	1 (1)	1	 	 	 	 	 	 	 	 	 	
+PDIA3	peptidase	-0.665	1	 	biased	1.000	1.92E-02	3.22E-02	PDIA3	PRNP	1 (1)	1	 	 	 	 	 	 	 	 	 	
+PRKDC	kinase	 	1	 	biased	-1.000	1.92E-02	4.99E-02	PRKDC	VCAM1	1 (1)	1	 	 	 	 	 	 	 	 	 	
+RHBDF1	other	 	1	 	biased	-1.000	1.92E-02	3.33E-02	RHBDF1	ADAM17	1 (1)	1	 	 	 	EGFR	 	 	 	 	 	
+RHBDF2	other	 	1	 	biased	-1.000	1.92E-02	3.33E-02	RHBDF2	ADAM17	1 (1)	1	 	 	 	EGFR	 	 	 	 	 	
+STK38L	kinase	 	1	 	biased	-1.000	1.92E-02	4.85E-02	STK38L	ITGB1	1 (1)	1	 	 	 	ITGB1	 	 	 	 	 	
+TAZ	enzyme	 	1	 	biased	-1.000	1.92E-02	4.88E-02	TAZ	FN1	1 (1)	1	SNAI1	 	 	 	 	 	 	 	 	
+TLN1	other	 	1	 	biased	-1.000	1.92E-02	4.85E-02	TLN1	ITGB1	1 (1)	1	 	 	 	ITGB1	 	 	 	 	 	
+VPS18	transporter	 	1	 	biased	1.000	1.92E-02	4.85E-02	VPS18	ITGB1	1 (1)	1	 	 	 	 	ITGB1	 	 	 	 	
+mir-183	microRNA	 	1	 	biased	1.000	1.92E-02	1.55E-02	mir-183	SEL1L	1 (1)	1	 	 	 	 	 	 	 	 	 	
+DRP2	other	 	1	 	biased	1.000	3.79E-02	3.65E-02	DRP2	UTRN	1 (1)	1	 	 	 	 	 	 	 	 	 	
+
+Diseases and Bio Functions for My Projects->Adult_WM_vs_GM->WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM
+Categories	Functions	Diseases or Functions Annotation	p-Value	Predicted Activation State	Activation z-score	Notes	Bias-corrected z-score	Molecules	# Molecules	
+Cellular Compromise	degeneration	Degeneration of cells	1.16E-07	 	1.579	 	0.515	JUN,CNR1,EP300,EDNRB,CASP1,IL6,IL6ST,STMN1,IREB2,ETS2,TGFBR2,STAT3,PRNP,PTGS2,FLT1,RAB1A,PARL,SERPINE1,ZPR1,NFIL3,TARDBP,USP53	22	
+Cell Death and Survival, Cellular Compromise, Neurological Disease, Tissue Morphology	degeneration	Degeneration of neurons	3.74E-07	 	1.381	bias	0.328	JUN,CNR1,EP300,EDNRB,CASP1,IL6,STMN1,IREB2,ETS2,TGFBR2,STAT3,PRNP,PTGS2,FLT1,RAB1A,PARL,SERPINE1,ZPR1,NFIL3,TARDBP,USP53	21	
+Neurological Disease	degeneration	Degeneration of nervous system	7.25E-07	 	1.355	bias	0.222	JUN,EP300,CNR1,EDNRB,CASP1,IL6,STMN1,IREB2,IL6ST,ETS2,TGFBR2,SLC7A11,STAT3,PRNP,PTGS2,FLT1,RAB1A,PARL,SERPINE1,ZPR1,NFIL3,USP53,TARDBP	23	
+Neurological Disease	neurodegeneration	Neurodegeneration	3.57E-06	 	1.160	 	0.081	JUN,EP300,CNR1,EDNRB,CASP1,IL6,STMN1,IREB2,ETS2,TGFBR2,SLC7A11,STAT3,PRNP,PTGS2,FLT1,RAB1A,PARL,SERPINE1,ZPR1,NFIL3,USP53,TARDBP	22	
+Cell-To-Cell Signaling and Interaction, Nervous System Development and Function	activation	Activation of astrocytes	2.99E-05	 	-1.942	bias	-1.172	PRNP,IL1R1,PTGS2,CEBPB,CASP1,SERPINE1,IL6,TARDBP	8	
+Cell Death and Survival	necrosis	Necrosis	3.01E-05	 	0.321	 	0.057	JUN,INSM1,ITGA2,CNR1,FKBP1A,SEL1L,IL6,TNFRSF10B,ETS2,ADAM17,CFLAR,STAT3,FN1,IL1R1,ITGB1,PARL,CASP2,NFIL3,CASP7,TARDBP,RRAS2,GBE1,EP300,CASP1,WWTR1,ACVRL1,IL6ST,SIAH1,RPS3,SLC7A11,PRNP,PANX1,PTGS2,CEBPB,PDIA3,UBE2K,SERPINE1,C9orf72,GCLM,MMP1,USP53	41	
+Cell Death and Survival	cell death	Neuronal cell death	5.30E-05	 	-0.112	 	-0.326	JUN,INSM1,ITGA2,CNR1,FKBP1A,SEL1L,IL6,ETS2,ADAM17,CFLAR,STAT3,FN1,IL1R1,ITGB1,PARL,CASP2,NFIL3,CASP7,TARDBP,RRAS2,GBE1,EP300,CASP1,ACVRL1,SIAH1,RPS3,PRNP,PANX1,PTGS2,CEBPB,PDIA3,UBE2K,SERPINE1,C9orf72,GCLM,MMP1,USP53	37	
+Organismal Injury and Abnormalities	degeneration	Organ Degeneration	1.49E-04	 	0.545	bias	-0.430	JUN,CNR1,EDNRB,CASP1,IL6,IREB2,ETS2,TGFBR2,SLC7A11,PRNP,PTGS2,NFIL3,USP53	13	
+Neurological Disease, Organismal Injury and Abnormalities	degeneration	Degeneration of brain	1.92E-04	 	0.220	bias	-0.572	JUN,TGFBR2,SLC7A11,PRNP,PTGS2,CNR1,CASP1,IL6,NFIL3,IREB2,ETS2	11	
+Neurological Disease, Organismal Injury and Abnormalities, Psychological Disorders	cerebral degeneration	Cerebral degeneration	1.92E-04	 	 	 	 	EP300,C9orf72,IL6,NFIL3,TARDBP,ETS2	6	
+Cell-To-Cell Signaling and Interaction, Nervous System Development and Function	activation	Activation of neuroglia	2.22E-04	Decreased	-2.378	 	-2.021	PRNP,FN1,IL1R1,CEBPB,PTGS2,CASP1,SERPINE1,ABHD12,IL6,TARDBP	10	
+Cell Cycle	cleavage	Cleavage of cells	2.28E-04	 	 	 	 	LEF1,TIAL1,WWTR1,HES1,NCOA3	5	
+Neurological Disease, Organismal Injury and Abnormalities, Psychological Disorders	amyotrophic lateral sclerosis	Amyotrophic lateral sclerosis	2.68E-04	 	 	 	 	C9orf72,IL6,NFIL3,TARDBP,ETS2	5	
+Cell Morphology, Cellular Movement	cell spreading	Cell spreading	3.13E-04	 	 	 	 	STAT3,FN1,ITGA6,EDNRB	4	
+Nervous System Development and Function	activation	Activation of neuronal layer	3.58E-04	 	 	 	 	THRA,CNR1	2	
+Cell-To-Cell Signaling and Interaction	transduction	Transduction of multilineage progenitor cells	3.58E-04	 	 	 	 	FN1,IL6	2	
+Organismal Injury and Abnormalities	edema	Edema	5.50E-04	 	1.342	 	1.200	PRNP,FLT1,CD93,SERPINE1,IL6	5	
+Cell Death and Survival	apoptosis	Apoptosis of sympathetic neuron	7.10E-04	 	0.478	 	0.591	JUN,ADAM17,CASP1,CASP2,SIAH1	5	
+Cell Death and Survival	apoptosis	Apoptosis	7.76E-04	 	0.950	 	0.348	JUN,INSM1,ITGA2,CNR1,SEL1L,TNFRSF10B,ADAM17,CFLAR,STAT3,FN1,ITGB1,PARL,CASP2,CASP7,GBE1,EP300,CASP1,WWTR1,IL6ST,SIAH1,RPS3,PRNP,PANX1,PTGS2,CEBPB,CCNA2,HES1,GCLM,USP53	29	
+Neurological Disease, Organismal Injury and Abnormalities	progressive encephalopathy	Progressive encephalopathy	8.21E-04	 	 	 	 	JUN,FTL,CNR1,IL6,PRDX1,ABCG2,STMN1,ETS2,TGFBR2,STAT3,PRNP,PTGS2,C9orf72,ICAM1,NFIL3,TARDBP	16	
+Cell Cycle	cell division	Cell division of stem cells	8.42E-04	 	 	 	 	TIAL1,WWTR1,HES1,NCOA3	4	
+Nervous System Development and Function	neuroprotection	Neuroprotection of cerebral cortex cells	8.42E-04	 	0.287	bias	0.779	STAT3,PRNP,PTGS2,CNR1	4	
+Cell Death and Survival, Neurological Disease, Organismal Injury and Abnormalities	cell death	Cell death of cortical neurons	9.46E-04	 	0.546	 	0.695	JUN,CFLAR,PRNP,IL1R1,PTGS2,EP300,SERPINE1,GCLM,CASP2,NFIL3,TARDBP,ETS2	12	
+Nervous System Development and Function	neuroprotection	Neuroprotection of CA1 neuron	1.06E-03	 	 	 	 	STAT3,PTGS2	2	
+Neurological Disease	neurological disorder	Progressive neurological disorder	1.08E-03	 	 	 	 	JUN,FTL,CNR1,IL6,PRDX1,ABCG2,STMN1,ETS2,TGFBR2,STAT3,PRNP,PTGS2,PDIA3,C9orf72,ICAM1,NFIL3,TARDBP	17	
+Cell Morphology, Cellular Movement	cell spreading	Cell spreading of tumor cell lines	1.31E-03	 	 	 	 	STAT3,FN1,EDNRB	3	
+Cellular Development	differentiation	Differentiation of stem cells	1.33E-03	 	-0.557	 	0.192	JUN,THRA,PGF,WWTR1,IL6,IL6ST,NCOA3,EIF4G2,ZFP36L2,STAT3,FN1,HES5,ITGB1,FLT1,HES1,TAL1	16	
+Neurological Disease	damage	Damage of nervous system	1.50E-03	 	0.525	 	0.150	JUN,TGFBR2,CFLAR,PRNP,IL1R1,PTGS2,CNR1,FKBP1A,CASP1,IL6,GPR17,NFIL3	12	
+Neurological Disease	progressive motor neuropathy	Progressive motor neuropathy	2.04E-03	 	 	 	 	PRNP,FTL,CNR1,PDIA3,C9orf72,IL6,NFIL3,STMN1,ETS2,TARDBP	10	
+Cell Death and Survival, Cell Morphology, Nervous System Development and Function, Neurological Disease, Organ Morphology, Organismal Development, Organismal Injury and Abnormalities, Tissue Morphology	loss	Loss of CA1 neuron	2.09E-03	 	 	 	 	PRNP,CEBPB	2	
+Cardiovascular System Development and Function, Cellular Development, Cellular Function and Maintenance, Cellular Growth and Proliferation, Organismal Development, Tissue Development	proliferation	Proliferation of microvascular endothelial cells	2.09E-03	 	 	 	 	IL6,PECAM1	2	
+Cell Signaling, Molecular Transport, Nucleic Acid Metabolism, Small Molecule Biochemistry	accumulation	Accumulation of cyclic AMP	2.10E-03	 	 	 	 	PRNP,CNR1,ICAM1	3	
+Nervous System Development and Function	neuroprotection	Neuroprotection of hippocampus	2.10E-03	 	 	 	 	STAT3,PRNP,PTGS2	3	
+Neurological Disease, Organismal Injury and Abnormalities	abnormality	Abnormality of cerebral cortex	2.23E-03	 	-0.570	 	-1.002	EIF4EBP2,LEF1,ITGA6,CNR1,EP300,IREB2,ETS2,SLC7A11,CFLAR,PRNP,CEBPB,PTGS2,NFIL3,TARDBP	14	
+Cellular Development, Embryonic Development, Organismal Development	differentiation	Differentiation of embryonic stem cells	2.26E-03	 	-0.180	bias	0.530	JUN,STAT3,FN1,THRA,FLT1,WWTR1,IL6,EIF4G2	8	
+Metabolic Disease, Organismal Injury and Abnormalities	amyloidosis	Amyloidosis	2.29E-03	 	 	 	 	JUN,TGFBR2,STAT3,PRNP,PTGS2,CNR1,IL6,PRDX1,ICAM1,ABCG2,BGN,ETS2	12	
+Inflammatory Response	inflammatory response	Inflammatory response	2.31E-03	Decreased	-2.433	 	-2.113	STAT3,PRNP,FN1,PTGS2,CEBPB,ABHD12,IL6	7	
+Cell Death and Survival	cell death	Cell death of tumor cell lines	2.41E-03	 	-0.368	 	-0.527	JUN,STAT3,SLC7A11,CFLAR,PTGS2,CNR1,CASP1,WWTR1,NFIL3,TNFRSF10B	10	
+Cellular Development, Cellular Growth and Proliferation, Nervous System Development and Function, Tissue Development	outgrowth	Outgrowth of neurons	2.46E-03	 	-1.735	bias	-0.733	ITGA6,EZR,CNR1,IL6,HDGFL3,IL6ST,VCAM1,EIF4G2,NFATC3,CFLAR,ADAM17,STAT3,PRNP,FN1,ITGB1,PDIA3,SERPINE1	17	
+Cellular Development, Nervous System Development and Function	differentiation	Differentiation of astrocytes	2.96E-03	 	-1.231	 	-1.046	STAT3,HES5,ITGB1,HES1,ACTR3,IL6ST	6	
+Cellular Development	differentiation	Differentiation of central nervous system cells	3.06E-03	 	-0.342	 	0.146	STAT3,PRNP,FN1,HES5,ITGB1,CNR1,HES1,ACTR3,IL6ST	9	
+Cellular Development, Cellular Growth and Proliferation, Nervous System Development and Function, Tissue Development	growth	Growth of neurites	3.14E-03	 	-1.962	 	-0.985	MTMR9,EP300,EZR,CNR1,IL6,HDGFL3,IL6ST,VCAM1,EIF4G2,NFATC3,CFLAR,ADAM17,STAT3,PRNP,FN1,ITGB1,FLT1,PDIA3,SERPINE1,ZPR1	20	
+Cellular Development, Cellular Function and Maintenance, Cellular Growth and Proliferation	assembly	Assembly of cells	3.14E-03	 	 	 	 	PANX1,IL6,PECAM1	3	
+Drug Metabolism, Lipid Metabolism, Small Molecule Biochemistry	synthesis	Synthesis of prostaglandin E2	3.14E-03	 	 	 	 	PRNP,PTGS2,IL6	3	
+Nervous System Development and Function	myelination	Myelination of nervous system	3.26E-03	 	-1.091	bias	-0.591	JUN,ITGB1,THRA,PTPRE,ADAM19,GPR17,IL6ST	7	
+Cell Death and Survival, Cellular Compromise, Neurological Disease, Tissue Morphology	neurodegeneration	Neurodegeneration of neurites	3.26E-03	 	0.391	 	-0.048	JUN,CASP1,SERPINE1,ZPR1,NFIL3,STMN1,TARDBP	7	
+Cell Death and Survival, Cellular Function and Maintenance	self-renewal	Self-renewal of cells	3.38E-03	 	-1.664	bias	-0.979	STAT3,ITGB1,LEF1,WWTR1,SEL1L,HES1	6	
+Cell-To-Cell Signaling and Interaction, Hematological System Development and Function, Immune Cell Trafficking, Inflammatory Response	adhesion	Adhesion of phagocytes	3.45E-03	 	 	 	 	IL1R1,ITGB1	2	
+Cell-To-Cell Signaling and Interaction, Embryonic Development	binding	Binding of mesenchymal cells	3.45E-03	 	 	 	 	ITGB1,VCAM1	2	
+Cell-To-Cell Signaling and Interaction, Cellular Compromise, Neurological Disease, Organismal Injury and Abnormalities	damage	Damage of synapse	3.45E-03	 	 	 	 	PRNP,IL6	2	
+Nervous System Development and Function, Tissue Morphology	quantity	Quantity of radial glial cells	3.45E-03	 	 	 	 	STAT3,ITGB1	2	
+Nervous System Development and Function	myelination	Myelination	3.77E-03	 	0.277	 	0.725	JUN,FN1,ITGB1,THRA,PTPRE,ADAM19,GPR17,IL6ST,TARDBP	9	
+Cell Death and Survival, Neurological Disease, Organismal Injury and Abnormalities	cell death	Cell death of cerebral cortex cells	4.11E-03	 	0.331	 	0.360	JUN,EP300,RPS3,ETS2,CFLAR,PRNP,IL1R1,PTGS2,SERPINE1,GCLM,CASP2,NFIL3,TARDBP	13	
+Cellular Compromise, Neurological Disease, Organismal Injury and Abnormalities	damage	Damage of neurons	4.25E-03	 	-0.440	 	-0.884	TGFBR2,PRNP,PTGS2,FKBP1A,CNR1,IL6,NFIL3	7	
+Cellular Movement	cell movement	Cell movement of stem cells	4.35E-03	Decreased	-2.186	bias	-1.457	ADAM17,ITGB1,PGF,FLT1,EDNRB,SELE	6	
+Neurological Disease, Organismal Injury and Abnormalities	neurodegeneration	Neurodegeneration of brain	4.40E-03	 	-0.346	 	-1.032	SLC7A11,PRNP,PTGS2,CNR1,IL6,NFIL3,IREB2,ETS2	8	
+Cell Death and Survival, Organismal Injury and Abnormalities	necrosis	Necrosis of epithelial tissue	4.62E-03	 	1.982	 	1.902	CFLAR,ITGB1,ITGA2,SEL1L	4	
+Metabolic Disease, Neurological Disease, Organismal Injury and Abnormalities, Psychological Disorders	Alzheimer disease	Alzheimer disease	4.67E-03	 	 	 	 	JUN,TGFBR2,STAT3,PRNP,PTGS2,CNR1,IL6,PRDX1,ICAM1,ABCG2,ETS2	11	
+Cellular Development, Cellular Growth and Proliferation, Nervous System Development and Function, Tissue Development	outgrowth	Outgrowth of neurites	4.75E-03	Decreased	-2.040	bias	-1.044	EZR,CNR1,IL6,HDGFL3,IL6ST,VCAM1,EIF4G2,NFATC3,CFLAR,ADAM17,STAT3,PRNP,FN1,ITGB1,PDIA3,SERPINE1	16	
+Cell-To-Cell Signaling and Interaction, Hematological System Development and Function, Inflammatory Response	binding	Binding of professional phagocytic cells	5.11E-03	 	 	 	 	IL1R1,ITGB1	2	
+Cellular Development	commitment	Commitment of stem cells	5.11E-03	 	 	 	 	SEL1L,HES1	2	
+Cell-mediated Immune Response, Lymphoid Tissue Structure and Development	frequency	Frequency of T lymphocytes	5.11E-03	 	 	 	 	SERPINB1,TGFBR2	2	
+Hereditary Disorder, Neurological Disease, Organismal Injury and Abnormalities, Psychological Disorders, Skeletal and Muscular Disorders	Huntington disease	Huntington disease grade 3 Huntington disease	5.11E-03	 	 	 	 	CASP2,CASP7	2	
+Neurological Disease	neurodegeneration	Neurodegeneration of peripheral nervous system	5.11E-03	 	 	 	 	JUN,EDNRB	2	
+Auditory and Vestibular System Development and Function, Nervous System Development and Function, Organ Morphology, Tissue Morphology	quantity	Quantity of vestibular hair cells	5.11E-03	 	 	 	 	HES5,HES1	2	
+Cellular Movement, Nervous System Development and Function	cell movement	Cell movement of Schwann cells	5.62E-03	 	 	 	 	FN1,RRAS2,ITGB1,ITGA6	4	
+Cellular Development, Embryonic Development, Organismal Development, Tissue Development	differentiation	Differentiation of embryonic tissue	6.42E-03	 	-1.276	 	-0.611	JUN,STAT3,FN1,PRNP,HES5,FLT1,PGF,WWTR1,HES1,IL6	10	
+Cell-To-Cell Signaling and Interaction, Hematological System Development and Function, Immune Cell Trafficking, Inflammatory Response, Nervous System Development and Function	activation	Activation of microglia	6.51E-03	Decreased	-2.219	 	-1.997	FN1,PRNP,PTGS2,CEBPB,ABHD12,IL6	6	
+Neurological Disease, Organismal Injury and Abnormalities	degeneration	Degeneration of forebrain	6.75E-03	 	1.000	bias	0.391	JUN,TGFBR2,CASP1,IL6	4	
+Cardiovascular System Development and Function, Organismal Development	angiogenesis	Angiogenesis	6.78E-03	 	-1.214	 	-0.907	FN1,ITGB1,PGF,IL6,PECAM1	5	
+Cell-To-Cell Signaling and Interaction, Hematological System Development and Function, Immune Cell Trafficking	adhesion	Adhesion of immune cells	6.96E-03	 	 	 	 	IL1R1,ITGB1,SELE	3	
+Cell Death and Survival, Neurological Disease, Organismal Injury and Abnormalities	apoptosis	Apoptosis of cerebellar granule cell	6.96E-03	 	 	 	 	JUN,PRNP,EP300	3	
+Cell-To-Cell Signaling and Interaction	binding	Binding of neuroglia	6.96E-03	 	 	 	 	FN1,ITGB1,ITGA6	3	
+Cell Morphology, Nervous System Development and Function, Organ Morphology, Organismal Development	morphology	Morphology of hippocampal cells	6.96E-03	 	 	 	 	SYNCRIP,PRNP,CEBPB	3	
+Cell-To-Cell Signaling and Interaction	adhesion	Adhesion of epithelial cells	7.06E-03	 	 	 	 	FN1,ITGA6	2	
+Cellular Compromise, Nervous System Development and Function, Neurological Disease	degeneration	Degeneration of myelin sheath	7.06E-03	 	 	 	 	IL6ST,TARDBP	2	
+Endocrine System Disorders, Gastrointestinal Disease, Metabolic Disease, Organismal Injury and Abnormalities	diabetes mellitus	Diabetes mellitus	7.06E-03	 	 	 	 	STAT3,PTGS2	2	
+Neurological Disease	neurological disorder	Early-onset neurological disorder	7.06E-03	 	 	 	 	PTGS2,EDNRB	2	
+Neurological Disease, Organismal Injury and Abnormalities	gliosis	Gliosis of cerebellum	7.06E-03	 	 	 	 	PRNP,IL6	2	
+Cellular Movement	homing	Homing of stem cells	7.06E-03	 	 	 	 	PGF,SELE	2	
+Cell Death and Survival, Cellular Development, Cellular Function and Maintenance	self-renewal	Self-renewal of tumor cell lines	7.06E-03	 	 	 	 	LEF1,SEL1L	2	
+Cardiovascular System Development and Function	development	Development of vasculature	7.25E-03	 	-1.214	 	-0.895	ADAM17,FN1,ITGB1,PGF,IL6,PECAM1	6	
+Cell Death and Survival	cell death	Cell death of central nervous system cells	7.31E-03	 	0.476	 	0.419	JUN,EP300,SEL1L,IL6ST,RPS3,ETS2,CFLAR,PRNP,IL1R1,PTGS2,SERPINE1,CASP2,GCLM,NFIL3,TARDBP	15	
+Cellular Development, Cellular Growth and Proliferation, Nervous System Development and Function	proliferation	Proliferation of oligodendrocytes	7.37E-03	 	 	 	 	PRNP,FN1,THRA,CXCL2	4	
+Neurological Disease, Organismal Injury and Abnormalities	neurodegeneration	Neurodegeneration of cerebral cortex	7.72E-03	 	-1.172	 	-1.543	SLC7A11,PTGS2,CNR1,NFIL3,ETS2	5	
+Infectious Diseases	infection	Viral Infection	7.72E-03	 	0.000	 	-0.043	SNAP23,SYNCRIP,STAT3,PRNP,IL1R1	5	
+Cell Death and Survival	apoptosis	Apoptosis of neurons	7.83E-03	 	0.444	 	-0.106	JUN,INSM1,GBE1,EP300,CNR1,CASP1,SEL1L,SIAH1,RPS3,ADAM17,PRNP,FN1,PANX1,PTGS2,CEBPB,PARL,CASP2,GCLM,CASP7,USP53	20	
+Cell-To-Cell Signaling and Interaction, Cellular Movement, Hematological System Development and Function, Immune Cell Trafficking	recruitment	Recruitment of leukocytes	7.95E-03	 	 	 	 	IL1R1,CXCL2,VCAM1	3	
+Cell-To-Cell Signaling and Interaction, Cellular Movement	recruitment	Recruitment of cells	8.03E-03	 	-1.732	 	-1.347	IL1R1,ITGB1,CXCL2,VCAM1	4	
+Cellular Movement	migration	Migration of stem cells	8.23E-03	Decreased	-2.200	bias	-1.537	ADAM17,ITGB1,PGF,FLT1,EDNRB	5	
+Cellular Movement	cell movement	Cell movement of neuroglia	8.47E-03	Decreased	-2.177	 	-1.671	STAT3,FN1,RRAS2,ITGB1,ITGA6,IL6	6	
+Organismal Development	growth	Growth of organism	8.54E-03	 	-0.850	 	-0.102	INSM1,ITGA6,CNR1,SEL1L,IL6,ZIC2,STAT3,PRNP,FN1,ITGB1,PTGS2,TIAL1,HES1,RAPGEF1,TARDBP	15	
+Cell-To-Cell Signaling and Interaction	adhesion	Adhesion of lymphatic system cells	9.29E-03	 	 	 	 	SELE,VCAM1	2	
+Cell-To-Cell Signaling and Interaction	attachment	Attachment of cells	9.29E-03	 	 	 	 	FN1,ITGA6	2	
+Cell-To-Cell Signaling and Interaction, Nervous System Development and Function	binding	Binding of Schwann cells	9.29E-03	 	 	 	 	ITGB1,ITGA6	2	
+Cell Morphology, Nervous System Development and Function, Neurological Disease, Organ Morphology, Organismal Development, Organismal Injury and Abnormalities, Tissue Morphology	abnormal morphology	Abnormal morphology of pyramidal neurons	9.46E-03	 	 	 	 	EIF4EBP2,PRNP,CEBPB,IREB2	4	
+Lipid Metabolism, Molecular Transport, Small Molecule Biochemistry	quantity	Quantity of steroid	9.46E-03	 	0.000	 	0.140	STAT3,PRNP,PTGS2,IL6	4	
+Neurological Disease, Organismal Injury and Abnormalities, Psychological Disorders	brain damage	Brain damage	9.82E-03	 	0.493	 	0.192	JUN,CFLAR,IL1R1,CNR1,CASP1,IL6,GPR17,NFIL3	8	
+Infectious Diseases	replication	Replication of virus	1.02E-02	 	 	 	 	SNAP23,STAT3,IL1R1	3	
+Cellular Development, Cellular Growth and Proliferation, Embryonic Development, Organismal Development, Tissue Development	proliferation	Proliferation of neural stem cells	1.05E-02	 	-1.000	 	-0.593	ITGB1,CNR1,SEL1L,IL6,HES1	5	
+Embryonic Development, Organismal Development, Tissue Development	growth	Growth of embryonic tissue	1.08E-02	 	-0.847	 	-0.236	ZIC2,STAT3,PRNP,INSM1,ITGB1,PTGS2,ITGA6,CNR1,SEL1L,HES1,RAPGEF1,IL6	12	
+Cell-To-Cell Signaling and Interaction	activation	Activation of cells	1.09E-02	Decreased	-2.576	 	-2.118	FN1,PRNP,IL1R1,PTGS2,CEBPB,CNR1,CASP1,SERPINE1,ABHD12,IL6,TARDBP	11	
+Cellular Development, Cellular Growth and Proliferation, Nervous System Development and Function, Tissue Development	proliferation	Proliferation of neuronal cells	1.12E-02	 	-1.693	 	-0.714	MTMR9,EP300,ITGA6,EZR,CNR1,IL6,HDGFL3,IL6ST,VCAM1,EIF4G2,NFATC3,CFLAR,ADAM17,STAT3,PRNP,FN1,ITGB1,FLT1,PDIA3,SERPINE1,ZPR1	21	
+Neurological Disease, Organismal Injury and Abnormalities	edema	Edema of brain	1.14E-02	 	 	 	 	FLT1,CD93,SERPINE1	3	
+Nervous System Development and Function, Neurological Disease	abnormal morphology	Abnormal morphology of nervous system	1.18E-02	 	 	 	 	EIF4EBP2,JUN,CLN5,THRA,CNR1,MAGI2,IL6,FLI1,IREB2,B4GALT1,STAT3,HES5,ITGB1,ZPR1,CASP2,TARDBP,LEF1,MECOM,ITGA6,CSTB,ACVRL1,STMN1,IL6ST,TGFBR2,PRNP,LATS2,CEBPB,HES1,GCLM,UTRN	30	
+Free Radical Scavenging, Molecular Transport	accumulation	Accumulation of reactive oxygen species	1.18E-02	 	 	 	 	SLC7A11,CNR1	2	
+Cellular Movement, Hematological System Development and Function, Immune Cell Trafficking	cell rolling	Cell rolling of leukocytes	1.18E-02	 	 	 	 	SELE,VCAM1	2	
+Neurological Disease	mechanical hypersensitivity	Mechanical hypersensitivity	1.18E-02	 	 	 	 	IL6,IL6ST	2	
+Cellular Development, Cellular Growth and Proliferation, Embryonic Development, Hematological System Development and Function, Hematopoiesis, Lymphoid Tissue Structure and Development, Organ Development, Organismal Development, Tissue Development	megakaryocytopoiesis	Megakaryocytopoiesis	1.18E-02	 	 	 	 	IL6,IL6ST	2	
+Neurological Disease, Organismal Injury and Abnormalities	reactive gliosis	Reactive gliosis	1.18E-02	 	 	 	 	IL6,TARDBP	2	
+Cell-To-Cell Signaling and Interaction	binding	Binding of tumor cell lines	1.27E-02	 	 	 	 	ADAM17,FN1,VCAM1	3	
+Cardiovascular System Development and Function, Tissue Morphology	permeability	Permeability of vascular system	1.28E-02	 	1.982	 	2.136	SERPINE1,CXCL2,PECAM1,CYP1B1	4	
+Neurological Disease	function	Abnormal function of nervous system	1.31E-02	 	 	 	 	CNR1,CSTB,PARL,IL6,UTRN	5	
+Cell Death and Survival	cell death	Cell death of neuroglia	1.34E-02	 	0.478	 	0.325	JUN,STAT3,IL1R1,PTGS2,ITGB1,IL6ST,TARDBP	7	
+Cellular Development, Nervous System Development and Function	differentiation	Differentiation of oligodendrocyte precursor cells	1.37E-02	 	 	 	 	FN1,HES5,THRA,GPR17	4	
+Cell Morphology, Cellular Assembly and Organization, Cellular Development, Cellular Function and Maintenance, Cellular Growth and Proliferation, Nervous System Development and Function, Organismal Development, Tissue Development	branching	Branching of neurons	1.44E-02	 	-1.269	 	-0.698	JUN,EIF4EBP2,NRP2,EZR,CNR1,MAGI2,IL6,ACTR3,STAT3,PRNP,IL1R1,SEPTIN11,ITGB1,PTGS2,PDIA3,CALD1	16	
+Cell Death and Survival	cell death	Cell death of brain	1.44E-02	 	-0.055	 	-0.139	JUN,EP300,RPS3,ETS2,CFLAR,PRNP,IL1R1,PTGS2,SERPINE1,CASP2,GCLM,NFIL3,CASP7,TARDBP	14	
+Neurological Disease, Organ Morphology, Organismal Injury and Abnormalities, Psychological Disorders	atrophy	Atrophy of hippocampus	1.46E-02	 	 	 	 	EP300,TARDBP	2	
+Neurological Disease, Organismal Injury and Abnormalities, Psychological Disorders	lesioning	Lesioning of brain	1.46E-02	 	 	 	 	CFLAR,CASP1	2	
+Cell Death and Survival, Cellular Compromise, Neurological Disease, Organismal Injury and Abnormalities, Tissue Morphology	neurodegeneration	Neurodegeneration of cortical neurons	1.46E-02	 	 	 	 	NFIL3,ETS2	2	
+Cardiovascular System Development and Function, Organismal Development	vasculogenesis	Vasculogenesis	1.47E-02	 	 	 	 	FN1,ITGB1,IL6,PECAM1	4	
+Cell Death and Survival	apoptosis	Apoptosis of central nervous system cells	1.50E-02	 	0.521	 	0.459	JUN,PRNP,PTGS2,EP300,SEL1L,GCLM,CASP2,IL6ST,RPS3	9	
+Cell-To-Cell Signaling and Interaction, Nervous System Development and Function	synaptic transmission	Synaptic transmission of hippocampal CA1 region	1.56E-02	 	 	 	 	EIF4EBP2,SLC7A11,PRNP	3	
+Cardiovascular Disease, Organismal Injury and Abnormalities	infarction	Infarction	1.56E-02	 	 	 	 	PRNP,FN1,IL1R1,PANX1,PTGS2,CNR1,IL6	7	
+Embryonic Development, Organismal Development	growth	Growth of embryo	1.57E-02	 	-0.587	 	0.135	INSM1,ITGA6,CNR1,SEL1L,IL6,ZIC2,STAT3,PRNP,FN1,ITGB1,PTGS2,TIAL1,HES1,RAPGEF1	14	
+Cellular Movement, Embryonic Development	migration	Migration of embryonic cells	1.57E-02	 	-0.728	bias	-0.207	PGF,FLT1,CNR1,EDNRB	4	
+Cell Morphology, Nervous System Development and Function, Tissue Morphology	morphology	Morphology of neurons	1.61E-02	 	 	 	 	EIF4EBP2,IQGAP1,CLN5,NRP2,THRA,CNR1,MAGI2,IL6,IREB2,SYNCRIP,STAT3,HES5,SEPTIN11,ITGB1,ZPR1,CASP2,TARDBP,CSTB,ACVRL1,TPM3,TGFBR2,PRNP,CEBPB,HES1,UTRN	25	
+Cellular Movement, Hematological System Development and Function, Immune Cell Trafficking	cell movement	Cell movement of leukocytes	1.62E-02	 	-1.446	 	-0.985	TGFBR2,IL1R1,CXCL2,SELE,VCAM1	5	
+Cellular Movement	homing	Homing of cells	1.68E-02	 	 	 	 	NRP2,PGF,SELE,IL6	4	
+Nervous System Development and Function	morphology	Morphology of nervous system	1.69E-02	 	 	 	 	EIF4EBP2,JUN,IQGAP1,CLN5,AP4E1,NRP2,THRA,CNR1,MAGI2,IL6,FLI1,IREB2,B4GALT1,SYNCRIP,STAT3,HES5,SEPTIN11,ITGB1,ZPR1,CASP2,TARDBP,LEF1,MECOM,ITGA6,CSTB,ACVRL1,STMN1,IL6ST,TPM3,TGFBR2,PRNP,LATS2,CEBPB,HES1,GCLM,UTRN	36	
+Cellular Development, Cellular Growth and Proliferation, Embryonic Development, Nervous System Development and Function, Organ Development, Organismal Development, Tissue Development	development	Development of cerebral cortex cells	1.71E-02	 	 	 	 	PRNP,EZR,CNR1	3	
+Drug Metabolism, Lipid Metabolism, Molecular Transport, Small Molecule Biochemistry	concentration	Concentration of prostaglandin E2	1.76E-02	 	 	 	 	PRNP,PTGS2	2	
+Neurological Disease, Organismal Injury and Abnormalities	memory deficits	Memory deficits	1.76E-02	 	 	 	 	CNR1,TARDBP	2	
+Nervous System Development and Function, Neurological Disease, Organ Morphology, Organismal Development, Organismal Injury and Abnormalities	abnormal morphology	Abnormal morphology of hippocampus region	1.90E-02	 	 	 	 	LEF1	1	
+Hematological System Development and Function, Humoral Immune Response, Immune Cell Trafficking, Inflammatory Response, Tissue Development	accumulation	Accumulation of B lymphocytes	1.90E-02	 	 	 	 	CD99	1	
+Hematological System Development and Function, Immune Cell Trafficking, Inflammatory Response, Tissue Development	accumulation	Accumulation of CD8+ T lymphocyte	1.90E-02	 	 	 	 	CD99	1	
+Hematological System Development and Function, Immune Cell Trafficking, Inflammatory Response, Tissue Development	accumulation	Accumulation of dendritic cells	1.90E-02	 	 	 	 	CD99	1	
+Endocrine System Development and Function, Nervous System Development and Function, Organ Development	activation	Activation of adenohypophysis	1.90E-02	 	 	 	 	IL6	1	
+Cell-To-Cell Signaling and Interaction, Nervous System Development and Function	activation	Activation of enteric neurons	1.90E-02	 	 	 	 	IL6	1	
+Cardiovascular System Development and Function, Tissue Development	adhesion	Adhesion of endothelial tissue	1.90E-02	 	 	 	 	IL1R1	1	
+Cell-To-Cell Signaling and Interaction, Hematological System Development and Function, Immune Cell Trafficking, Inflammatory Response	adhesion	Adhesion of neutrophils	1.90E-02	 	 	 	 	IL1R1	1	
+Cardiovascular System Development and Function, Embryonic Development, Nervous System Development and Function, Organ Development, Organismal Development, Tissue Development	angiogenesis	Angiogenesis of cerebellum	1.90E-02	 	 	 	 	IL6	1	
+Cell Morphology, Cellular Assembly and Organization, Cellular Development, Cellular Function and Maintenance, Cellular Growth and Proliferation, Nervous System Development and Function, Organismal Development, Tissue Development	arborization	Arborization of spinal nerve	1.90E-02	 	 	 	 	ITGB1	1	
+Nervous System Development and Function, Organ Morphology, Organismal Development	area	Area of lateral cerebral ventricle	1.90E-02	 	 	 	 	AP4E1	1	
+Cellular Development, Cellular Growth and Proliferation, Nervous System Development and Function	proliferation	Arrest in proliferation of oligodendrocyte precursor cells	1.90E-02	 	 	 	 	THRA	1	
+Cellular Development, Cellular Function and Maintenance, Cellular Growth and Proliferation	assembly	Assembly of tumor cell lines	1.90E-02	 	 	 	 	PANX1	1	
+Neurological Disease	axonopathy	Axonopathy of central nervous system	1.90E-02	 	 	 	 	STMN1	1	
+Neurological Disease	axonopathy	Axonopathy of peripheral nervous system	1.90E-02	 	 	 	 	STMN1	1	
+Cell-To-Cell Signaling and Interaction, Embryonic Development	binding	Binding of dental pulp stem cells	1.90E-02	 	 	 	 	ITGB1	1	
+Cardiovascular Disease, Organismal Injury and Abnormalities	bleeding	Bleeding of vascular plexus	1.90E-02	 	 	 	 	FLI1	1	
+Cell Death and Survival, Embryonic Development	cell death	Cell death of embryonic tissue	1.90E-02	 	 	 	 	HES1	1	
+Cell Morphology, Nervous System Development and Function, Organ Morphology, Organismal Development	cellularity	Cellularity of cerebellum	1.90E-02	 	 	 	 	IL6	1	
+Cellular Development	commitment	Commitment of neural stem cells	1.90E-02	 	 	 	 	SEL1L	1	
+Cell-To-Cell Signaling and Interaction, Cellular Assembly and Organization	compaction	Compaction of tumor cell lines	1.90E-02	 	 	 	 	PANX1	1	
+Auditory Disease, Developmental Disorder, Neurological Disease, Organismal Injury and Abnormalities	congenital deafness	Congenital deafness	1.90E-02	 	 	 	 	EDNRB	1	
+Infectious Diseases, Neurological Disease, Organismal Injury and Abnormalities, Psychological Disorders, Skeletal and Muscular Disorders	Creutzfeldt-Jakob disease	Creutzfeldt-Jakob disease	1.90E-02	 	 	 	 	PRNP	1	
+Cellular Assembly and Organization, Nervous System Development and Function	defasciculation	Defasciculation of sensory neurons	1.90E-02	 	 	 	 	NRP2	1	
+Cell Death and Survival, Cellular Compromise, Neurological Disease, Tissue Morphology	degeneration	Degeneration of cholinergic fibers	1.90E-02	 	 	 	 	JUN	1	
+Cell Cycle	cell cycle progression	Delay in cell cycle progression of tumor cell lines	1.90E-02	 	 	 	 	CSTB	1	
+Cellular Movement, Nervous System Development and Function	migration	Delay in migration of Schwann cells	1.90E-02	 	 	 	 	ITGB1	1	
+Tissue Morphology	density	Density of neuronal progenitor cells	1.90E-02	 	 	 	 	HES1	1	
+Nucleic Acid Metabolism, Small Molecule Biochemistry	depletion	Depletion of NADPH	1.90E-02	 	 	 	 	SLC7A11	1	
+Cell-To-Cell Signaling and Interaction, Cellular Growth and Proliferation, Nervous System Development and Function	depolarization-induced suppression of excitation	Depolarization-induced suppression of excitation of hippocampal neurons	1.90E-02	 	 	 	 	CNR1	1	
+Embryonic Development, Nervous System Development and Function, Organ Development, Organismal Development, Tissue Development	development	Development of habenulopeduncular tract	1.90E-02	 	 	 	 	NRP2	1	
+Cellular Movement	distribution	Distribution of granule neuron progenitor cells	1.90E-02	 	 	 	 	VCAM1	1	
+Cell-To-Cell Signaling and Interaction, Nervous System Development and Function	excitation	Excitation of postsynaptic region	1.90E-02	 	 	 	 	PCDH8	1	
+Neurological Disease	excitotoxic lesion	Excitotoxic lesion	1.90E-02	 	 	 	 	CNR1	1	
+Cell Morphology, Cellular Assembly and Organization, Cellular Function and Maintenance	extension	Extension of peripheral lamellae	1.90E-02	 	 	 	 	ITGB1	1	
+Nervous System Development and Function	fasciculation	Fasciculation of spinal nerve	1.90E-02	 	 	 	 	NRP2	1	
+Hereditary Disorder, Infectious Diseases, Neurological Disease, Organismal Injury and Abnormalities, Psychological Disorders	fatal familial insomnia	Fatal familial insomnia	1.90E-02	 	 	 	 	PRNP	1	
+Cellular Assembly and Organization, Nervous System Development and Function	folding	Folding of postsynaptic membrane	1.90E-02	 	 	 	 	UTRN	1	
+Tissue Development	formation	Formation of basement membrane	1.90E-02	 	 	 	 	ITGB1	1	
+Organismal Development, Tissue Development	formation	Formation of blood vessel lumen	1.90E-02	 	 	 	 	ITGB1	1	
+Embryonic Development, Organismal Development, Tissue Development	formation	Formation of epiblast	1.90E-02	 	 	 	 	ITGB1	1	
+Cellular Assembly and Organization, Cellular Compromise	formation	Formation of ferritin inclusion body	1.90E-02	 	 	 	 	FTL	1	
+Organismal Injury and Abnormalities, Renal and Urological Disease	formation	Formation of glomeruloid body	1.90E-02	 	 	 	 	TFPI	1	
+Cellular Assembly and Organization	formation	Formation of mitochondrial cristae	1.90E-02	 	 	 	 	TARDBP	1	
+Cardiovascular Disease, Organismal Injury and Abnormalities	formation	Formation of plaque	1.90E-02	 	 	 	 	PRNP	1	
+Inflammatory Response	frequency	Frequency of neutrophils	1.90E-02	 	 	 	 	CXCL2	1	
+Hereditary Disorder, Infectious Diseases, Neurological Disease, Organismal Injury and Abnormalities, Psychological Disorders	gerstmann-straussler-scheinker disease	Gerstmann-straussler-scheinker disease	1.90E-02	 	 	 	 	PRNP	1	
+Tissue Development	growth	Growth of white matter	1.90E-02	 	 	 	 	IL6	1	
+Endocrine System Development and Function, Small Molecule Biochemistry	hydroxylation	Hydroxylation of melatonin	1.90E-02	 	 	 	 	CYP1B1	1	
+Hematological Disease	hyperemia	Hyperemia	1.90E-02	 	 	 	 	PTGS2	1	
+Developmental Disorder, Neurological Disease	hypoplasia	Hypoplasia of superior cervical ganglion	1.90E-02	 	 	 	 	HES1	1	
+Cell-To-Cell Signaling and Interaction, Cellular Growth and Proliferation	induction	Induction of neural stem cells	1.90E-02	 	 	 	 	HES5	1	
+Dermatological Diseases and Conditions, Inflammatory Disease, Inflammatory Response, Neurological Disease, Organismal Injury and Abnormalities	inflammatory hyperalgesia	Inflammatory hyperalgesia	1.90E-02	 	 	 	 	CNR1	1	
+Cell Death and Survival, Neurological Disease, Organismal Injury and Abnormalities	necrosis	Initiation of necrosis of cortical neurons	1.90E-02	 	 	 	 	CASP2	1	
+Cell Morphology, Cellular Movement, Nervous System Development and Function, Tissue Development	innervation	Innervation of olfactory glomeruli	1.90E-02	 	 	 	 	NRP2	1	
+Endocrine System Disorders, Metabolic Disease, Neurological Disease, Organismal Injury and Abnormalities	insulin resistance	Insulin resistance of POMC neurons	1.90E-02	 	 	 	 	STAT3	1	
+Nervous System Development and Function, Neurological Disease, Organ Morphology, Organismal Development, Organismal Injury and Abnormalities	lack	Lack of mesencephalic tract of the trigeminal nerve	1.90E-02	 	 	 	 	LEF1	1	
+Endocrine System Disorders, Organismal Injury and Abnormalities	leptin resistance	Leptin resistance of POMC neurons	1.90E-02	 	 	 	 	STAT3	1	
+Cell Death and Survival, Cell Morphology, Nervous System Development and Function, Neurological Disease, Organ Morphology, Organismal Development, Organismal Injury and Abnormalities, Tissue Morphology	loss	Loss of CA3 neurons	1.90E-02	 	 	 	 	CEBPB	1	
+Nervous System Development and Function, Organ Morphology, Tissue Morphology	mass	Mass of white matter	1.90E-02	 	 	 	 	PRNP	1	
+Cellular Movement, Embryonic Development, Nervous System Development and Function	migration	Migration of enteric neuroblasts	1.90E-02	 	 	 	 	EDNRB	1	
+Cellular Movement, Embryonic Development	migration	Migration of hemangioblasts	1.90E-02	 	 	 	 	FLT1	1	
+Cellular Assembly and Organization, Cellular Function and Maintenance	movement	Movement of recycling endosomes	1.90E-02	 	 	 	 	TARDBP	1	
+Neurological Disease, Skeletal and Muscular Disorders	muscle spasticity	Muscle spasticity of hindlimb	1.90E-02	 	 	 	 	CNR1	1	
+Cell Death and Survival, Cellular Compromise, Neurological Disease, Tissue Morphology	neurodegeneration	Neurodegeneration of sympathetic neuron	1.90E-02	 	 	 	 	JUN	1	
+Nervous System Development and Function	organization	Organization of cranial nerve	1.90E-02	 	 	 	 	NRP2	1	
+Nervous System Development and Function	organization	Organization of spinal nerve	1.90E-02	 	 	 	 	NRP2	1	
+Connective Tissue Disorders, Inflammatory Disease, Inflammatory Response, Organismal Injury and Abnormalities, Skeletal and Muscular Disorders	osteoarthritis	Osteoarthritis	1.90E-02	 	 	 	 	TGFBR2	1	
+Cellular Development, Cellular Growth and Proliferation, Embryonic Development, Nervous System Development and Function, Organismal Development, Tissue Development	outgrowth	Outgrowth of neuroblasts	1.90E-02	 	 	 	 	ITGA6	1	
+Neurological Disease, Organismal Injury and Abnormalities	partial seizure	Partial seizure	1.90E-02	 	 	 	 	PRNP	1	
+Nervous System Development and Function	pathfinding	Pathfinding of vomeronasal nerve	1.90E-02	 	 	 	 	NRP2	1	
+Nucleic Acid Metabolism, Small Molecule Biochemistry	penetration	Penetration of imatinib	1.90E-02	 	 	 	 	ABCG2	1	
+Cardiovascular Disease	prion plaque	Prion plaque	1.90E-02	 	 	 	 	PRNP	1	
+Neurological Disease, Skeletal and Muscular Disorders	motor dysfunction	Progressive motor dysfunction	1.90E-02	 	 	 	 	TARDBP	1	
+Neurological Disease, Skeletal and Muscular Disorders	paralysis	Progressive paralysis	1.90E-02	 	 	 	 	TARDBP	1	
+Cellular Development, Cellular Growth and Proliferation, Nervous System Development and Function	proliferation	Proliferation of reactive astrocytes	1.90E-02	 	 	 	 	EDNRB	1	
+Cancer, Organismal Injury and Abnormalities, Reproductive System Disease	prostatic carcinoma	Prostatic carcinoma	1.90E-02	 	 	 	 	ITGA6	1	
+Cellular Development, Cellular Growth and Proliferation, Embryonic Development, Organismal Development, Tissue Morphology	quantity	Quantity of neuroectodermal progenitor cells	1.90E-02	 	 	 	 	STAT3	1	
+Cellular Assembly and Organization, Nervous System Development and Function, Tissue Morphology	quantity	Quantity of postsynaptic membrane	1.90E-02	 	 	 	 	UTRN	1	
+Developmental Disorder	runting	Runting	1.90E-02	 	 	 	 	IL6	1	
+Infectious Diseases, Neurological Disease, Organismal Injury and Abnormalities, Psychological Disorders	scrapie	Scrapie	1.90E-02	 	 	 	 	PRNP	1	
+Cellular Assembly and Organization, Cellular Movement, Nervous System Development and Function	segregation	Segregation of sensory axons	1.90E-02	 	 	 	 	ITGB1	1	
+Cell Death and Survival, Cellular Development, Cellular Function and Maintenance, Cellular Growth and Proliferation, Embryonic Development, Organismal Development	self-renewal	Self-renewal of multilineage progenitor cells	1.90E-02	 	 	 	 	HES1	1	
+Cellular Response to Therapeutics	sensitivity	Sensitivity of primary afferent neuron	1.90E-02	 	 	 	 	IL6ST	1	
+Nervous System Development and Function	size	Size of cerebrospinal fluid compartment	1.90E-02	 	 	 	 	PRNP	1	
+Cell Morphology, Nervous System Development and Function, Tissue Morphology	size	Size of motor axons	1.90E-02	 	 	 	 	TARDBP	1	
+Metabolic Disease, Neurological Disease, Organismal Injury and Abnormalities, Psychological Disorders	Alzheimer disease	Stage I Alzheimer disease	1.90E-02	 	 	 	 	PTGS2	1	
+Metabolic Disease, Neurological Disease, Organismal Injury and Abnormalities, Psychological Disorders	Alzheimer disease	Stage V Alzheimer disease	1.90E-02	 	 	 	 	PTGS2	1	
+Amino Acid Metabolism, Lipid Metabolism, Small Molecule Biochemistry	suppression	Suppression of GABA	1.90E-02	 	 	 	 	CNR1	1	
+Cell Death and Survival, Cellular Compromise	toxicity	Toxicity of cerebellar granule cell	1.90E-02	 	 	 	 	GCLM	1	
+Neurological Disease, Organismal Injury and Abnormalities, Psychological Disorders	striatal degeneration	Striatal degeneration	2.05E-02	 	 	 	 	JUN,CASP1,IL6	3	
+Cell Morphology, Nervous System Development and Function, Organ Morphology, Organismal Development	morphology	Morphology of cerebral cortex cells	2.07E-02	 	 	 	 	EIF4EBP2,SYNCRIP,PRNP,CEBPB,IREB2	5	
+Cellular Development, Embryonic Development, Organismal Development	differentiation	Differentiation of embryonic cells	2.11E-02	 	-0.759	 	-0.062	JUN,STAT3,FN1,THRA,FLT1,PGF,WWTR1,IL6,EIF4G2	9	
+Cellular Development, Cellular Growth and Proliferation, Nervous System Development and Function	proliferation	Proliferation of neuroglia	2.16E-02	 	-1.706	 	-1.412	PRNP,FN1,ITGB1,THRA,EDNRB,CXCL2,IL6,HES1	8	
+Cellular Compromise, Neurological Disease, Organismal Injury and Abnormalities	neurodegeneration	Neurodegeneration of brain cells	2.16E-02	 	-0.251	bias	-0.850	PRNP,PTGS2,NFIL3,IREB2,ETS2	5	
+Nervous System Development and Function	development	Sensory system development	2.16E-02	 	-1.949	 	-1.581	STAT3,HES5,ITGB1,HES1,IL6ST	5	
+Cellular Development, Cellular Growth and Proliferation	proliferation	Proliferation of stem cells	2.18E-02	 	-1.442	 	-0.853	ZIC2,STAT3,FN1,ITGB1,PTGS2,CNR1,TIAL1,SEL1L,HES1,IL6,NCOA3	11	
+Cellular Movement, Nervous System Development and Function	migration	Migration of Schwann cells	2.23E-02	 	 	 	 	FN1,RRAS2,ITGB1	3	
+Organismal Injury and Abnormalities, Tissue Morphology	size	Size of lesion	2.28E-02	 	 	 	 	PRNP,PANX1,PTGS2,CNR1,CASP1,SERPINE1,IL6	7	
+Cell Death and Survival, Organismal Injury and Abnormalities	apoptosis	Apoptosis of epithelial cells	2.43E-02	 	 	 	 	ITGB1,SEL1L	2	
+Cell-To-Cell Signaling and Interaction	binding	Binding of stem cells	2.43E-02	 	 	 	 	ITGB1,VCAM1	2	
+Cellular Compromise, Neurological Disease, Organismal Injury and Abnormalities, Psychological Disorders	damage	Damage of cortical neurons	2.43E-02	 	 	 	 	CNR1,NFIL3	2	
+Cardiovascular System Development and Function	morphology	Morphology of cardiovascular system	2.43E-02	 	 	 	 	FN1,IL6	2	
+Cell Morphology, Nervous System Development and Function, Tissue Morphology	morphology	Morphology of dendritic trees	2.43E-02	 	 	 	 	IQGAP1,ITGB1	2	
+Molecular Transport	quantity	Quantity of heavy metal	2.43E-02	 	 	 	 	PRNP,FTL	2	
+Nervous System Development and Function, Organ Morphology, Tissue Morphology	quantity	Quantity of inner hair cells	2.43E-02	 	 	 	 	HES5,HES1	2	
+Infectious Diseases	replication	Replication of RNA virus	2.43E-02	 	 	 	 	STAT3,IL1R1	2	
+Cell Morphology, Cellular Assembly and Organization, Cellular Function and Maintenance, Nervous System Development and Function	extension	Extension of neurites	2.56E-02	 	0.316	 	0.748	FN1,NRP2,ITGB1,EP300,SERPINE1,C9orf72,ACTR3,EIF4G2	8	
+Neurological Disease	demyelination	Demyelination	2.58E-02	Decreased	-2.219	 	-2.548	PRNP,PTGS2,PTPRE,CXCL2,IL6,STMN1	6	
+Cellular Movement	migration	Migration of cells	2.58E-02	Decreased	-2.686	 	-1.816	IQGAP1,RRAS2,NRP2,PGF,ITGA6,CNR1,EDNRB,SELE,CXCL2,STMN1,VCAM1,TGFBR2,ADAM17,STAT3,FN1,IL1R1,ITGB1,FLT1,ICAM1	19	
+Organismal Injury and Abnormalities	bleeding	Bleeding	2.61E-02	 	 	 	 	TFPI,PARL,FLI1	3	
+Cellular Compromise	injury	Injury of cells	2.61E-02	 	 	 	 	STAT3,CNR1,IL6	3	
+Nervous System Development and Function	remyelination	Remyelination	2.61E-02	 	 	 	 	JUN,ADAM19,GPR17	3	
+Cell Signaling, Small Molecule Biochemistry	synthesis	Synthesis of nitric oxide	2.61E-02	 	 	 	 	CEBPB,ITGB1,CNR1	3	
+DNA Replication, Recombination, and Repair, Developmental Disorder, Hereditary Disorder, Organismal Injury and Abnormalities	Down syndrome	Down syndrome	2.80E-02	 	 	 	 	ABCG1,ETS2	2	
+Cellular Assembly and Organization	quantity	Quantity of mitochondria	2.80E-02	 	 	 	 	PARL,TARDBP	2	
+Cell-To-Cell Signaling and Interaction, Cellular Movement, Hematological System Development and Function, Immune Cell Trafficking, Inflammatory Response	recruitment	Recruitment of phagocytes	2.80E-02	 	 	 	 	CXCL2,VCAM1	2	
+Cellular Development, Cellular Growth and Proliferation, Nervous System Development and Function	proliferation	Proliferation of oligodendrocyte precursor cells	2.82E-02	 	 	 	 	FN1,THRA,CXCL2	3	
+Cell Death and Survival	excitotoxicity	Susceptibility to excitotoxicity of neurons	2.82E-02	 	 	 	 	PTGS2,CNR1,GCLM	3	
+Neurological Disease, Organismal Injury and Abnormalities	brain atrophy	Brain atrophy	3.04E-02	 	 	 	 	PRNP,EP300,TARDBP	3	
+Cellular Compromise, Neurological Disease, Organismal Injury and Abnormalities	neurodegeneration	Neurodegeneration of cerebral cortex cells	3.04E-02	 	 	 	 	PTGS2,NFIL3,ETS2	3	
+Cellular Movement	cell movement	Cell movement	3.17E-02	Decreased	-3.157	 	-2.187	IQGAP1,RRAS2,NRP2,PGF,ITGA6,CNR1,EDNRB,SELE,CXCL2,IL6,STMN1,VCAM1,TGFBR2,ADAM17,STAT3,FN1,IL1R1,ITGB1,FLT1,ICAM1	20	
+Cell Morphology, Nervous System Development and Function, Neurological Disease, Tissue Morphology	abnormal morphology	Abnormal morphology of neurons	3.19E-02	 	 	 	 	EIF4EBP2,CLN5,THRA,CSTB,MAGI2,IL6,ACVRL1,IREB2,TGFBR2,STAT3,PRNP,HES5,ITGB1,CEBPB,ZPR1,HES1,CASP2,UTRN,TARDBP	19	
+Cell Death and Survival	apoptosis	Apoptosis of dorsal root ganglion cells	3.19E-02	 	 	 	 	SEL1L,CASP2	2	
+Endocrine System Development and Function, Lipid Metabolism, Molecular Transport, Small Molecule Biochemistry	concentration	Concentration of corticosterone	3.19E-02	 	 	 	 	STAT3,IL6	2	
+Cell Death and Survival, Nervous System Development and Function	cell viability	Cell viability of hippocampal neurons	3.26E-02	 	 	 	 	JUN,STAT3,ITGB1	3	
+Cardiovascular System Development and Function, Nervous System Development and Function, Organ Morphology, Tissue Morphology	permeability	Permeability of blood-brain barrier	3.26E-02	 	 	 	 	SERPINE1,CXCL2,CYP1B1	3	
+Cellular Development, Nervous System Development and Function	differentiation	Differentiation of neuroglia	3.38E-02	 	-0.986	 	-0.602	STAT3,FN1,HES5,ITGB1,THRA,HES1,GPR17,ACTR3,IL6ST	9	
+Cell Death and Survival	cell viability	Cell viability of tumor cell lines	3.47E-02	 	-0.712	 	-0.248	JUN,STAT3,ACSL5,SEL1L	4	
+Cell Death and Survival, Neurological Disease, Organismal Injury and Abnormalities	apoptosis	Apoptosis of cerebral cortex cells	3.51E-02	 	0.342	 	0.387	JUN,PRNP,PTGS2,GCLM,CASP2,RPS3	6	
+Cell Morphology, Cellular Assembly and Organization, Cellular Function and Maintenance, Nervous System Development and Function	extension	Extension of axons	3.51E-02	 	1.000	 	1.323	FN1,ITGB1,EP300,C9orf72,ACTR3,EIF4G2	6	
+Cell Death and Survival, Cellular Compromise, Neurological Disease, Tissue Morphology	neurodegeneration	Neurodegeneration of axons	3.58E-02	 	0.391	 	-0.059	SERPINE1,ZPR1,NFIL3,STMN1,TARDBP	5	
+Cell Death and Survival, Organismal Injury and Abnormalities	apoptosis	Apoptosis of endothelial cells	3.61E-02	 	 	 	 	CFLAR,ITGA2	2	
+Cellular Assembly and Organization, Nervous System Development and Function	complexity	Complexity of dendritic trees	3.61E-02	 	 	 	 	IQGAP1,ITGB1	2	
+Cellular Development, Embryonic Development, Organismal Development	differentiation	Differentiation of embryoid body cells	3.61E-02	 	 	 	 	FN1,IL6	2	
+Neurological Disease	dysmyelination	Dysmyelination of axons	3.61E-02	 	 	 	 	IL6,STMN1	2	
+Cellular Movement	migration	Migration of neural stem cells	3.61E-02	 	 	 	 	ITGB1,EDNRB	2	
+Nervous System Development and Function, Organ Morphology, Tissue Morphology	quantity	Quantity of granule cells	3.61E-02	 	 	 	 	PRNP,LEF1	2	
+Lipid Metabolism, Molecular Transport, Small Molecule Biochemistry	release	Release of fatty acid	3.61E-02	 	 	 	 	IL1R1,CNR1	2	
+Cell-To-Cell Signaling and Interaction, Nervous System Development and Function	synaptic transmission	Synaptic transmission of CA1 neuron	3.61E-02	 	 	 	 	EIF4EBP2,PRNP	2	
+Tissue Development	development	Development of epithelial tissue	3.73E-02	 	 	 	 	ITGB1,IL6,PECAM1	3	
+Cellular Development, Embryonic Development, Nervous System Development and Function, Organismal Development, Tissue Development	differentiation	Differentiation of neural precursor cells	3.73E-02	 	 	 	 	STAT3,FN1,PRNP	3	
+Protein Synthesis	synthesis	Synthesis of protein	3.73E-02	 	 	 	 	MKRN1,PRNP,EIF4G2	3	
+Nervous System Development and Function, Neurological Disease, Organ Morphology, Organismal Development, Organismal Injury and Abnormalities	abnormal morphology	Abnormal morphology of dorsal striatum	3.75E-02	 	 	 	 	IREB2	1	
+Nervous System Development and Function, Neurological Disease	abnormal morphology	Abnormal morphology of superior ganglion of glossopharyngeal nerve	3.75E-02	 	 	 	 	MECOM	1	
+Hematological System Development and Function, Immune Cell Trafficking, Inflammatory Response, Tissue Development	accumulation	Accumulation of CD4+ T-lymphocytes	3.75E-02	 	 	 	 	CD99	1	
+Cell-To-Cell Signaling and Interaction, Embryonic Development	adhesion	Adhesion of bone marrow mesenchymal stem cells	3.75E-02	 	 	 	 	VCAM1	1	
+Cell-To-Cell Signaling and Interaction, Hematological System Development and Function, Immune Cell Trafficking, Inflammatory Response	adhesion	Adhesion of bone marrow-derived dendritic cells	3.75E-02	 	 	 	 	ITGB1	1	
+Cell-To-Cell Signaling and Interaction	binding	Binding of leukemia cell lines	3.75E-02	 	 	 	 	VCAM1	1	
+Neurological Disease, Organismal Injury and Abnormalities	bleeding	Bleeding of brainstem	3.75E-02	 	 	 	 	PARL	1	
+Cell Morphology, Cellular Assembly and Organization, Cellular Development, Cellular Function and Maintenance, Cellular Growth and Proliferation, Embryonic Development, Nervous System Development and Function, Organismal Development, Tissue Development	branching	Branching of basal dendrites	3.75E-02	 	 	 	 	CNR1	1	
+Cell Cycle, Embryonic Development, Nervous System Development and Function	cell division	Cell division of neuroblasts	3.75E-02	 	 	 	 	LEF1	1	
+Cellular Movement, Nervous System Development and Function	chemotaxis	Chemotaxis of cortical astrocytes	3.75E-02	 	 	 	 	IL6	1	
+Cellular Movement, Embryonic Development	chemotaxis	Chemotaxis of mesenchymal stem cells	3.75E-02	 	 	 	 	PGF	1	
+Developmental Disorder, Endocrine System Disorders, Hereditary Disorder, Metabolic Disease, Neurological Disease, Organismal Injury and Abnormalities, Psychological Disorders	childhood adrenoleukodystrophy	Childhood adrenoleukodystrophy	3.75E-02	 	 	 	 	PTGS2	1	
+DNA Replication, Recombination, and Repair	cleavage	Cleavage of DNA	3.75E-02	 	 	 	 	PRNP	1	
+Metabolic Disease, Neurological Disease, Organismal Injury and Abnormalities, Psychological Disorders	Alzheimer disease	Clinical dementia rating score 3 Alzheimer disease	3.75E-02	 	 	 	 	IL6	1	
+Cellular Development, Nervous System Development and Function	commitment	Commitment of astrocytes	3.75E-02	 	 	 	 	SEL1L	1	
+Cellular Development	commitment	Commitment of neuronal progenitor cells	3.75E-02	 	 	 	 	HES1	1	
+Carbohydrate Metabolism, Lipid Metabolism, Molecular Transport, Small Molecule Biochemistry	concentration	Concentration of phosphatidylserine	3.75E-02	 	 	 	 	PTGS2	1	
+Cell Death and Survival, Cellular Compromise, Neurological Disease, Tissue Morphology	degeneration	Degeneration of myelin figure	3.75E-02	 	 	 	 	RAB1A	1	
+Neurological Disease, Organismal Injury and Abnormalities	degeneration	Degeneration of nigrostriatum	3.75E-02	 	 	 	 	TGFBR2	1	
+Cell Death and Survival	apoptosis	Delay in apoptosis of sympathetic neuron	3.75E-02	 	 	 	 	CASP2	1	
+Neurological Disease	ataxia	Delay in ataxia of mice	3.75E-02	 	 	 	 	PRNP	1	
+Embryonic Development, Nervous System Development and Function, Organ Development, Organismal Development, Tissue Development	development	Development of cerebellar vermian lobule IX	3.75E-02	 	 	 	 	ZIC2	1	
+Embryonic Development, Nervous System Development and Function, Organ Development, Organismal Development, Tissue Development	development	Development of cerebellar vermian lobule VI	3.75E-02	 	 	 	 	ZIC2	1	
+Cellular Development, Cellular Growth and Proliferation, Nervous System Development and Function, Tissue Development	development	Development of projection neurons	3.75E-02	 	 	 	 	NRP2	1	
+Cellular Development, Embryonic Development, Organismal Development, Tissue Development	differentiation	Differentiation of neuroectodermal cells	3.75E-02	 	 	 	 	WWTR1	1	
+Cellular Development, Embryonic Development, Organismal Development, Tissue Development	differentiation	Differentiation of pluripotent stem cell-derived mesodermal cells	3.75E-02	 	 	 	 	JUN	1	
+Neurological Disease	distal peripheral neuropathy	Distal peripheral neuropathy	3.75E-02	 	 	 	 	FLT1	1	
+Neurological Disease, Organismal Injury and Abnormalities	edema	Edema of lateral cerebral ventricle	3.75E-02	 	 	 	 	FLT1	1	
+Cellular Development, Cellular Growth and Proliferation, Nervous System Development and Function	expansion	Expansion of satellite cells	3.75E-02	 	 	 	 	ITGB1	1	
+Cardiovascular Disease, Organismal Injury and Abnormalities	failure	Failure of heart	3.75E-02	 	 	 	 	PTGS2	1	
+Auditory and Vestibular System Development and Function, Cellular Development, Cellular Growth and Proliferation, Embryonic Development, Nervous System Development and Function, Organ Development, Organismal Development, Tissue Development	formation	Formation of inner hair cells	3.75E-02	 	 	 	 	HES1	1	
+Cell-To-Cell Signaling and Interaction, Cellular Assembly and Organization, Embryonic Development	fusion	Fusion of adipose mesenchymal stem cells	3.75E-02	 	 	 	 	VCAM1	1	
+Cell-To-Cell Signaling and Interaction, Cellular Assembly and Organization, Skeletal and Muscular System Development and Function	fusion	Fusion of myotube	3.75E-02	 	 	 	 	VCAM1	1	
+Cell Signaling, Small Molecule Biochemistry	generation	Generation of nitrite	3.75E-02	 	 	 	 	ITGB1	1	
+Hematological Disease, Neurological Disease, Organismal Injury and Abnormalities, Respiratory Disease	hypoxia	Hypoxia of brain	3.75E-02	 	 	 	 	EDNRB	1	
+Neurological Disease, Organismal Injury and Abnormalities, Psychological Disorders	lesioning	Lesioning of cerebral cortex	3.75E-02	 	 	 	 	CFLAR	1	
+Cell-To-Cell Signaling and Interaction, Nervous System Development and Function	long term synaptic depression	Long term synaptic depression of corticostriatal neurons	3.75E-02	 	 	 	 	CNR1	1	
+Cell-To-Cell Signaling and Interaction, Nervous System Development and Function	long term synaptic depression	Long term synaptic depression of excitatory synapses	3.75E-02	 	 	 	 	CNR1	1	
+Cellular Function and Maintenance	maintenance	Maintenance of embryonic stem cells	3.75E-02	 	 	 	 	FN1	1	
+Cell-To-Cell Signaling and Interaction, Cellular Assembly and Organization, Nervous System Development and Function	modulation	Modulation of synapse	3.75E-02	 	 	 	 	PCDH8	1	
+Cell Morphology, Cellular Development, Cellular Growth and Proliferation, Embryonic Development, Nervous System Development and Function, Organ Development, Organ Morphology, Organismal Development, Tissue Development	morphogenesis	Morphogenesis of hippocampal neurons	3.75E-02	 	 	 	 	EZR	1	
+Cell Death and Survival	necroptosis	Necroptosis of oligodendrocytes	3.75E-02	 	 	 	 	TARDBP	1	
+Cell Cycle	neurite outgrowth stage	Neurite outgrowth stage of dorsal root ganglion cells	3.75E-02	 	 	 	 	ITGB1	1	
+Auditory Disease, Cell Death and Survival, Cellular Compromise, Neurological Disease, Organismal Injury and Abnormalities, Tissue Morphology	neurodegeneration	Neurodegeneration of spiral ganglion cells	3.75E-02	 	 	 	 	EDNRB	1	
+Neurological Disease, Organismal Injury and Abnormalities, Psychological Disorders	neurodegeneration	Neurodegeneration of substantia nigra pars compacta	3.75E-02	 	 	 	 	SLC7A11	1	
+Cellular Assembly and Organization, Cellular Development, Cellular Growth and Proliferation, Nervous System Development and Function, Tissue Development	outgrowth	Outgrowth of growth cone	3.75E-02	 	 	 	 	FN1	1	
+Organismal Injury and Abnormalities, Skeletal and Muscular Disorders	pain	Pain of hindpaw	3.75E-02	 	 	 	 	IL6ST	1	
+Neurological Disease, Organismal Injury and Abnormalities	pathogenesis	Pathogenesis of medulla oblongata	3.75E-02	 	 	 	 	PRNP	1	
+Dermatological Diseases and Conditions, Organismal Injury and Abnormalities	pruritus	Pruritus	3.75E-02	 	 	 	 	STAT3	1	
+Cell-To-Cell Signaling and Interaction, Cellular Movement, Hematological System Development and Function, Immune Cell Trafficking, Inflammatory Response	recruitment	Recruitment of M2 macrophages	3.75E-02	 	 	 	 	VCAM1	1	
+Endocrine System Development and Function, Lipid Metabolism, Molecular Transport, Small Molecule Biochemistry	release	Release of corticosterone	3.75E-02	 	 	 	 	CNR1	1	
+Cellular Function and Maintenance, Tissue Development	reorganization	Reorganization of growth cone	3.75E-02	 	 	 	 	CNR1	1	
+Metabolic Disease, Neurological Disease, Organismal Injury and Abnormalities, Psychological Disorders	Alzheimer disease	Stage II Alzheimer disease	3.75E-02	 	 	 	 	PTGS2	1	
+Cell Morphology, Cellular Compromise, Organismal Injury and Abnormalities	swelling	Swelling of astrocyte endfeet	3.75E-02	 	 	 	 	IL6	1	
+Tissue Morphology	thickening	Thickening of endothelial tissue	3.75E-02	 	 	 	 	FLT1	1	
+Organismal Functions, Skeletal and Muscular Disorders	weakness	Weakness of hindlimb	3.75E-02	 	 	 	 	IL6	1	
+Lipid Metabolism, Small Molecule Biochemistry	synthesis	Synthesis of lipid	4.00E-02	 	0.038	bias	0.774	PRNP,PTGS2,CNR1,IL6	4	
+Cellular Movement	chemotaxis	Chemotaxis of central nervous system cells	4.04E-02	 	 	 	 	NRP2,IL6	2	
+Cellular Development, Cellular Growth and Proliferation, Embryonic Development, Nervous System Development and Function, Organ Development, Organismal Development, Tissue Development	development	Development of hippocampal neurons	4.04E-02	 	 	 	 	PRNP,EZR	2	
+Neurological Disease, Organismal Injury and Abnormalities	gliosis	Gliosis of cells	4.04E-02	 	 	 	 	PRNP,IL6	2	
+Cellular Development, Cellular Growth and Proliferation, Embryonic Development, Nervous System Development and Function, Organ Development, Organismal Development, Tissue Development	formation	Formation of brain cells	4.19E-02	 	 	 	 	PRNP,EZR,CNR1,HES1	4	
+Embryonic Development, Nervous System Development and Function, Organ Development, Organismal Development, Tissue Development	neurogenesis	Neurogenesis of brain	4.19E-02	 	0.068	 	0.513	CNR1,CD93,IL6,HES1	4	
+Cell-To-Cell Signaling and Interaction, Cellular Function and Maintenance, Nervous System Development and Function	paired-pulse facilitation	Paired-pulse facilitation of synapse	4.23E-02	 	 	 	 	NRP2,CNR1,SHISA9	3	
+Cell Death and Survival	cell death	Cell death of stem cells	4.46E-02	 	0.447	 	0.244	TPM3,PRNP,SEL1L,CCNA2,HES1	5	
+Cellular Development, Embryonic Development, Organismal Development, Tissue Development	differentiation	Differentiation of mesodermal cells	4.49E-02	 	 	 	 	JUN,FLT1	2	
+Organismal Functions	energy expenditure	Energy expenditure	4.49E-02	 	 	 	 	CNR1,IL6	2	
+Cellular Movement, Hematological System Development and Function, Immune Cell Trafficking, Inflammatory Response	cellular infiltration	Infiltration by neutrophils	4.49E-02	 	 	 	 	IL1R1,CXCL2	2	
+Cellular Development, Cellular Growth and Proliferation, Nervous System Development and Function, Tissue Development	development	Development of oligodendrocytes	4.50E-02	 	 	 	 	TGFBR2,HES5,IL6ST	3	
+Cell Death and Survival	apoptosis	Apoptosis of tumor cell lines	4.50E-02	 	0.103	 	0.048	JUN,STAT3,CFLAR,CASP1,WWTR1,TNFRSF10B	6	
+Cellular Development, Nervous System Development and Function, Tissue Development	differentiation	Differentiation of neurons	4.50E-02	 	-1.330	 	-0.715	INSM1,THRA,SPAG9,BNIP2,CNR1,CHRDL1,IL6,ACTR3,STAT3,PRNP,FN1,HES5,ITGB1,CEBPB,HES1,TAL1	16	
+Cell Morphology, Cellular Assembly and Organization, Cellular Development, Cellular Function and Maintenance, Cellular Growth and Proliferation, Embryonic Development, Nervous System Development and Function, Organismal Development, Tissue Development	branching	Branching of neurites	4.61E-02	 	-1.021	 	-0.450	EIF4EBP2,NRP2,EZR,CNR1,MAGI2,IL6,ACTR3,STAT3,PRNP,SEPTIN11,ITGB1,PTGS2,PDIA3,CALD1	14	
+Behavior	learning	Learning	4.62E-02	 	-0.391	 	-0.019	JUN,PTGS2,ITGB1,CNR1,TARDBP	5	
+Inflammatory Disease, Neurological Disease, Skeletal and Muscular Disorders	multiple sclerosis	Multiple Sclerosis	4.77E-02	 	 	 	 	CNR1,PDIA3,STMN1	3	
+Nervous System Development and Function	myelination	Myelination of central nervous system	4.77E-02	 	 	 	 	THRA,GPR17,IL6ST	3	
+Cell Death and Survival, Neurological Disease, Organismal Injury and Abnormalities	apoptosis	Apoptosis of brain cells	4.81E-02	 	0.100	 	0.107	JUN,PRNP,PTGS2,EP300,GCLM,CASP2,RPS3	7	
+Tissue Morphology	quantity	Quantity of stem cells	4.94E-02	Decreased	-2.219	 	-1.720	STAT3,FN1,ITGB1,EDNRB,IL6	5	
+Auditory and Vestibular System Development and Function, Cellular Development, Cellular Growth and Proliferation, Embryonic Development, Nervous System Development and Function, Organ Development, Organismal Development, Tissue Development	formation	Formation of hair cells	4.95E-02	 	 	 	 	HES5,HES1	2	
+Auditory and Vestibular System Development and Function, Nervous System Development and Function, Organ Morphology, Tissue Morphology	quantity	Quantity of outer hair cells	4.95E-02	 	 	 	 	HES5,HES1	2	
+
+Tox Functions for My Projects->Adult_WM_vs_GM->WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM
+Categories	Functions	Diseases or Functions Annotation	p-Value	Predicted Activation State	Activation z-score	Notes	Bias-corrected z-score	Molecules	# Molecules	
+Heart Failure	failure	Failure of heart	3.75E-02	 	 	 	 	PTGS2	1	
+
+Regulator Effects for My Projects->Adult_WM_vs_GM->WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM
+Consistency Score	Node Total	Regulator Total	Regulators	Target Total	Target Molecules in Dataset	Disease & Function Total	Diseases & Functions	Known Regulator-Disease/Function Relationships
+2.449	8	1	TNF	6	CASP1,CEBPB,IL1R1,IL6,PTGS2,SERPINE1	1	Activation of cells	0% (0/1)	
+Networks for My Projects->Adult_WM_vs_GM->WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM
+ID	Analysis	Molecules in Network	Score	Focus Molecules	Top Diseases and Functions	
+1	WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	ADAM17,ADAM19,CEBPB,CLDN5,CNR1,CXCL2,DAB2,DERL1,EIF4G2,EP300,EZR,HES1,HES5,HLA-E,ICAM1,IL1R1,IL6,IL6ST,ITGA2,ITGA6,ITGB1,JUN,MMP1,MT-CO2,MT-ND4,PDIA3,PRNP,PTGS2,SEL1L,STAT3,STMN1,TAL1,TARDBP,TM4SF1,VCAM1	57	35	Cancer, Cellular Movement, Organismal Injury and Abnormalities	
+2	WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	ATF4,BAMBI,BCAP29,BMP7,CD14,CREB1,ELAVL1,FN1,GAL,GALP,GPR19,ICAM1,IER3,IL1B,IL1RN,LRPAP1,NFIL3,NPY2R,NRP2,PIK3CG,PLAU,POMC,RRAS2,SELE,SERPINE1,SLC7A11,SSBP2,ST6GALNAC5,STC1,SYNJ2,TGFBR2,TGIF1,TREM2,WWTR1,mir-15	18	17	Cardiovascular Disease, Organismal Injury and Abnormalities, Cellular Movement	
+3	WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	ABCG2,BNIP2,CALU,CARD6,CCND1,CD55,CLTC,DNM1L,EMP1,FOXF1,FOXO3,GLI1,GNL3,IGFBP7,LATS2,MFSD14A,NANOG,NPNT,PIWIL2,PMAIP1,POU5F1,PRRC2C,PSEN1,PTEN,SART1,SOX17,ST8SIA1,TMEM127,TNFRSF10B,TP53,TP73,WWTR1,XRCC6,YY2,ZIC2	18	17	Cell Death and Survival, Cellular Development, Cellular Function and Maintenance	
+4	WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	ACSL5,ACTR3,ADORA2A,APOD,APOE,ASCL1,B4GALT1,CASP1,CCNA2,CCT5,CDKN1C,CFLAR,CGA,CX3CL1,CX3CR1,E2F1,EID1,ELOVL7,ESR1,FKBP11,HELLS,IFITM3,INSM1,INSM2,IRAK2,MAPT,NDUFV2,PEA15,RPL37,RPS16,SERPINA3,TP73,TXNDC12,TXNRD1,melatonin	18	17	Neurological Disease, Skeletal and Muscular Disorders, Cell Death and Survival	
+5	WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	C9orf72,CCNYL1,CDC42EP3,COL4A1,CREB1,CTNNB1,EDN1,EDNRB,EIF4EBP2,ETS2,FLCN,FNIP1,FNIP2,GRIA1,GRIA2,HTT,IFNAR2,IQGAP1,KDM4B,MBP,PRICKLE1,RASIP1,REEP3,RHOA,SLC1A2,SNAP23,SOX17,SOX9,SYPL1,TCF7L2,TFE3,TMEM141,TMEM70,VMP1,levodopa	16	16	Cell Death and Survival, Nervous System Development and Function, Cellular Compromise	
+6	WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	ADGRF5,ANKRD12,ANXA1,APOA4,BGN,BPNT2,CRIM1,CRY1,CRY2,DAB2,F2,FOS,GAL,GPR17,IFITM3,IL1R1,MAGI2,MGP,NCOA3,NR3C2,NSDHL,NTS,PAFAH1B1,PDK4,PGR,PLAGL1,PODXL,RHOA,S100B,SYNCRIP,TRAM1,TSC2,XAF1,beta-estradiol,progesterone	16	16	Psychological Disorders, Cellular Movement, Organismal Injury and Abnormalities	
+7	WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	ATF1,ATG7,ATP1A1,BID,CASP1,CASP2,CASP7,CC2D1A,CCNC,CDK16,CDK5,EZR,FASLG,FMNL3,FTH1,FTL,GBA,GCLM,HSPA5,IREB2,NR4A2,Nefm,PIP5K1C,RAB1A,SERPINB1,SNAP25,SNCA,SOD1,SPAG9,SYN1,TIAL1,ULK1,ZFP36L2,glutathione,iron	16	16	Neurological Disease, Organismal Injury and Abnormalities, Cell Death and Survival	
+8	WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	APOA1,ARNTL,ARPC1B,ATP6V0E1,CALD1,CARTPT,CEMIP2,CLOCK,CYCS,FABP7,FGF1,GAST,HTT,IDH3A,MBNL1,MYB,MYLK,NACA,PAK2,PAX6,PDPK1,PKN2,PPARGC1A,PRKCD,PRKCG,RGS4,SEL1L,SOX2,ST8SIA1,TBC1D9,THRA,TIA1,TNS3,XRCC6,ZNF830	16	16	Embryonic Development, Organismal Development, Cell Cycle	
+9	WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	24-hydroxycholesterol,ABCB1,ABCG1,ABCG2,AP4E1,APP,CLTC,CX3CR1,DKK1,DLG4,DNM1L,EEF2,ERBB2,FKBP1A,GLUL,GNAO1,GRM5,H2AJ,HNRNPC,IFI16,IL18,NPC1,NSF,PRDX1,PRKCA,PRKCE,PRNP,RANBP9,RPS3,SEPTIN11,SIAH1,TNFRSF10B,TPM3,Tpm1,UBE2K	15	15	Cell Death and Survival, Nervous System Development and Function, Tissue Morphology	
+10	WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	APC,APLN,CASP8,CD274,CD93,CDH5,CTNNB1,CYP1B1,Ccl7,DAG1,DDX20,DKK1,DRP2,FMR1,GJB2,IFNG,KCTD12,LAMC2,LEF1,MAP2K1,MYCT1,PANX1,PCDH8,PECAM1,PLAU,PRX,S100A9,SAMHD1,SMAD3,SND1,ST3GAL6,TGFB2,TLR3,UTRN,mir-21	13	14	Cellular Development, Cellular Function and Maintenance, Cellular Growth and Proliferation	
+11	WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	A2M,APOE,APP,AZI2,BDNF,CASK,CRKL,Ca2+,DLG4,FLT1,FYN,GRIN1,GRIN2A,GRIN2B,GSK3B,ITGB1,LRP1,MAPT,MIB2,MMP9,NFATC3,PLAT,PSEN1,PTGR1,PTPRE,RAPGEF1,RBBP6,RELN,SHC1,SLK,SRF,TGFB1,WNT1,beta-estradiol,levodopa	8	10	Cell-To-Cell Signaling and Interaction, Nervous System Development and Function, Cell Morphology	
+12	WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	CHRDL1,HDAC4	1	1	Developmental Disorder, Ophthalmic Disease, Organismal Injury and Abnormalities	
+13	WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	EGR3,HEG1	1	1	Cardiovascular System Development and Function, Organ Development, Skeletal and Muscular System Development and Function	
+14	WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	CDC73,PHF6	1	1	Developmental Disorder, Hereditary Disorder, Neurological Disease	
+15	WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	HOXD10,TFPI	1	1	Carbohydrate Metabolism, Cellular Growth and Proliferation, Drug Metabolism	
+16	WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	PSMB4,PSMD8	1	1	Gene Expression, RNA Damage and Repair, RNA Post-Transcriptional Modification	
+17	WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	ASPH,ZFYVE27	1	1	Cellular Assembly and Organization, Cellular Function and Maintenance, Hereditary Disorder	
+18	WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	ASF1A,HIRA	1	1	Infectious Diseases, Developmental Disorder, Embryonic Development	
+19	WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM	COQ4,PARL,TTC19	1	1	Hereditary Disorder, Metabolic Disease, Organismal Injury and Abnormalities	
+
+My Lists for My Projects->Adult_WM_vs_GM->WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM
+My Lists	 -log(p-value)	Ratio	Molecules 
+
+Tox Lists for My Projects->Adult_WM_vs_GM->WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM
+Ingenuity Toxicity Lists	 -log(p-value)	Ratio	Molecules 
+Renal Necrosis/Cell Death	5.31E00	4.87E-02	UBE2J1,SEL1L,TNFRSF10B,SLK,STAT3,CFLAR,PTGR1,IER3,ITGB1,FLT1,CASP2,CASP7,CARD8,TARDBP,PAK2,EZR,CASP1,ABCG2,SIAH1,STMN1,PRNP,EMP1,CEBPB,PTGS2,PKN2,ICAM1,PMAIP1,BGN
+Hepatic Fibrosis	5.19E00	6.19E-02	COL4A1,IFNAR2,ITGA6,CNR1,IL6,TBC1D9,ABCG2,TGFBR2,FN1,IGFBP7,SEC11A,CAMLG,PTPRE,CDC42EP3,GCLM,XYLT2,ICAM1,MMP1,BGN
+Oxidative Stress	4.28E00	1.35E-01	JUN,STAT3,IL6,GCLM,PRDX1,ICAM1,VCAM1
+Increases Liver Hepatitis	3.91E00	1.01E-01	JUN,STAT3,IL1R1,LATS2,CNR1,CASP1,SERPINE1,IL6
+Increases Glomerular Injury	3.63E00	7.46E-02	JUN,SLK,ITGB1,CEBPB,PTGS2,FLT1,WWTR1,IL6,ICAM1,CYP1B1
+Genes associated with Chronic Allograft Nephropathy (Human)	3.41E00	2.11E-01	COL4A1,FN1,ICAM1,VCAM1
+Liver Proliferation	2.99E00	5.18E-02	JUN,ITGA6,CNR1,EDNRB,IL6,IL6ST,NFATC3,TGFBR2,CFLAR,ITGB1,CEBPB,PTGS2,FLT1
+Cardiac Hypertrophy	2.72E00	4.32E-02	JUN,THRA,FKBP1A,EP300,IL6,IL6ST,NFATC3,ADAM17,STAT3,FN1,IER3,PTGS2,RAB1A,SERPINE1,FNIP1,MMP1
+Increases Liver Hyperplasia/Hyperproliferation	2.71E00	6.72E-02	JUN,IQGAP1,TGFBR2,STAT3,PRNP,PTGS2,TXNRD1,IL6
+Hypoxia-Inducible Factor Signaling	2.71E00	8.7E-02	UBE2J1,JUN,UBE2H,FLT1,EP300,ASPH
+VDR/RXR Activation	2.56E00	8.11E-02	SERPINB1,CCNC,CEBPB,EP300,HES1,NCOA3
+Acute Renal Failure Panel (Rat)	2.42E00	9.09E-02	JUN,FKBP1A,CXCL2,IL6,VCAM1
+NRF2-mediated Oxidative Stress Response	2.28E00	4.95E-02	JUN,GSTO1,FTL,RRAS2,EP300,TXNRD1,PIK3C2B,UBE2K,GCLM,PRDX1
+Increases Liver Damage	2.23E00	6.98E-02	STAT3,IL1R1,CASP1,SERPINE1,IL6,IL6ST
+Persistent Renal Ischemia-Reperfusion Injury (Mouse)	1.94E00	1.2E-01	MGP,CXCL2,VCAM1
+Increases Transmembrane Potential of Mitochondria and Mitochondrial Membrane	1.92E00	8.51E-02	CFLAR,IL6,ICAM1,CASP7
+Liver Necrosis/Cell Death	1.91E00	4E-02	JUN,STAT3,CFLAR,LATS2,IER3,CEBPB,PTGS2,FKBP1A,SERPINE1,IL6,IL6ST,CASP7
+Cardiac Fibrosis	1.8E00	4.18E-02	JUN,ADAM17,STAT3,FN1,ITGB1,PTGS2,FLT1,SERPINE1,UTRN,BGN
+Primary Glomerulonephritis Biomarker Panel (Human)	1.75E00	1.82E-01	IER3,SERPINE1
+Aryl Hydrocarbon Receptor Signaling	1.72E00	4.9E-02	JUN,GSTO1,EP300,CCNA2,IL6,CYP1B1,NCOA3
+PPARα/RXRα Activation	1.71E00	4.52E-02	JUN,TGFBR2,RRAS2,IL1R1,EP300,PDIA3,IL6,NCOA3
+Recovery from Ischemic Acute Renal Failure (Rat)	1.55E00	1.43E-01	COL4A1,MGP
+TGF-β Signaling	1.46E00	5.26E-02	JUN,TGFBR2,RRAS2,EP300,SERPINE1
+Pro-Apoptosis	1.46E00	7.89E-02	CASP2,CASP7,TNFRSF10B
+p53 Signaling	1.43E00	5.15E-02	JUN,EP300,PIK3C2B,PMAIP1,TNFRSF10B
+NF-κB Signaling	1.36E00	4.12E-02	TGFBR2,RRAS2,IL1R1,FLT1,EP300,PIK3C2B,AZI2
+Increases Cardiac Proliferation	1.3E00	5.48E-02	STAT3,RAB1A,IL6,NACA
+TR/RXR Activation	1.18E00	5E-02	THRA,EP300,PIK3C2B,NCOA3
+Increases Renal Proliferation	1.16E00	3.95E-02	JUN,STAT3,ITGB1,CEBPB,PTGS2,IL6
+Increases Renal Damage	1.08E00	4.6E-02	IL1R1,ITGB1,IL6,ICAM1
+Mechanism of Gene Regulation by Peroxisome Proliferators via PPARα	1.01E00	4.35E-02	JUN,IL1R1,PTGS2,EP300
+LXR/RXR Activation	9.99E-01	4.3E-02	IL1R1,PTGS2,ABCG1,IL6
+Hepatic Stellate Cell Activation	8.68E-01	5.88E-02	TGFBR2,IL6
+Increases Liver Steatosis	7.77E-01	3.54E-02	JUN,CNR1,CASP1,ABCG1
+Cytochrome P450 Panel - Substrate is a Xenobiotic (Human)	6.88E-01	8.33E-02	CYP1B1
+Cytochrome P450 Panel - Substrate is a Sterol (Human)	6.57E-01	7.69E-02	CYP1B1
+Cytochrome P450 Panel - Substrate is a Sterol (Mouse)	6.57E-01	7.69E-02	CYP1B1
+Cytochrome P450 Panel - Substrate is a Sterol (Rat)	6.57E-01	7.69E-02	CYP1B1
+Cytochrome P450 Panel - Substrate is a Xenobiotic (Rat)	6.29E-01	7.14E-02	CYP1B1
+Increases Depolarization of Mitochondria and Mitochondrial Membrane	6.29E-01	7.14E-02	PRNP
+Glutathione Depletion - Phase II Reactions	6.29E-01	7.14E-02	GSTO1
+Renal Glomerulus Panel (Human)	6.03E-01	6.67E-02	PODXL
+Cytochrome P450 Panel - Substrate is a Xenobiotic (Mouse)	5.79E-01	6.25E-02	CYP1B1
+Long-term Renal Injury Anti-oxidative Response Panel (Rat)	5.79E-01	6.25E-02	GCLM
+Xenobiotic Metabolism Signaling	5.73E-01	2.55E-02	GSTO1,FTL,RRAS2,EP300,PIK3C2B,IL6,CYP1B1
+Nongenotoxic Hepatocarcinogenicity Biomarker Panel	5.56E-01	5.88E-02	SEL1L
+LPS/IL-1 Mediated Inhibition of RXR Function	5.23E-01	2.6E-02	JUN,GSTO1,IL1R1,ACSL5,ABCG1
+Increases Heart Failure	4.97E-01	5E-02	CASP1
+Positive Acute Phase Response Proteins	4.8E-01	4.76E-02	SERPINE1
+Increases Cardiac Dysfunction	4.65E-01	3.12E-02	TGFBR2,EP300
+Reversible Glomerulonephritis Biomarker Panel (Rat)	4.48E-01	4.35E-02	XYLT2
+Hepatic Cholestasis	4.33E-01	2.47E-02	JUN,IL1R1,IRAK2,IL6
+Decreases Transmembrane Potential of Mitochondria and Mitochondrial Membrane	4E-01	2.5E-02	CASP2,PMAIP1,TNFRSF10B
+Anti-Apoptosis	3.94E-01	3.7E-02	BNIP2
+Decreases Depolarization of Mitochondria and Mitochondrial Membrane	3.39E-01	3.12E-02	CSTB
+Fatty Acid Metabolism	2.96E-01	2.25E-02	ACSL5,CYP1B1
+Cell Cycle: G2/M DNA Damage Checkpoint Regulation	2.1E-01	2E-02	EP300
+PXR/RXR Activation	2E-01	1.92E-02	IL6
+RAR Activation	0E00	1.69E-02	JUN,EP300,MMP1
+Mitochondrial Dysfunction	0E00	1.86E-02	MT-CO2,NDUFV2,MT-ND4
+Cardiac Necrosis/Cell Death	0E00	1.74E-02	IQGAP1,STAT3,CASP1,IL6,IL6ST
+Increases Renal Nephritis	0E00	1.82E-02	IL6
+
+My Pathways for My Projects->Adult_WM_vs_GM->WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM
+My Pathways	 -log(p-value)	Ratio	Molecules 
+
+Analysis Ready Molecules for My Projects->Adult_WM_vs_GM->WM_vs_GM_A2B5_Final - 2020-12-23 05:29 PM
+ID	Symbol	Expr Log Ratio	Expr p-value
+ABCG1	ABCG1	-1.05253018053821	0.0270256986832014
+ABCG2	ABCG2	-1.68546775990703	0.0187596700101204
+ABHD12	ABHD12	1.36452144579905	0.0187596700101204
+ABRACL	ABRACL	-1.12468726225678	0.0349179730063875
+ACSL5	ACSL5	-1.76303561648676	0.0141419772329685
+ACTR2	ACTR2	-0.845350227953688	0.0328557339637858
+ACTR3	ACTR3	-0.595222792260008	0.0328557339637858
+ACVRL1	ACVRL1	-1.22875549844835	0.0403089567360536
+ADAM17	ADAM17	-0.52812674715015	0.0439865832848236
+ADAM19	ADAM19	-1.46053949897366	0.0227281038079047
+ADGRF5	ADGRF5	-2.40980459934569	0.0144127255078825
+ADGRL4	ADGRL4	-1.92923397737743	0.0221122158166994
+ANKRD12	ANKRD12	0.650056069416953	0.0350379475442577
+AP4E1	AP4E1	-0.74141949045211	0.043960582205754
+APOL3	APOL3	-1.86005364037191	0.0401635932222916
+ARFIP1	ARFIP1	-0.802548698632663	0.0249148554911986
+ARHGEF26	ARHGEF26	-1.4970930907041	0.0227281038079047
+ARL8B	ARL8B	-1.18177782912141	0.0373811399342775
+ARPC1B	ARPC1B	-1.28182926608781	0.0230503153544118
+ARPC3	ARPC3	-0.750167738242862	0.0257694049367069
+ASF1A	ASF1A	-0.857073260425464	0.0303735168188736
+ASPH	ASPH	-0.981217235625354	0.046722315663797
+ATF1	ATF1	1.3595469439135	0.0227281038079047
+ATP11C	ATP11C	-1.28931683861783	0.0187596700101204
+ATP6V0E1	ATP6V0E1	-0.716794222844445	0.0404935502535451
+AZI2	AZI2	0.975029043796934	0.0236063899320649
+B4GALT1	B4GALT1	-1.38277034930365	0.0288286856769069
+BAMBI	BAMBI	0.862260243229573	0.0262547684902737
+BCAP29	BCAP29	-1.22134667763492	0.0170402076380964
+BGN	BGN	0.9950116010753	0.0145571753713705
+BNIP2	BNIP2	-0.662697047944029	0.0268626157760347
+BOD1	BOD1	0.621875779155358	0.0245011004374221
+IMPAD1	BPNT2	-0.85589007536629	0.0328557339637858
+C1orf43	C1orf43	-1.02961914993849	0.0350761717546779
+C1orf54	C1orf54	-1.24121191472366	0.0293715707427289
+C2CD4B	C2CD4B	-1.88149722892656	0.0221122158166994
+C9orf72	C9orf72	-0.919526084365655	0.0272737419413114
+CALD1	CALD1	-0.771916550228742	0.0328557339637858
+CALU	CALU	-0.714975389481339	0.0392738720328736
+CAMLG	CAMLG	1.33012961449122	0.0380359896916828
+CARD6	CARD6	-1.85951907494158	0.0483188158128482
+CARD8	CARD8	-0.928311345024847	0.0419605530279645
+CASP1	CASP1	-1.70544536456916	0.0240991496924312
+CASP2	CASP2	-0.618948735153698	0.0497372205670895
+CASP7	CASP7	-1.5851481247527	0.0328557339637858
+CCDC69	CCDC69	-1.20933341373556	0.0471203204724716
+CCNA2	CCNA2	0.727754284166118	0.0413316938419708
+CCNC	CCNC	-0.555519021799596	0.0465366726844662
+CCT5	CCT5	-0.828122138363886	0.0328557339637858
+CD55	CD55	-1.26286816931243	0.0249148554911986
+CD93	CD93	-1.55259151403473	0.0397348304628911
+CD99	CD99	-1.50718075057982	0.0452549270438051
+CDC42EP3	CDC42EP3	-1.66398507171556	0.0227281038079047
+CDC73	CDC73	-1.36160634049238	0.0395425867850752
+CDH5	CDH5	-1.04649781597574	0.0499871288747396
+CDK16	CDK16	-0.761661414117942	0.0471203204724716
+CEBPB	CEBPB	-1.18044737044716	0.0245011004374221
+CEMIP2	CEMIP2	-1.35617069904426	0.0277495253827114
+CEP19	CEP19	1.73884505935355	0.0473208712838411
+CFLAR	CFLAR	-1.27407818054524	0.0395425867850752
+CHRDL1	CHRDL1	2.88213172095738	0.00715445527776153
+CLDN5	CLDN5	-1.16436246767137	0.0328557339637858
+CLIC1	CLIC1	-1.36449489854149	0.020779253227259
+CLN5	CLN5	0.878710948602922	0.046722315663797
+CMTM6	CMTM6	-1.29221848927639	0.0221122158166994
+CNR1	CNR1	1.78330224731201	0.00715445527776153
+COBL	COBL	1.11440353125996	0.0237762011712414
+COBLL1	COBLL1	-2.24757847943843	0.0145571753713705
+COL4A1	COL4A1	-2.1717661871807	0.0145571753713705
+COPS2	COPS2	0.932207946154168	0.0255862378722627
+CRIM1	CRIM1	-1.16065070814883	0.0187596700101204
+CRY1	CRY1	0.951614720668305	0.0187596700101204
+CSTB	CSTB	-0.959103764000338	0.0452549270438051
+CXCL2	CXCL2	-1.23514437931494	0.0328557339637858
+CYP1B1	CYP1B1	-4.0172549922511	0.0153950617722225
+DAB2	DAB2	-1.25736514580068	0.0245706402892712
+DDX20	DDX20	1.09455508290659	0.0328557339637858
+DENR	DENR	-0.639368013120222	0.046722315663797
+DERL1	DERL1	-1.23116523378215	0.0459679564155506
+DHX30	DHX30	1.24454468903161	0.0432467637631008
+DUSP3	DUSP3	-0.98756863390587	0.0494197166556513
+EDNRB	EDNRB	-1.19255181662504	0.0328557339637858
+EID1	EID1	0.75018792126358	0.0428506592983698
+EIF3I	EIF3I	-0.817078945065234	0.0328557339637858
+EIF4EBP2	EIF4EBP2	-0.917176222052927	0.0413316938419708
+EIF4G2	EIF4G2	1.53943274395241	0.0257694049367069
+ELOVL7	ELOVL7	-1.56699140204574	0.0293715707427289
+EMP1	EMP1	-2.02931303552254	0.0187596700101204
+EP300	EP300	0.622960173255992	0.0328557339637858
+ETS2	ETS2	-1.62476203858591	0.0203734557003546
+EZR	EZR	-0.701087613072202	0.0286103173208486
+FAM124B	FAM124B	-2.3398364367212	0.0245011004374221
+FAM193A	FAM193A	0.50812221821154	0.0348726489917189
+FGD5	FGD5	-1.23849333300162	0.0389622603872162
+FGFBP3	FGFBP3	1.0463572911323	0.0252305064941191
+FKBP1A	FKBP1A	-0.741613254349046	0.0471203204724716
+FLI1	FLI1	-1.97369441839377	0.00332130656605315
+FLT1	FLT1	-1.93867508674747	0.0249148554911986
+FMNL3	FMNL3	-0.962592266970473	0.043739811038404
+FN1	FN1	-1.43292469813059	0.0153950617722225
+FNIP1	FNIP1	1.75529541391429	0.0419605530279645
+FNIP2	FNIP2	-1.17574900295696	0.0227281038079047
+FOXF1	FOXF1	-2.09253464076972	0.0287404321715241
+FTL	FTL	-1.10381457050817	0.0446426369810432
+GBE1	GBE1	-0.760769694171008	0.0272737419413114
+GCLM	GCLM	-1.93694537377831	0.0328557339637858
+GGCX	GGCX	1.01844296993059	0.0428506592983698
+GIMAP6	GIMAP6	-1.48632784101521	0.0392738720328736
+GLRX5	GLRX5	0.906407228037441	0.0272737419413114
+GPAT3	GPAT3	-1.9195004656397	0.0180479915171529
+GPR17	GPR17	1.62372327892227	0.0411788163589164
+GPR19	GPR19	2.33766326691829	0.00490150682554391
+GPR4	GPR4	-1.38923589948054	0.0350379475442577
+GSTO1	GSTO1	-0.996249322810932	0.0272737419413114
+H2AFJ	H2AJ	1.33913871254448	0.0328557339637858
+HDGFL3	HDGFL3	-1.88553834614266	0.029809767011133
+HEG1	HEG1	-0.770644392554283	0.0494582424667178
+HES1	HES1	2.29851469131979	0.00332130656605315
+HES5	HES5	3.3973747353265	1.88873614791308E-4
+HLA-E	HLA-E	-1.48695375014326	0.0298636523838199
+HNRNPC	HNRNPC	-0.697390287650078	0.0350379475442577
+IAH1	IAH1	-0.577158604497491	0.0349179730063875
+ICAM1	ICAM1	-1.7505801394952	0.0328557339637858
+IDH3A	IDH3A	-1.03826722717012	0.0221122158166994
+IER3	IER3	-1.40072669813258	0.0328557339637858
+IFI16	IFI16	-1.28915626426158	0.0471316648419585
+IFNAR2	IFNAR2	-1.01982165219058	0.0373811399342775
+IGFBP7	IGFBP7	-0.864174278142777	0.0328557339637858
+IL1R1	IL1R1	-1.56195420306056	0.0272737419413114
+IL6	IL6	-1.90503259605583	0.0477502235504717
+IL6ST	IL6ST	-0.756937989766332	0.0395425867850752
+INSM1	INSM1	2.2229829397979	0.0200719595235403
+INSM2	INSM2	2.36219792118774	0.029809767011133
+IQGAP1	IQGAP1	-1.31417554391471	0.0419605530279645
+IRAK2	IRAK2	-1.09598009830381	0.0328557339637858
+IREB2	IREB2	-0.86277375574481	0.0413316938419708
+ITGA2	ITGA2	-1.55485321577358	0.0453209685465658
+ITGA6	ITGA6	-1.24251971694933	0.0227281038079047
+ITGB1	ITGB1	-1.54087854372173	0.0450676070565125
+JUN	JUN	0.991284807034106	0.0200719595235403
+KCTD12	KCTD12	-1.85496760456408	0.0250001909326549
+KDM4B	KDM4B	0.950829082737498	0.0453209685465658
+KDSR	KDSR	1.15197777306105	0.0350379475442577
+KPNA5	KPNA5	0.829572240085715	0.0475275091262434
+LAMC2	LAMC2	-2.06561508489266	0.0484646365675499
+LATS2	LATS2	-0.90090490874198	0.0327886906972507
+LEF1	LEF1	-1.98287231452479	0.00737007836998988
+LSM12	LSM12	-1.01285590639518	0.0443535523347545
+LUZP1	LUZP1	-1.04329817002221	0.0328557339637858
+H2AFY	MACROH2A1	-0.991967487549724	0.0453209685465658
+MAGI2	MAGI2	0.882039468766676	0.0447853556410205
+MBNL1	MBNL1	-0.745030242832955	0.0240991496924312
+MECOM	MECOM	-1.7075197264348	0.0272737419413114
+MEG3	MEG3	1.47263795988144	0.0328557339637858
+MFSD14A	MFSD14A	0.594034133242634	0.0446210707694061
+MGP	MGP	-3.0138665282298	0.0141419772329685
+MIB2	MIB2	1.14854536706722	0.0348726489917189
+MKRN1	MKRN1	1.63045393893397	0.0221122158166994
+MMP1	MMP1	-4.46051182505947	0.0227281038079047
+MOB1A	MOB1A	-1.06022032358652	0.0328557339637858
+MPZL2	MPZL2	-2.16553701966891	0.0227281038079047
+COX2	MT-CO2	-0.688731008669169	0.0428506592983698
+ND4	MT-ND4	-0.819866166107346	0.0277495253827114
+MTMR9	MTMR9	-0.706093399162642	0.0187596700101204
+MYCT1	MYCT1	-1.41945733975741	0.0471203204724716
+MYLK	MYLK	-0.794456742088575	0.0328557339637858
+NACA	NACA	1.16977203295263	0.0411788163589164
+NCOA3	NCOA3	-1.01861225330712	0.0446153674076169
+NDUFV2	NDUFV2	-0.694238286562586	0.0272737419413114
+NFATC3	NFATC3	-0.712395827396151	0.0480359051912688
+NFIL3	NFIL3	0.975539719067971	0.0153950617722225
+NKTR	NKTR	-0.792900031291062	0.0249148554911986
+NPNT	NPNT	-2.67121917671763	0.0227281038079047
+NRP2	NRP2	-1.70989024213191	0.046722315663797
+NSDHL	NSDHL	1.17868813796647	0.0471203204724716
+OAZ1	OAZ1	-0.97187493499044	0.0272737419413114
+PAK2	PAK2	-0.774757455249847	0.0349179730063875
+PANX1	PANX1	-1.87242381085487	0.0333615081375074
+PARL	PARL	-0.772550113683605	0.0475275091262434
+PCBP2	PCBP2	-0.612341237188852	0.0471203204724716
+PCDH8	PCDH8	1.28551803888862	0.0187596700101204
+PCIF1	PCIF1	1.05899754898934	0.029809767011133
+PCMT1	PCMT1	0.605386907725492	0.0349179730063875
+PDIA3	PDIA3	-0.664882356679156	0.0413316938419708
+PECAM1	PECAM1	-1.95113660735262	0.0102781864061719
+PGD	PGD	-1.49097486667352	0.0350379475442577
+PGF	PGF	-1.27318358422366	0.043960582205754
+PGM3	PGM3	-0.832410430395485	0.0404935502535451
+PIK3C2B	PIK3C2B	-0.726834806933836	0.0471203204724716
+PKN2	PKN2	-1.32484146443357	0.0153950617722225
+PMAIP1	PMAIP1	-1.80124023237561	0.0187596700101204
+PODXL	PODXL	-1.27713507795145	0.0245011004374221
+PPIP5K2	PPIP5K2	-0.858798174592677	0.0245011004374221
+PRDX1	PRDX1	-0.819063211561151	0.0125664296238713
+PRICKLE1	PRICKLE1	1.60741823356525	0.0125664296238713
+PRNP	PRNP	0.587443702429441	0.0419605530279645
+PRRC2C	PRRC2C	-0.690966309107568	0.032735147680335
+PSMB4	PSMB4	-0.848482082427452	0.0327886906972507
+PTBP3	PTBP3	-1.2142193491502	0.0353759081275274
+PTGR1	PTGR1	-1.16142023313689	0.0221122158166994
+PTGS2	PTGS2	-2.80725034659302	0.0187596700101204
+PTPRE	PTPRE	1.51315494131883	0.0250001909326549
+RAB1A	RAB1A	-1.82250878423275	0.0125664296238713
+RAB27A	RAB27A	-0.992254947003234	0.00737007836998988
+RAI14	RAI14	-1.47286028191455	0.0227281038079047
+RAPGEF1	RAPGEF1	-1.02666726178855	0.0413316938419708
+RASIP1	RASIP1	-1.55572905863388	0.0446153674076169
+RASSF3	RASSF3	-1.59253359499724	0.0141419772329685
+RBBP6	RBBP6	1.43497460084439	0.0447853556410205
+RBIS	RBIS	1.1264743284882	0.0452549270438051
+RNF149	RNF149	-0.832240540282784	0.0187596700101204
+RPE	RPE	-1.12324177718008	0.0274077826596038
+RPL37	RPL37	1.26800013512563	0.0268626157760347
+RPS16	RPS16	-0.819267726388823	0.0348726489917189
+RPS21	RPS21	0.839177058305806	0.029809767011133
+RPS3	RPS3	-0.568918802075762	0.0454003465537154
+RRAS2	RRAS2	-1.42290801649443	0.0432467637631008
+RREB1	RREB1	-1.24819360556443	0.0249148554911986
+RSL1D1	RSL1D1	0.928526060297067	0.0328557339637858
+SAMHD1	SAMHD1	1.27639027461563	0.00737007836998988
+SEC11A	SEC11A	-0.6319765912999	0.0328557339637858
+SEC23IP	SEC23IP	-0.727464759591419	0.0392738720328736
+SEL1L	SEL1L	-0.664092380790954	0.0339220327580911
+SELE	SELE	-2.80431125886432	0.0272737419413114
+SEPTIN11	SEPTIN11	-1.11664951916283	0.0278759363257105
+SERPINB1	SERPINB1	-1.17778928691612	0.0227281038079047
+SERPINE1	SERPINE1	-1.71257629333523	0.0428506592983698
+SHISA9	SHISA9	1.93987093687191	0.00341348409231925
+SIAH1	SIAH1	0.855604719834915	0.033100415096871
+SLC39A8	SLC39A8	-1.26945797616909	0.0221122158166994
+SLC41A2	SLC41A2	1.31404824578224	0.0350379475442577
+SLC49A4	SLC49A4	-0.847553464687895	0.0248231069074349
+SLC7A11	SLC7A11	-2.42421358602434	0.0145571753713705
+SLFN11	SLFN11	-1.3748429564702	0.0194344546935173
+SLK	SLK	-0.675580610936809	0.0499871288747396
+SMIM10L1	SMIM10L1	1.4460531133285	0.029809767011133
+SNAP23	SNAP23	-0.71092707164798	0.0328557339637858
+SPAG9	SPAG9	-0.571918319136989	0.0498008562805317
+SPCS2	SPCS2	-0.713386850333497	0.029809767011133
+SRGN	SRGN	-1.93550551207842	0.0250001909326549
+SRSF1	SRSF1	0.780897604191291	0.0409845327849705
+SSBP2	SSBP2	0.570812755334515	0.043960582205754
+SSR1	SSR1	-0.977505292861922	0.0221122158166994
+ST3GAL6	ST3GAL6	-0.994853351871631	0.0413207439805469
+STAT3	STAT3	-0.802919282444559	0.0327886906972507
+STC1	STC1	-2.12778230099545	0.0404935502535451
+STMN1	STMN1	2.31488064437423	0.0389622603872162
+SUSD6	SUSD6	-1.13398547741627	0.0303735168188736
+SWAP70	SWAP70	-1.5029981350019	0.0145571753713705
+SYNCRIP	SYNCRIP	1.55356339587753	0.0145571753713705
+SYNJ2	SYNJ2	-1.48763149857277	0.0272737419413114
+TAL1	TAL1	-2.07580721388872	0.00841676886368411
+TARDBP	TARDBP	0.940836997562821	0.0447853556410205
+TBC1D9	TBC1D9	-0.853712109819385	0.0399601908922046
+TBCEL	TBCEL	-1.26094122137263	0.0328557339637858
+TCAF1	TCAF1	1.2977940640441	0.0470975654461469
+TES	TES	-1.80185937341328	0.00239884140391404
+TFPI	TFPI	-2.14216801623055	0.0187596700101204
+TGFBR2	TGFBR2	-1.72665539360144	0.0239826885786112
+TGOLN2	TGOLN2	-1.11722274789453	0.012643529734487
+THRA	THRA	0.836157530632054	0.0298076934255733
+TIA1	TIA1	0.99569965885416	0.0200950649341783
+TIAL1	TIAL1	0.962903099408854	0.0409090992862302
+TIFA	TIFA	-1.04861490792801	0.0319055093596781
+TM4SF1	TM4SF1	-1.49352981618536	0.0237762011712414
+TMEM127	TMEM127	-0.861441955794566	0.0187596700101204
+TMEM70	TMEM70	-1.24166197395596	0.0221122158166994
+TMOD3	TMOD3	-1.39610233440353	0.018783420822631
+TNFRSF10B	TNFRSF10B	-1.24157210378263	0.0145571753713705
+TNS3	TNS3	1.05008924646094	0.0272737419413114
+TPM3	TPM3	-0.770460590062102	0.0272737419413114
+TRAM1	TRAM1	-0.929164668407273	0.0187596700101204
+TXNDC12	TXNDC12	-0.855749948233286	0.0249148554911986
+TXNRD1	TXNRD1	-1.09635795103865	0.029809767011133
+U2SURP	U2SURP	-0.658752907877671	0.0397984643623711
+UBE2H	UBE2H	-1.47889847504953	0.0465366726844662
+UBE2J1	UBE2J1	-1.09193061464243	0.0221122158166994
+UBE2K	UBE2K	-0.744794902545439	0.0380359896916828
+UBE2Z	UBE2Z	-1.20876705699711	0.029809767011133
+UFD1	UFD1	-0.768900015182707	0.0447853556410205
+USP53	USP53	-1.33494994558454	0.0328557339637858
+UTRN	UTRN	-1.52908673834591	0.00941371985664961
+VCAM1	VCAM1	-1.8198291289514	0.0257694049367069
+VMP1	VMP1	-1.81791767732418	0.0339220327580911
+WWTR1	WWTR1	-1.73267407378485	0.0272737419413114
+XYLT2	XYLT2	-0.867975048205341	0.0428506592983698
+ZBTB2	ZBTB2	0.881051606744208	0.0411788163589164
+ZFP36L2	ZFP36L2	0.834554947078374	0.0428506592983698
+ZIC2	ZIC2	-1.18163151267188	0.0399601908922046
+ZNF776	ZNF776	0.704190254066422	0.0286103173208486
+ZNF830	ZNF830	1.27464447936867	0.0274077826596038
+ZPR1	ZPR1	-0.86306900865317	0.0392738720328736
+

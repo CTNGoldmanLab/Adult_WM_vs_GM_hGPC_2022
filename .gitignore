@@ -37,3 +37,10 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# Others
+Adult_WM_vs_GM_hGPC_2020.Rproj
+output/*
+Panels/*
+Adult_WM_vs_GM_hGPC_Analysis_files
+Network

@@ -1,0 +1,10 @@
+Source,Target,pVal,zScore,type,comparison
+TGF-β Signaling,BAMBI,1.51,-0.447213,Canonical,WM_vs_GM_GPC
+TGFB1 Signaling,CHRDL1,5.032452,-1.229,Upstream,WM_vs_GM_GPC
+TGFBR2 Signaling,BAMBI,1.714443,0,Upstream,WM_vs_GM_GPC
+TGF-β Signaling,CHRDL1,1.51,-0.447213,Canonical,WM_vs_GM_GPC
+TGFB1 Signaling,BAMBI,5.032452,-1.229,Upstream,WM_vs_GM_GPC
+TGFBR2 Signaling,CHRDL1,1.714443,0,Upstream,WM_vs_GM_GPC
+Differentiation of oligodendrocyte precursor cells,IGFBP7,1.863279,0,Functional,WM_vs_GM_GPC
+CTNNB1 Signaling,IGFBP7,1.772113,1.387,_Upstream,WM_vs_GM_GPC
+Differentiation of oligodendrocyte precursor cells,ETS2,1.863279,0,Functional,WM_vs_GM_GPC
